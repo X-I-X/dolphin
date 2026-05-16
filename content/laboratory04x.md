@@ -1,0 +1,22 @@
+# PAGE: St. Thomas Laboratory
+URL: http://www.johnclilly.com/laboratory04x.html
+
+---
+
+# St. Thomas Laboratory
+
+> The first basic needs are air and sea water at the proper temperatures, The water temperature is 80 degrees F to 84 degrees F. A satisfactory air temperature is 80 degrees F to 90 degrees F. Both air and water must be continuously flowing through the facility. New clean tropical sea water must wash through the facility rapidly enough to dispose of wastes and maintain the temperature. A natural flow as the result of wind and wave action and tidal action is better than electrical (or other power) pumps.
+> 
+> ![](http://www.johnclilly.com/gifs/marpeter09.gif)
+> 
+> There are several distinctive1y separate necessary areas in the facility. These areas must be immediately adjacent and have non-dangerous boundaries between them. The areas themselves are as follows: a deep-water area, a shallow-water area, and a "no-water" or dry area.
+> 
+> The deep-water area is for the dolphin to relax as dolphins relax, i.e., if he wishes to swim at high speed or do fast three-dimensional maneuvers, he is free to do so. If he wishes to leap out of the water it is deep enough for the takeoff and for the landing. This area has water that is too deep for the human to be comfortable with the dolphin for long periods of time.
+> 
+> The shallow water is the area in which the results of interest are obtained. This area is shallow enough for the human to walk comfortably and yet deep enough for the dolphin to swim comfortably. This is the zone of encounter of man and dolphin: the mutually adapting area. Each of the dyed compromise something of their comfort in their cooperation with one another in this area. At any time the dolphin can leave this area. He can safely and comfortably scoot into the deeper water area. And at any time the human participant can safely and easily move into the "no-water" area.
+> 
+> The no-water area has two sub-areas within it. The one immediately adjacent to the shallow water may be called the damp area. It is inevitable that splashes from the dolphin's actions put water into the damp area. It is also inevitable that the human in shedding the water acquired in the shallow water will shed it in the first part of dry area available In the other part of the human area there must be a definitely dry area, i.e., with no sea water allowed anywhere in this area. This is the zone of human relaxation as a human. It is comfortable, is so designed for human beings. It is an area which is totally uncomfortable, anxiety-provoking and sometimes even dangerous for a dolphin.
+> 
+> It is convenient to think of two additional areas adjacent to these. At the deep-water end of the facility should be the sea itself. This is where dolphins come from in the first place. At the other end of the dry area is all of civilization on dry land. This is where the human participants come from and return to for refreshment from the isolation from humans.
+> 
+> If we could only arrange for the dolphin to return to the sea for his refreshment in a similar manner, we would consider the facility ideal. Some of each of the above areas should be inside, out of the tropical' sunshine, and some should be outside, in the trade winds and in the tropical sunshine, subject to all the vagaries of the weather of the tropics.

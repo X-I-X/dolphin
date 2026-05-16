@@ -1,0 +1,38 @@
+# PAGE: Mapping of the Brain
+URL: http://www.johnclilly.com/mapping.html
+
+---
+
+# Mapping of the Brain
+
+In order not to injure the brain substance itself, six hundred and ten electrodes were placed on the cerebral cortex of one macaque monkey. Being able to stimulate the brain through these electrodes without putting the monkey under anesthesia showed that the whole monkey brain was sensory and motor. Every part of the cerebral cortex of the monkey gave responses in some muscle group in the periphery appropriate to that area of cortex
+
+John's extensive studies on the cerebral cortex were then amplified by stimulation of deeper brain structures. Previous techniques of stimulating deeper structures involved removing fairly large areas of skull, placing the electrodes, and closing the holes with plastic. His previous work with these techniques showed him that the brain was injured by its brief swelling through these holes. He decided that removal of the skull was also a damaging factor in the experiments. He utilized a new technique he called the sleeve-guide technique.
+
+With this technique electrodes could be implanted in the brain without using anesthesia. During the process of implantation, there was no more pain to the animal than that of a needle prick in the scalp.
+
+Short lengths of hypodermic needle tubing equal in length to the thickness of the skull were quickly pounded through the scalp into the skull. These stainless steel guides furnished passageways for the insertion of electrodes into the brain to any desired distance and at any desired location from the cortex down to the bottom of the skull.
+
+As many sleeve guides could be implanted as were desired Because of the small size of the sleeve guides, the scalp quickly recovered from the small hole made in it, and the sleeve guide remained imbedded in the bone for months to years. At any time he desired the investigator could palpate the scalp and find the location of each of the sleeve guides.
+
+Once one was found he inserted a needle through the scalp into the sleeve giude, down through the bone, and penetrated the aura. After withdrawing the needle the investigator placed a small, sharp electrode in the track made by the needle and pressed the electrode (at the end of a long steel tube with a small diameter) through the scalp, through the skull, through the aura, and down into the substance of the brain itself to any desired depth.
+
+It was found that monkeys subjected to this procedure rernained in perfectly good health, with no infection and no detectable aftereffects of the operations.
+
+Since the brain itself has no pain fibers, insertion of the electrode deeper into the brain was not discernible by the monkey. Using these electrodes and the safe, "balanced-pair" wave form, systems were found in several monkeys' brains which when stimulated caused pain, fear, anxiety, and anger. These systems were found to exist mainly along the midplane of the brain, deep, near the bottom of the skull.
+
+Surrounding these were matching systems, which caused pleasure, sexual arousal, and highly positive motivations on the part of the monkey.
+
+![](http://www.johnclilly.com/gifs/electrodes.gif)
+
+Those systems which caused pain, fear, anxiety, and anger were celled "negatively reinforcing" systems or, in the shorthand of the laboratory, "negative systems." Those which caused -pleasure and positive motivations were called "positively reinforcing" or, in the shorthand, "positive systems."
+
+As the electrode was pushed into the brain one millimeter at a time and each site stimulated in turn, a technique was worked out to decide which site gave positive effects and which gave negative effects. Electronic apparatus was arranged which would turn on or turn off an electrical stimulator. The monkey was given two radio frequency switches, one that would turn the stimulation on and one that would turn it off. When the electrode was in a positive region, it was found that the monkey would quickly learn to touch the "on" switch to turn a short pulse-train on in those sites. In negative spots within the brain, when the investigator turned the stimulus on the monkey quickly learned to stop it with the "off', switch.
+
+The results in both the positive and negative systems were reproducible within the same monkey and between monkeys. By extensive mapping, involving as many as six hundred sites within a given monkey brain, the positive and negative systems were thoroughly worked out, the locations determined satisfactorily, and the relations between the sites in the neuroanatomy of the brain described in detail. The pain systems were mapped, the sexual systems were mapped.
+
+It was found that in male monkeys there were separate systems for erection, for ejaculation, and for orgasm. With an electrode in the separate orgasm system, the monkey would stimulate this region and go through a total orgasm without erection and without ejaculation. Given the apparatus by which he could stimulate himself once every three minutes for twenty-four hours a day, the monkey stimullated the site and had orgasms every three minutes for sixteen hours and then slept eight hours and started again the next day.
+
+In the negative systems it was found that, if the apparatus was set up to automatically stimulate the monkey once every three minutes for twenty-four hours a day, it would shut off the stimulus each time during the -twenty-four hours. If this stimulus was continued for too many hours, the monkey became sicker and sicker; finally unable to push the switch, it headed toward its own death. This clinical picture coulld be changed by allowing the monkey to stimulate the positive systems which completely reversed the "dying" syndrome.
+
+[![](http://www.johnclilly.com/gifs/dolphinback.gif)](http://www.johnclilly.com/outline.html#MIND)

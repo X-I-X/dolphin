@@ -1,0 +1,224 @@
+# PAGE: Scientific Briefs
+URL: http://www.johnclilly.com/scientificx.html
+
+---
+
+# Scientific Briefs
+
+1\. Borsook, Henry, J. Dubnoff and John C. Lilly. 1941 "The Formation of Glycocyamine in Man and Its Urinary Excretion." 7. Biol. Chem. 138:405-419
+
+2\. Lilly, John C. 1942. "The Electrical Capacitance Diaphragm Manometer." Rev. Sci. Instrum. 13:34-37
+
+3\. Lilly, John C., and Thomas F. Anderson. 1943. "A Nitrogen Meter for Measuring the Nitrogen Fraction in Respiratory Cases." Nat'l. Research Council, CMR-CAM Report #299 PB 95882 Library of Congress. Photoduplication Service, Publication Board Project, Washington 25, DC.
+
+4\. Lilly, John C. 1944. "Peak Inspiratory Velocities During Evercise at Sea Level" in Handbook of Respiratory Data in Aviation. Nat'l. Research Council, Wash., DC.
+
+5\. Lilly, John C. and Thomas F. Anderson. 1944. "Preliminary Studies on Respiratory Gas Mixing with Nitrogen as a Tracer Gas." Am.7. Med. Sci. 208 :136
+
+6\. Lilly, John C., John R. Pappenheimer and Glenn A. Millikan. 1945. "Respiratory Flow Rates and the Design of Oxygen Equipment " Am.J. Med. Sci. 210:810
+
+7\. Lilly; John C. 1946. "Studies on the Mixing of Gases Within the Respiratory System with a New Type Nitrogen Meter." (Abstract) Fed. Proc. 5:64
+
+8\. Lilly, John C., Victor Legallais and Ruth Cherry. 1947. "A Variable Capacitor for Measurements of Pressure and Mechanical Displacements: A Theoretical Analysis and Its Experimental Evaluation." J. Appl. Phys. 18 :613-628
+
+9\. Lilly, John C. 1950. "Flow Meter for Recording Respiratory Flow of Human Subjects" in Methods in Medical Research. Vol. 2:113-122. J. H. Comroe, Jr., Ed. Year Book Publishers, Inc., Chicago
+
+10\. Lilly, John C. 1950. "Physical Methods of Respiratory Gas Analysis" in Methods of Medical Research. Vol. 2:131-138. J. H. Comroe, Jr., Ed. Year Book Publishers, Inc., Chicago
+
+10A. Lilly, John C. 1950. "A 25-Channel Recorder for Mapping the Electrical Potential Gradients of the Cerebral Cortex: Electro-Iconograms." Electrical Engineering. A.I.E.E., Annual Index to Electrical Engineering 69:68-69
+
+11\. Lilly, John C 1950. "Respiratory System: Methods: Gas Analysis." in Medical Physics. Vol. 2:845-855. O. Glasser, Ed. Year Book Publishers, Inc., Chicago
+
+12\. Lilly, John C. 1950. "Mixing of Gases Within Respiratory System with a New Type of Nitrogen Meter." Am. J. Physiol. 161 :342-351
+
+13\. Lilly, John C. 1950. "A Method of Recording the Moving Electrical Potential Gradients in the Brain. The 25-Channel Bavatron and Electro-Iconograms." (A.I.E.E.-IRE Conf. on Electronic Instrumentation in Nucleonics and Medicine). Am. Inst. of Electr. Eng., New York. S-33:37-3
+
+14\. Lilly, John C. 1950. "Moving Relief Maps of the Electrical Activity of Small (1 cm2) Areas of the Pial Surface of the Cerebral Cortex." EEG. Clin. Neurophysiol. 2:358
+
+15\. Chambers, William W., George M. Austin, and John C. Lilly. 1950. "Positive Pulse Stimulation of Anterior Sigmoid and Precentral Gyri; Electri Current Threshold Dependence on Anesthesia, Pulse Duration and Repetition Frequency." (Abstract). Fed. Proc. 9:21-22
+
+16\. Lilly, John C. and William W. Chambers. 1950. "Electro-lconograms from the Cerebral Cortex (cats) at the Pial Surface: 'Spontaneous' activity and Responses to Endorgan Stimuli Under Anesthesia." (Abstract). Fed. Proc. 9:78
+
+17\. Lilly, John C. 1950. "Moving Relief Maps of the Electrical Activity of Small (1 cm2) Areas of the Pial Surface of the Cerebral Cortex. Anesthetized Cats and Unanesthetized Monkeys" (Abstract). Proc. 18th Int'l. Physiol. Congress, Copenhagen. P. 340-351
+
+18\. Lilly, John C. 1951. "Equipotential Maps of the Posterior Ectosylvian Area and Acoustic I and II of the Cat During Responses and Spontaneous Activity" (Abstract). Fed. Proc. 10:84
+
+19\. Lilly, John C. and Ruth Cherry. 1951. "An Analysis of Some Responding and Spontaneous Forms Found in the Electrical Activity of the Cortex." Am J. Med. Sci. 222:116-117
+
+20\. Lilly, John C., and Ruth Cherry. 1951. "Traveling Waves of Action and of Recovery During Responses and Spontaneous Activity in the Cerebral Cortex." Am. J. Physiol. 167:806
+
+21\. Lilly, John C. 1952. "Forms and Figures in the Electrical Activity Seen in the Surface of the Cerebral Cortex" in The Biology of Mental Health and Disease (1950 Milbank Mem. Fund Symposium). Paul B. Hoeber, Inc., New York. P. 205-219
+
+22\. Lilly, John C., George M. Austin, and William W. Chambers. 1952. "Threshold Movements Produced by Excitation of Cerebral Cortex and Efferent Fibers with some Parametric Regions of Rectangular Current Pulses: (Cats and Monkeys)." J. Neurophysiol 15:319-341
+
+23\. Lilly, John C. and Ruth Cherry. 1952. "New Criteria for the Division of the Acoustic Cortex into Functional Areas" (Abstract). Fed. Proc. 11:94
+
+24\. Lilly, John C., and Ruth Cherry. 1952. "Criteria for the Parcelation of the Cortical Surface into Functional Areas" (Abstract). EEG. Ctin. Neurophysiol. 4:385
+
+25\. Lilly, John C. 1953. "Significance of Motor Maps of the Sensorimotor Cortex in the Conscious Monkey." (Abstract). Fed. Proc. 12:87
+
+26\. Lilly, John C. 1953. "Discussion of Paper by Lawrence S. Kubie; Some Implications for Psychoanalysis of Modern Concepts of the Organization of the Brain." Psychoanalytic Q. 22:21-68
+
+27\. Lilly, John C. 1953. Review of book by W. Ross Ashby: Design for a Brain. John Wiley and Sons, Inc, New York. Rev. of Sci. Instrum. 24:313
+
+28\. Lilly, John C. 1953. "Functional Criteria for the Parcelation of the Cerebral Cortex." Abstracts of Communications, XIX Int'l. Physiol. Cong., Montreal, Canada. P. 564
+
+29\. Lilly, John C. 1953. Recent Developments in EEG Techniques: Discussion. (Third Int'l. EEG Cong. 1953. Symposia). EEG Clin. Neurophysiol. Suppl. 4:38-40
+
+30\. Lilly, John C. 19541. Critical Discussion of Research Project and Results at Conference in June 1952 by Robert G. Heath and Research Group at Tulane Univ. in Robert G. Heath, et al. "Studies in Schizophrenia: A Multidisciplinary Approach to Mind-Brain Relationships." P. 528-532
+
+31\. Lilly, John C. 1954. "Instantaneous Relations Between the Activities of Closely Spaced Zones on the Cerebral Cortex: Electrical Figures During Responses and Spontaneous Activity." Am. J. Physiol. 176:493-504
+
+32\. Lilly, John C., and Ruth Cherry. 1954. "Surface Movements of Click Responses from Acoustic Cerebral Cortex of Cat: Leading and Trailing Edges of a Response Figure." J. Neurophysiol. 17:521-532
+
+33\. Lilly, John C. 1954. Discussion, Symposium on Depth Electrical Recordings in Human Patients. Am. EEG Soc. Neurophysiol. 6:703-704
+
+34\. Lilly, John C., and Ruth Cherry. 1955. "Surface Movements of Figures in Spontaneous Activity of Anesthetized Cerebral Cortex: Leading and Trailing Edges. J. Neurophysiol. 18:18-32
+
+35\. Lilly, John C., John R. Hughes, and Ellsworth C. Alvord, Jr., and Thelma W. Galkin. 1955. Brief. "Noninjurious Electric Waveform for Stimulation of the Brain." Science 121:468-469
+
+36\. Lilly, John C., John R. Hughes, and Ellsworth C. Alvord, Jr., and Thelma W. Galkin. 1955. "Motor Responses from Electrical Stimulation of Sensorimotor Cortex in Unanesthetized Monkey with a Brief, Noninjurious Waveform" (Abstract). Fed. Proc. 14:93
+
+37\. Lilly, John C. 1955. "An Anxiety Dream of an 8-Year-Old Boy and Its Resolution." Bull Phila. Assn. for Psychoanal. 5:1-4
+
+38\. Lilly, John C. 1955. Review of book by Robert G. Heath, et al. 1954. Studies in Schizophrenia: A Multidisciplinary Approach to Mind-Brain Relationships. Harvard Univ. Press. EEG Clin. Neurophysiol. 7:323-324
+
+39\. Lilly, John C., John R. Hughes, Thelma W. Galkin and Ellsworth C. Alvord, Jr. 1955. "Production and Avoidance of Injury to Brain Tissue by Electrical Current at Threshold Values." EEG Clin. Neurophysiol. 7:458
+
+40\. Lilly, John C. 1956. "Effects of Physical Restraint and of Reduction of Ordinary Levels of Physical Stimuli on Intact Healthy Persons." 13-20 & 44, in Illustrative Strategies for Research on Psychopathology in Mental Health, Symposium No. 2. Group for the Advancement of Psychiatry. New York. P. 47
+
+41\. Lilly, John C., John R. Hughes, and Thelma W. Galkin. 1956. "Gradients of Motor Function in the Whole Cerebral Cortex of the Unanesthetized Monkey" (Abstract). Fed. Proc. 15
+
+42\. Lilly, John C., John R. Hughes, and Thelma W. Galkin. 1956. "Physiological Properties of Cerebral Cortical Motor Systems of Unanesthetized Monkey" (Abstract). Fed. Proc. I5
+
+43\. Lilly, John C. 1956. "Mental Effects of Reduction of Ordinary Levels of Physical Stimuli on Intact. Healthy Persons" in Psychiat. Res. Reports 5. American Psychiatric Assn., Wash., DC. P. 1-9
+
+44\. Lilly, John C., John R. Hughes, and Thelma W. Galkin. 1956. "Some Evidence of Gradients of Motor Function in the Whole Cerebral Cortex of the Unanesthetized Monkey" (Abstract). Proc. 20th Int'l. Physiol. Congress. P. 567-568
+
+45\. Lilly, John C. 1956. "Distribution of 'Motor' Functions in the Cerebral Cortex in the Conscious, Intact Monkey." Science. 124 :937
+
+46\. Lilly, John C. 1957. "Some Thoughts on Brain-Mind and on Restraint and Isolation of Mentally Healthy Subjects. (Comments on Biological Roots of Psychiatry by Clemens F. Benda, M.D.)" J. Phila. Psychiatric Hosp. 2:16-20
+
+47\. Lilly, John C. 1957. "True Primary Emotional State of Anxiety-Terror-Panic in Contrast to a 'Sham' Emotion or 'Pseudo-Affective' State Evoked by Stimulation of the Hypothalamus" (Abstract). Fed. Proc. 16:81
+
+48\. Lilly, John C. 1957. "Learning Elicited by Electrical Stimulation of Subcortical Regions in the Unanesthetized Monkey." Science. 125:748
+
+49\. Lilly, John C. 1957. Review of book by Donald A. Scholl. 1956. The Organization of the Cerebral Cortex. Methuen and Co., Ltd., London and John Wiley and Sons, Inc., New York. Science. 125:1205
+
+50\. Lilly, John C. 1957. "A State Resembling 'Fear-Terror-Panic' Evoked by Stimulation of a Zone in the Hypothalamus of the Unanesthetized Monkey." Excerpta Medica. Special Issue, Abstracts of Fourth Int'l. Cong. EEG and Clin. Neurophysiol. and 8th Meeting of the Int'l. League Against Epilepsy. Brussels. P. 161
+
+51\. Lilly, John C. 1957. "'Stop' and 'Start' Systems" in Neuropharmacology. Transactions of the Fourth Conference, Josiah Macy, Jr., Foundation, Princeton, N.J. (L.C. 55-9013). P. 153-179
+
+52\. Lilly, John C. 1958. "Learning Motivated by Subcortical Stimulation: The 'Start' and 'Stop' Patterns of Behavior." 705-721. Reticular Formation of the Brain. H. H. Jasper, et al. Eds. Little, Brown and Co., Boston. P. 766
+
+53\. Lilly, John C. 1958. "Correlations Between Neurophysiological Activity in the Cortex and Short-Term Behavior in the Monkey," in Biological and Biochemical Bases of Behavior (Univ of Wis. Symposium. 1055) H. F. Harlow and C. N. Woolsey, Ed. Univ. of Wis. Press, Madison, Wis. P. 83-100
+
+54\. Lilly, John C. 1958. "Development of a Double-Table-Chair Method of Restraining Monkeys for Physiological and Psychological Research." J. Appl. Physiol. 12:134-136
+
+55\. Lilly, John C. 1958. "Simple Percutaneous Method for Implantation of Electrodes and/or Cannulae in the Brain." (Abstract.) Fed. Proc. 17:97
+
+56\. Lilly, John C. 1958. "Electrode and Carmulae Implantation in the Brain by a Simple Percutaneous Method." Science. 127:1181-1182
+
+57\. Lilly, John C. 1958. "Some Considerations Regarding Basic Mechanisms of Positive and Negative Types of Motivations." Am. J. Psychiat. 115 498-504
+
+58\. Lilly, John C. 1958. "Rewarding and Punishing Systems in the Brain" in The Central Nervous System and Behavior. Transactions of the First Conference, Josiah Macy, Jr., Foundation, Princeton, N.J. (L.C. 59-5052.) P. 247-303
+
+59\. Lilly, John C. 1959. "'Stop' and 'Start' Effects in The Central Nervous System and Behavior." Transactions of the Second Conference, Josiah Macy, Jr., Foundation and National Science Foundation, Princeton, N.J. (L.C. 59-5052.) P. 56-112
+
+60\. Lilly, John C. 1960. "Learning Motivated by Subcortical Stimulation: The 'Start' and The 'Stop' Patterns of Behavior. Injury and Excitation of the Brain by Electrical Currents." Chapter 4 in Electrical Studies on the Unanesthetized Brain. E. R. Ramsey and D. S. O'Doherty, Eds, Paul B. Hoeber, Inc., New York. P. 78-105
+
+61\. Lilly, John C. 1960. Contributing Discussant-The Central Nervous System and Behavior. Transactions of the Third Conference Josiah Macy, Jr., Foundation, Princeton, N.J. (L.C. 59-5052.)
+
+62\. Lilly, John C. 1960. "The Psychophysiological Basis for Two Kinds of Instincts." J. Am. Psychoanalyt. Assoc. Vol. 8: P. 659-670
+
+63\. Lilly, John C. 1960. "Large Brains and Communication." Paper Presented to the Philadelphia Assoc. for Psychoanalysis.
+
+64\. Lilly, John C. 1961. "Injury and Excitation by Electric Currents." Chapter 6 in Electrical Stimulation of the Brain. Daniel E. Sheer, Ed., Univ. of Texas Press for Hogg Foundation for Mental Health, Austin, Texas. P. 60-64
+
+65\. Lilly, John C. and Jay T. Shurley. 1961. "Experiments in Solitude in Maximum Achievable Physical Isolation with Water Suspension of Intact Healthy Persons." (Symposium, USAF Aerospace Medical Center, San Antonio, Texas, 1960.) in Psychophysiological Aspects of Space Flight. Columbia Univ. Press, New York. P. 238-247
+
+66\. Lilly, John C., and Alice M. Miller. 1961. "Sounds Emitted by the Bottlenose Dolphin." Science. Vol. 133, P. 1689-1693
+
+67\. Lilly, John C., and Alice M. Miller. 1961. "Vocal Exchanges Between Dolphins." Science. Vol. 134: P. 1873-1876
+
+68\. Lilly, John C. 1961. "Problems of Physiological Research on the Dolphin, Tursiops" (Abstract). Fed. Proc. 20:1
+
+69\. Lilly, John C. 1961. "The Biological Versus Psychoanalytic Dichotomy." Bul. of The Phila Assoc. for Psychoanal. Vol. 11: P. 116-119
+
+71\. Lilly, John C. 1962. The Effect of Sensory Deprivation on Consciousness. Man's Dependence on the Earthly Atmosphere, Karl E. Schaefer, Ed. MacMillan Co., New York. (L.C. 61-9079.) P. 93-95. (Proceedings 1st Int'l Symp. on Submarine and Space Medicine, New London, Conn., 1958)
+
+72\. Lilly, John C., and Alice M. Miller. 1962. "Operant Conditioning of the Bottlenose Dolphin with Electrical Stimulation of the Brain." J. Comp. & Physiol. Psychol. Vol. 55 P. 73-79
+
+73\. Lilly, John C. 1962. Cerebral Dominance in Interhemispheric Relations and Cerebal Dominance. Vernon Mountcastle, M.D., Ed. Johns Hopkins Press, Inc. Baltimore, Md. P. 112-114
+
+74\. Lilly, John C., and Alice M. Miller. 1962. Production of Humanoid Sounds by the Bottlenose Dolphin. (Unpublished manuscript.)
+
+75\. Lilly, John C. 1962. A New Laboratory for Research on Delphinids. Assoc. of Southeastern Biologists Bul. Vol. 9, P. 3-4
+
+76\. Lilly, John C. 1962. "Interspecies Communication" in Yearbook of Science and Technology. McGraw-Hill. New York. P. 279-281
+
+77\. Lilly, John C. 1962. "The 'Talking' Dolphins" in The Book of Knowledge Annual. Society of Canada Limited, Grolier, Inc. (This article was updated in the 1969 Yearbook covering the year 1968, pp. 8-15.)
+
+78\. Lilly, John C. 1962. "Vocal Behavior of the Bottlenose Dolphin." Proc. Am. Philos. Soc. Vol. 106. P. 520-529
+
+79\. Lilly, John C. 1962. "Consideration of the Relation of Brain Size to Capability for Language Activity as Illustrated by Homo sapiens and Tursiops truncatus (Bottlenose Dolphin)." Electroenceph. Clin. Neurophysiol. 14, no. 3:424
+
+80\. Lilly, John C. 1962. Sensory World Within and Man and Dolphin. (Lecture to the Laity, New York Acad. of Med., 1962.) Scientific Report no. CRI-0162
+
+81\. Lilly, John C. 1963. "Critical Brain Size and Language." Perspectives in Biol. & Med. Vol. 6. P. 246-255
+
+82\. Lilly, John C. 1963. "Distress Call of the Bottlenose Dolphin: Stimuli and Evoked Behavioral Responses." Science. Vol. 139. P. 116-118
+
+83\. Lilly, John C. 1963. "Productive and Creative Research with Man and Dolphin." (Fifth Annual Lasker Lecture, Michael Reese Hospital and Medical Center, Chicago, III., 1962). Arch. Gen. Psychiatry. Vol. 8. P. 111-116
+
+84\. Lilly, John C., and Ashley Montagu. 1963. Modern Whales, Dolphins and Porpoises, as Challenges to Our Intelligence in The Dolphin in History by Ashley Montagu and John C. Lilly. A Symposium given at the William Andrews Clark Memorial Library, Univ. of Calif., Los Angeles, Calif. P. 31-54
+
+85\. Lilly, John C. 1964. "Animals in Aquatic Environment. Adaptation of Mammals to the Ocean" in Handbook of Physiology. Environment 1, Am. Physiol. Soc., Wash., D.C. P. 741-757
+
+86\. Jacobs, Myron S., Peter J. Morgane, John C. Lilly and Bruce Campbell. 1964. "Analysis of Cranial Nerves in the Dolphin." Anatomical Record Vol. 148. P. 379
+
+87\. Lilly, John C. 1964. "Airborne Sonic Emissions of Tursiops truncatus (M)" (Abstract) J. AcousticaI Soc. of Amer. Vol. 36. P. 5, 1007
+
+88\. Lilly, John C. 1965. "Report on Experiments with the Bottlenose Dolphin." (Abstract) Proc. of the Int'l. Symp on Comparative Medicine, Eaton Laboratories, Norwich, Conn. P. 240
+
+90\. Lilly, John C. 1965. "Vocal Mimicry in Tursiops. Ability to Match Numbers and Duration of Human Vocal Bursts." Science Vol. 147 (3655). P. 300-301
+
+91\. Lilly, John C. 1966. "Sexual Behavior of the Bottlenose Dolphin in Brain and Behavior. The Brain and Gonadal Function." Vol. III. R. A. Gorski and R. E. Whalens, Eds., LICLA Forum Med. Sci., Univ. of Calif. Press, Los Angeles, Calif. P. 72-76
+
+92\. Lilly, John C. 1966. "Sonic-Ultrasonic Emissions of the Bottlenose Dolphin in Whales, Dolphins and Porpoises." Kenneth S. Norris, Ed. Proc., 1st Int'l Symp. on Cetacean Research, Wash., DC. 1963. Univ. of Calif. Press. P. 503-509
+
+93\. Lilly, John C. 1966. "The Need for an Adequate Model of the Human End of the Interspecies Communication Program." IEEE Military Electronics Conference (MIL-E-CON 9), on Communication with Extraterrestrial Intelligence, Wash., DC. 1965. IEEE Spectrum 3, no. 3: P. 159-160
+
+94\. Lilly, John C. 1966. Contributing Discussant. Proc. of Conf. on Behavioral Studies. Contractors Meeting, U.S. Army Edgewood Arsenal, Md.1965. Dept. of the Army EARL Report
+
+95\. Lilly, John C. 1966. "Research with the Bottlenose Dolphin" in Conference on the Behavioral Sciences, Proc. of Conf. on Behavioral Studies (Contractors Meeting, U.S. Army Edgewood Arsenal, Md. 1965). Dept. of the Army EARL Report
+
+96\. Lilly, John C., and Henry M. Truby. 1966. "Measures of Human-Tursiops Sonic Interactions" (Abstract). J. Acous. Soc. of Amer. Vol. 40, issue 5. P. 1241
+
+97\. Lilly, John C. 1966. "Sound Production in Tursiops truncatus (Bottlenose Dolphin)." Conference on Sound Production in Man: Section on Phonation: Control and Speech Communication, New York Acad. of Sciences. Annals of the New York Academy of Sciences. 1968
+
+98\. Lilly, John C. 1965. "Intracerebral Reward and Punishment: Implications for Psychopharmacology." Fifth Annual Meeting of American College of Neuropsychopharmacology. San Juan, Puerto Rico. 1968
+
+99\. Lilly, John C. 1967. Dolphin-Human Relationship and LSD-25 in The Use of LSD in Psychotherapy and Alcoholism. Harold Abramson, Ed. Second International Conference on the Use of LSD in Psychotherapy, South Oaks Research Foundation, Amityville, L.I. 1965. The Bobbs-Merrill Co., Inc., New York. P 47-52
+
+100\. Lilly, John C. 1967. Dolphin's Mimicry as a Unique Ability and a Step Towards Understanding in Research in Verbal Behavior and Some Neurophysiological Implications. Kurt Salzinger and Suzanne Salzinger, Eds. Conference on Verbal Behavior, N.Y.C. 1965. Academic Press, New York City. P. 21-27
+
+101\. Lilly, John C. 1967. Dolphin Vocalization in Proc. Conf. on Brain Mechanisms Underlying Speech and Language. F. L. Darley, Ed. A Symposium held at Princeton, N.J. 1965. Grune and Stratton, New York City. P. 13-20
+
+102\. Lilly, John C. 1967. Basic Problems in Education for Responsibility Caused by LSD-25. Proc. of 17th Conf. on Science, Philosophy and Religion in their Relation to the Democratic Way of Life. Clarence H. Fause, Ed. Paper presented in section on Character Education of Scientists, Engineers and Practitioners in Medicine Psychiatry and Science with Strategies for Change. Loyola Univ., Chicago, Ill. 1966
+
+104\. Lilly, John C. 1967. "Intracephalic Sound Production in Tursiops truncatus: Bilateral Sources" (Abstract). Fed. Proc. 25, no. 2.
+
+107\. Lilly, John C., Alice M. Miller, and Henry M. Truby. 1968. Reprogramming of the Sonic Output of the Dolphin: Sonic-Burst Count Matching. Miami. Communications Research Institute. Scientific Report no. CRI 0267. J. Acous. Soc. of Amer. (See number 112.)
+
+108\. Lilly, John C., Alice M. Miller, and Henry M. Truby. 1968. "Perception of Repeated Speech: Evocation and Programming of Alternate Words and Sentences." Scientific Report no. CRI 1067
+
+109\. Lilly, John C., Alice M. Miller, and Frank Grissman. 1968. "Underwater Sound Production of the Dolphin Stereo-Voicing and Double Voicing." Miami. Communications Research Institute Scientific Report no. CRI 0367
+
+110\. Truby, Henry M., and John C. Lilly. 1967. "Psychoacoustic Implications of Interspecies Communication." Miami. Communications Research Institute. J. Acous. Soc. of Amer. Vol. 42: P. 1181. S3 (Abstract.)
+
+111\. Lilly, John C., Henry M. Truby, Alice M. Miller, and Frank Grissman 1967. "Acoustic Implications of Interspecies Communication." Miami. Communications Research Institute. J. Acous. Soc. of Amer. Vol. 42: P. 1164. I10 (Abstract.)
+
+112\. Lilly, John C., Alice M. Miller, and Henry M. Truby. 1968. "Reprogramming of the Sonic Output of the Dolphin: Sonic Burst Count Matching." Jnl. of the Acoustical Society of America. Vol. 43. No. 6. P. 1412-1424
+
+125\. Lilly, John C. Off Center and Return. (In preparation.)

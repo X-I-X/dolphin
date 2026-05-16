@@ -1,0 +1,26 @@
+# PAGE: JANUS
+URL: http://www.johnclilly.com/janus03x.html
+
+---
+
+# JANUS
+
+As Project JANUS proceeded, John experimented privately with Joe and Rosie, attempting to communicate through channels which lay well outside the purview of the research program. These experiments were based on the leaky mind hypothesis, or on John's evolving ideas about the nature of the reality in which dolphins live.
+
+He was coming to the conclusion that through their vocalizations dolphin create a three-dimensional world of sound, a virtual reality of sonic images resembling a kind of "cetacean television," constantly broadcast at one another. The dolphins, after all, live more in an environment of sound than one of sight. Since they communicate conically, John suspected that such communications create a shared, simulated reality. The situation is somewhat analogous to what might happen if humans could communicate by creating images directly in one another's minds or, perhaps, to the world of images humans generate through electronic communication. According to John's view, by concentrating on simple verbalization, the research program was only tapping into a tiny segment of the dolphins' available communication channels.
+
+It occurred to him that the virtual realities in which dolphins are immersed might resemble the internal realities he had explored. The internal realities are always operating at a low level in the human brain, constrained by a person's participation\_ John called it "interlock"\_with the external reality. With techniques such as isolation, the internal reality can be "uncoupled" from the the external reality and can thus be enhanced, made more vivid and detailed, and set free.
+
+John thought that he might be able to disconnect his internal reality from the external reality through isolation, and connect it with the virtual reality of the dolphins. To accomplish this, he had an isolation tank set up in a building next to the Project JANUS dolphin pool. This tank was equipped with underwater loudspeakers connected to receivers in the pool. He also rigged a microphone in the air above the flotation fluid in the tank. As he floated face up on the surface, he could speak into this microphone and be heard in the dolphin pool.
+
+With this setup, John spoke to the dolphins, who immediately recognized his voice and responded by producing an extraordinary phenomenon for him. They emitted sounds that produced a three- dimensional holosonic space for him, as if he were in the pool with them. Then they produced a trill that systematically resonated with different parts of his body, sweeping it from head to toe. The acoustic resonance was so perfect that it tickled his skin.
+
+Apparently the dolphins were able to effectively "visualize" the space inside John's tank, even though it was connected to their pools only by electrical wires and audio amplifiers. With this information, working through the remote audio channels, they were able to manipulate the acoustic space around John's body and present this stunning demonstration. For humans to accomplish a similar feat, they would require the most powerful computers available in the 1980s and about a year to get the programming right. But the dolphins just did it in their heads. Equally impressive was the fact that the dolphins had taken the initiative, correctly appraised this opportunity for communication, and made the required effort.
+
+In some experiments with the poolside isolation tank, John used ketamine to enhance his ability to program his internal reality. He visited both the internal reality and the extraterrestrial reality and allowed the dolphins to program his experiences. The results were so bizarre as to be utterly indescribable in terms of human consensus reality. Even a veteran explorer such as John had difficulty assimilating them afterward.
+
+In other experiments, John shut off the electronic link with the dolphins and, from his internal reality, invited the dolphins to program his experiences by any means available to them. This explored the assumption that dolphins could communicate with humans telepathically, which had first occurred to John in his isolation tank above the dolphin pool in the Virgin Islands lab. John conjectured that telepathic communication might use the portions of the brain's cerebral cortex that are called "silent areas," regions not apparently directly linked to any kind of physical sensation or observable muscular behavior. Since dolphins have larger silent areas than humans, John thought that they might be more readily telepathic than humans. A few humans he had met seemed to have a special rapport with dolphins that might be telepathically based. He thought that perhaps such individuals had relatively large silent areas which they could use this way.
+
+During one of these experiments, John mentally asked Joe and Rosie certain questions. In his internal reality, they appeared to respond to his questions by linking him with what he could only describe as a dolphin group-mind, which, in turn, plugged him into the whale group-mind. Completely beyond description, this experience was overwhelming. John later described his reaction: "I'm just one human, and all I can handle is one dolphin at a time!"
+
+_\--from "John Lilly, So Far"_

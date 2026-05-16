@@ -1,0 +1,8 @@
+# PAGE: CHRONOLOGICAL LIST OF DISCOVERIES ABOUT DOLPHINS
+URL: http://www.johnclilly.com/discoveries.html
+
+---
+
+# CHRONOLOGICAL LIST OF DISCOVERIES ABOUT DOLPHINS
+
+**Date** **Discovery** **1st published account** 1955 Voluntary respiration 1961 1955 Anesthesia lethal without respiratory aides 1961 1955 First respirator and first demonstration of successful anesthesia 1961 1955 [Brain size established](http://www.johnclilly.com/dolbrains.html) 1961 1957 Ability to control reactions to negative reinforcement 1962 1957 Ability to demand positive reinforcement through voicing control 1962 1957 [Distress call](http://www.johnclilly.com/dolcomm10.html) 1963 1957 [Voluntary erection of penis in male dolphin](http://www.johnclilly.com/dolsex.html) 1966 1957 Dolphin voices to demand start/stop reinforcement 1962 1957 Dolphin matches human voice 1962 1957 Ability to learn human speech sounds: counting 1962: 1968 1960 Close wet contact man/dolphin leads to learning 1961 1960 Critical brain size for control of voice for symbolic use 1961: 1963 1960 Reprogramming abilities in sonic mode: burst count matching 1965 1961 Sonic exchanges of dolphins 1961 (1957) 1963 Silent areas all parietal and larger than man's 1971 1964 First automatic respirator 1964 1964 Biocomputer theory and practice (extensions of learning theory) 1966; 1968 1964 LSD-25 abolishes avoidance behavior and increases vocalization index 1967 1965 [Stereophonation](http://www.johnclilly.com/dolcomm03.html) 1967 1965 Sonic sources: three: 2 nasal, 1 laryngeal 1967 1976 Newtonian rotatory limits determine body/head size for large brains evolution and survival 1977

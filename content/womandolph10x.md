@@ -1,0 +1,30 @@
+# PAGE: Woman and Dolphin: WEEK FIVE
+URL: http://www.johnclilly.com/womandolph10x.html
+
+---
+
+# Woman and Dolphin: WEEK FIVE
+
+> WEEKLY REPORTS--M. Howe. Written during the two and one half months' experience: July 11 to 17, 1965. Fifth Week
+> 
+> Sunday and Monday nights of this week I got very little sleep. Peter was awake and slamming tail hard on water. I tried speaking to him, playing with him . . . no good. He is restless, his tail goes "whap, whap" all night. Also during the beginning of the week I find that my play periods are changing with him. Also during the beginning of the week Peter begins having erections and has them frequently when I play with him.
+> 
+> Peter has been upstairs with me for just a month, and up until now he has not displayed his sexual excitement. I think we must learn a lesson from this.
+> 
+> I find that his desires are hindering our relationship. I can play with him for just so long now and then he gets an erection and the play/lesson is broken. I find that I cannot satisfy Peter . . . I am in the water with him and he is too rough to handle. He jams himself again and again against my legs, circles around me, is inclined to nibble . . . and is generally so excited that he cannot control his attitude toward me. I have had Peter in the same condition before, but under different circumstances. When Peter was upstairs in the Fiberglas tank he would occasionally become aroused, and I found that by taking his penis in my hand and letting him jam himself against me he would reach some sort of orgasm, mouth open, eyes closed, body shaking, then his penis would relax and withdraw.\* He would repeat this maybe two or three times and then his erection would stop and he seemed satisfied.
+> 
+> Now, however, I am completely in the water with him and because so much of my body is exposed, we cannot get into the same position as above. I am completely vulnerable to him and he pushes and shoves my legs and feet, and quite pathetically tries to satisfy himself. I can feel his mounting frustration, and he is impossible to work with following this.
+> 
+> I have decided that Peter must go downstairs with Pam and Sissy for at least a day. I think that it is only fair, after say a month with only me, that he join them for a day or so. This, I hope, will relieve his frustrations, so that we can go on working for another month. I know that dolphins have been worked with for much longer periods in isolation without a break to romp with other animals, but I feel that at a certain point one may be hindered by unsatisfied sexual needs. I would rather lose Peter for a day and have him happy than continue as we are.
+> 
+> This will be much harder to determine in the females, if in fact it does exist. When Pam comes upstairs to her tank I will give her a month and then look closely for signs of frustration or lag in her learning. This may be a very important arcd as yet unrealized step in dolphin teaching, To try and keep an animal in isolation and a learning situation beyond this point of frustration may impair learning or even set it back. Each animal may have different tolerances, or they all may be somewhat alike. With Peter, so far, it seems to be about a month. I will follow this report with a report on Peter's attitudes after he has had one or two days with Pam and Sissy.
+> 
+> Another thought I have had on this subject is whether or not it would be best for the human to somehow find a way to satisfy the dolphin's sexual needs without another dolphin. This may strengthen the bond between the dolphin and the human. It may also lead to more and more frequent "sexual periods" between the two. If Peter knows that I can satisfy his needs, he may feel free to turn any play period or lesson into a sex period . . . but if he knows that I will not have any part of his sexual needs and that once a month he will be put with Pam or Sissy, he may reduce his excitement periods with me. This would, of course, be preferable. I will try and see. This is a problem, and it must be solved . . . I cannot go on having my shins belted about by lusty little Peter. lt hurts!
+> 
+> Peter continues to improve his attitude during lessons. He is most attentive, listens as well as I ever hoped, and tries hard. I am working only on a very few words, trying to ram them home with him. He listens, repeats, listens again. He has that lack of pronunciation, but improves daily on inflection and pitch. Listening to the tapes, he could be speaking English from the general sound of it. It is just not yet comprehensible. In the middle of a cocktail party it could be considered background conversation. It has all the right "feel" of English . . . and soon it will be. I am very pleased.
+> 
+> The sea pool is done. It is painted with blue Tile-It on the sides and white Thoroseal on the bottom. It is filled and Pam and Sissy are in it and very happy. They can still leap clear out . . . I was not so sure about that with the new bottom. They love it. Sissy spends a good deal of time upside down with her nose in the sump inspecting every inch. I have not been in yet, but I went partly in one day to rub Sissy with cream; she got a bit of a sunburn. It is so nice to walk down a sloping side at the outflow rather than those steps.
+> 
+> The wall around Pam's tank is done, and painted. I had a hard time deciding on color . . . something not too bright and not too hot. I decided on black and white combination, and have done it in big stripes. It is not too dizzy looking as I feared it might be and it seems to be as cool and dim as possible. I am working on a possible scheme for the inflow there . . . if I could somehow use the outflow from the balcony into her tank . . . it would save a pump, electricity, noise, etc. It may or may not work. I am just waiting for the pump to arrive from Miami. I could put a valve on each end of the siphon to control it through that. I am sure the water would be clean enough . . . there is so much upstairs.
+> 
+> One month of the project is up . . . and well spent. I now am no longer thinking in terms of three months . . . I think in terms of forever!
