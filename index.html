@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>John C. Lilly — Hub</title>
+  <style>
+    /* ─── Reset ─── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    /* ─── Body ─── */
+    body {
+      background-color: #001166;
+      background-image: url('gifs/iwaBkg03d.gif');
+      color: #ffffff;
+      font-family: Arial, Helvetica, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding: 20px 16px 40px;
+    }
+
+    /* ─── Content wrapper ─── */
+    #content {
+      background-color: #000099;
+      background-image: url('gifs/lillyBkg2007_03.jpg');
+      background-size: cover;
+      background-position: center top;
+      background-repeat: no-repeat;
+      width: 100%;
+      max-width: 620px;
+      text-align: center;
+      padding: 24px 16px 32px;
+      border: 2px solid #0033ff;
+    }
+
+    /* ─── Header images ─── */
+    .header-imgs {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    .header-imgs img {
+      border: 0;
+      max-height: 100px;
+    }
+
+    /* ─── Nav list ─── */
+    .nav-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0;
+    }
+
+    .nav-list li {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+    }
+
+    /* ─── Divider row ─── */
+    .divider {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 3px 0;
+    }
+
+    /* ─── Links ─── */
+    .nav-list a {
+      color: #ffff00;
+      font-weight: bold;
+      font-size: 1.1rem;
+      text-decoration: none;
+      font-family: Arial, Helvetica, sans-serif;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 8px;
+      transition: color 0.15s, background 0.15s;
+    }
+
+    .nav-list a:visited {
+      color: #66ffff;
+    }
+
+    .nav-list a:hover {
+      color: #00ffff;
+      background: transparent;
+      text-shadow: 0 0 8px #00ffff;
+    }
+
+    /* ─── NEW badge ─── */
+    .new-badge {
+      border: 0;
+      vertical-align: middle;
+    }
+
+    /* ─── Bottom nav ─── */
+    .bottom-nav {
+      margin-top: 28px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 2px;
+      flex-wrap: wrap;
+    }
+
+    .bottom-nav a img {
+      border: 0;
+      transition: opacity 0.15s;
+    }
+
+    .bottom-nav a:hover img {
+      opacity: 0.8;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="content">
+
+    <!-- Header images -->
+    <div class="header-imgs">
+      <a href="cetacean.html"><img src="gifs/dolphinface3.gif" alt="Dolphin"></a>
+      <a href="john00.html"><img src="gifs/johnreflectM.gif" alt="John C. Lilly"></a>
+      <a href="interspeciesx.html"><img src="gifs/dolphinface2.gif" alt="Dolphin"></a>
+    </div>
+
+    <!-- Navigation -->
+    <ul class="nav-list">
+
+      <li>
+        <a href="thestory.html">THE STORY</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="cetacean.html">
+          <img class="new-badge" src="gifs/newbutton.gif" alt="NEW">
+          CETACEAN NATION
+        </a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="interspeciesx.html">
+          <img class="new-badge" src="gifs/newbutton.gif" alt="NEW">
+          INTERSPECIES COMMUNICATION
+        </a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="mindx.html">THE HUMAN BRAIN AND THE MIND</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="isolationx.html">ISOLATION TANKS</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="eccox.html">E.C.C.O. Earth Coincidence Control Office</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="currentx.html#CURRENT">CURRENT EVENTS</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="musicvidx.html">JCL IN MUSIC &amp; VIDEO</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="writings.html">
+          <img class="new-badge" src="gifs/newbutton.gif" alt="NEW">
+          WRITINGS of John C. Lilly
+        </a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="inventionsx.html">INVENTIONS of John C. Lilly</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="vortex.html">VORTEX of Knowledge</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="biogx.html">BIOGRAPHICAL DATA</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="maui01.html">The LILLY Residence on MAUI, Earth</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="photosx.html">PHOTO ALBUM</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="linklibrary.html">LILLY LINK LIBRARY</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="gallery.html">ART GALLERY</a>
+      </li>
+
+      <li>
+        <div class="divider"><img src="gifs/dolphinNN3.gif" alt="~"></div>
+        <a href="jcl1915-2001.html">JCL 1915-2001</a>
+      </li>
+
+    </ul>
+
+    <!-- Bottom nav -->
+    <div class="bottom-nav">
+      <a href="index.html"><img src="gifs/menuSPLASH.gif" alt="Splash"></a>
+      <a href="whatsnew.html"><img src="gifs/menuNEW.gif" alt="What's New"></a>
+      <a href="hub.html"><img src="gifs/menuHOME.gif" alt="Home"></a>
+      <a href="outline2.html"><img src="gifs/menuOUTLINE.gif" alt="Outline"></a>
+      <a href="index.html"><img src="gifs/dolphinback.gif" alt="Back"></a>
+    </div>
+
+  </div>
+
+</body>
+</html>
