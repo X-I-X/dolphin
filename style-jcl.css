@@ -638,3 +638,37 @@ h2.section-heading { margin-bottom: 12px; }
   .bio-row { flex-direction: column; gap: 4px; }
   .bio-label { min-width: unset; }
 }
+
+/* ── Mini icon slider ── */
+.icon-slider {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  vertical-align: middle;
+  overflow: hidden;
+  border-radius: 4px;
+}
+.icon-slider .icon-ai {
+  display: block;
+  transition: opacity 0.25s;
+}
+.icon-slider .icon-orig {
+  position: absolute; inset: 0;
+  display: block; width: 100%; height: 100%;
+  object-fit: contain;
+  opacity: 0;
+  transition: opacity 0.25s;
+  background: #fff;
+}
+.icon-slider:hover .icon-ai { opacity: 0; }
+.icon-slider:hover .icon-orig { opacity: 1; }
+.icon-slider::after {
+  content: '⟷';
+  position: absolute; bottom: 0; right: 0;
+  font-size: 8px; color: #fff;
+  background: rgba(10,77,140,0.5);
+  padding: 1px 3px; border-radius: 2px;
+  opacity: 0; transition: opacity 0.2s;
+  pointer-events: none;
+}
+.icon-slider:hover::after { opacity: 1; }
