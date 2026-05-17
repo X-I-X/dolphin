@@ -1,0 +1,3706 @@
+[
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinface.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinface.gif",
+    "sha256": "ad91e683c08eea97",
+    "sizeBytes": 8835,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johncrator02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johncrator02.gif",
+    "sha256": "d7a94d03823e7535",
+    "sizeBytes": 11417,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/"
+  },
+  {
+    "url": "http://www.johnclilly.com/stylesheetL01.css",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/stylesheetL01.css",
+    "sha256": "0e22481022e75c6a",
+    "sizeBytes": 2626,
+    "kind": "text/css",
+    "sourcePage": "http://www.johnclilly.com/"
+  },
+  {
+    "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0531879237494766",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+    "sha256": "aa11aa828e41364a",
+    "sizeBytes": 195060,
+    "kind": "text/javascript",
+    "sourcePage": "http://www.johnclilly.com/"
+  },
+  {
+    "url": "http://www.johnclilly.com/scriptTitle01.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/scriptTitle01.js",
+    "sha256": "108d566e2dcc26ae",
+    "sizeBytes": 115,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.johnclilly.com/"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinface3.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinface3.gif",
+    "sha256": "f95f3bae1bd60b0b",
+    "sizeBytes": 9298,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/hub.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnreflectM.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnreflectM.gif",
+    "sha256": "9acf2c9cfc22a3cb",
+    "sizeBytes": 46005,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/hub.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinface2.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinface2.gif",
+    "sha256": "5c5656164214b7ff",
+    "sizeBytes": 9299,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/hub.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinNN3.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinNN3.gif",
+    "sha256": "aa9e1a86cc5d012b",
+    "sizeBytes": 1664,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/hub.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/newbutton.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/newbutton.gif",
+    "sha256": "4293f65f5e60702e",
+    "sizeBytes": 4187,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/hub.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/menuSPLASH.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/menuSPLASH.gif",
+    "sha256": "03fdddaf244d09d2",
+    "sizeBytes": 1887,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/hub.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/menuNEW.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/menuNEW.gif",
+    "sha256": "0cf0d5e0e0203b80",
+    "sizeBytes": 2106,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/hub.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/menuHOME.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/menuHOME.gif",
+    "sha256": "adb1e5fc5df26383",
+    "sizeBytes": 5418,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/hub.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/menuOUTLINE.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/menuOUTLINE.gif",
+    "sha256": "f7d8d42db229f965",
+    "sizeBytes": 2423,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/hub.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinback.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinback.gif",
+    "sha256": "b482456e034659a3",
+    "sizeBytes": 1893,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/hub.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/scriptMenu01.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/scriptMenu01.js",
+    "sha256": "ce136ae995a745eb",
+    "sizeBytes": 4669,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.johnclilly.com/hub.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/credits02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/credits02.gif",
+    "sha256": "1fd159d21fb82955",
+    "sizeBytes": 12868,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/creditsx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/garagelogo.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/garagelogo.gif",
+    "sha256": "138559a4a9bc2aa9",
+    "sizeBytes": 1746,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/creditsx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/staff.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/staff.gif",
+    "sha256": "e690264a5b4ec0f6",
+    "sizeBytes": 36490,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/creditsx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johncrator01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johncrator01.gif",
+    "sha256": "be1f1e9c037e6c00",
+    "sizeBytes": 73325,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/lillyland00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johncrator03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johncrator03.gif",
+    "sha256": "9598caf7e7c5c736",
+    "sizeBytes": 11417,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/lillyland00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/cetaceanlogo.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/cetaceanlogo.gif",
+    "sha256": "80999e18d73d85a4",
+    "sizeBytes": 24241,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/cetacean.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/earthSpin01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/earthSpin01.gif",
+    "sha256": "6affda024e1e5d75",
+    "sizeBytes": 40921,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/cetacean.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinNN2.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinNN2.gif",
+    "sha256": "1f542c623d8c64da",
+    "sizeBytes": 8828,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/cetacean.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnmaui.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnmaui.gif",
+    "sha256": "77e0c71f2bd56e2c",
+    "sizeBytes": 40028,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/john00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/interspeciesM2.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/interspeciesM2.gif",
+    "sha256": "c5eaa883f9d8b38b",
+    "sizeBytes": 69562,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/interspeciesx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/thestory.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/thestory.gif",
+    "sha256": "b7137c20ba88d098",
+    "sizeBytes": 11403,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/thestory.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnwater02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnwater02.gif",
+    "sha256": "bba6147055a80504",
+    "sizeBytes": 58589,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/thestory.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/brainlogo3.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/brainlogo3.gif",
+    "sha256": "ed3b31c9e8310388",
+    "sizeBytes": 17910,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/mindx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/isolationlogo2.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/isolationlogo2.gif",
+    "sha256": "3d762823e21929a4",
+    "sizeBytes": 7194,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/isolationx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/eccologo03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/eccologo03.gif",
+    "sha256": "e8acf59b2a9c3575",
+    "sizeBytes": 6725,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/eccox.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/ripple05.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/ripple05.gif",
+    "sha256": "1a64659fc4af4249",
+    "sizeBytes": 839,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/eccox.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/eccoS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/eccoS.gif",
+    "sha256": "0cee91a8536431e5",
+    "sizeBytes": 4895,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/eccox.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/agents.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/agents.gif",
+    "sha256": "7f786b3086398cb2",
+    "sizeBytes": 2295,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/eccox.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/scientist96m.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/scientist96m.gif",
+    "sha256": "546d98a6a188e3ea",
+    "sizeBytes": 7705,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/currentx.html#CURRENT"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/bazaar.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/bazaar.gif",
+    "sha256": "e12b962daaaf217c",
+    "sizeBytes": 9546,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/currentx.html#CURRENT"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/01.gif",
+    "sha256": "f4dece1cb61db93e",
+    "sizeBytes": 13928,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/currentx.html#CURRENT"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/evah.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/evah.gif",
+    "sha256": "90cae5df1a102d53",
+    "sizeBytes": 8451,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/currentx.html#CURRENT"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/fractalpix02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/fractalpix02.gif",
+    "sha256": "816dee57cf70dc20",
+    "sizeBytes": 4910,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/currentx.html#CURRENT"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/plaque2.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/plaque2.gif",
+    "sha256": "56deeb6d2636023c",
+    "sizeBytes": 3373,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/currentx.html#CURRENT"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnreflect.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnreflect.gif",
+    "sha256": "270ef0267529a8cd",
+    "sizeBytes": 25979,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/musicvidx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/ymoCDS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/ymoCDS.gif",
+    "sha256": "b5a1ffa9c5d50be7",
+    "sizeBytes": 3521,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/musicvidx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/callingS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/callingS.gif",
+    "sha256": "12b666233c434ee2",
+    "sizeBytes": 3955,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/musicvidx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/melonbrainsS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/melonbrainsS.gif",
+    "sha256": "bf4583732fcc83a6",
+    "sizeBytes": 6135,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/musicvidx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/ultrasounds03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/ultrasounds03.gif",
+    "sha256": "5cf2c918055d76f8",
+    "sizeBytes": 9431,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/musicvidx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnclouds.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnclouds.gif",
+    "sha256": "18eb3f2b0175071b",
+    "sizeBytes": 22733,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/writings.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/inventions.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/inventions.gif",
+    "sha256": "c5233805055d6551",
+    "sizeBytes": 28177,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/inventionsx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/twirl02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/twirl02.gif",
+    "sha256": "93700686b9ac13eb",
+    "sizeBytes": 8714,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/inventionsx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/vortex.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/vortex.gif",
+    "sha256": "8d11b2eb2056b1c5",
+    "sizeBytes": 22790,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/vortex.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/futureComm01.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/futureComm01.JPEG",
+    "sha256": "97a594485c0b1fbf",
+    "sizeBytes": 33481,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/vortex.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/biographicalLogo01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/biographicalLogo01.gif",
+    "sha256": "2f4aeb4fdc897971",
+    "sizeBytes": 18458,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/biogx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/maui.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/maui.gif",
+    "sha256": "a711a65ec15ddb0b",
+    "sizeBytes": 18465,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/maui01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/fotoalbum.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/fotoalbum.gif",
+    "sha256": "6d0cbcca87cc2924",
+    "sizeBytes": 48434,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/photosx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillyshield01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillyshield01.gif",
+    "sha256": "355eaa39b2bdb703",
+    "sizeBytes": 7363,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/linklibrary.html"
+  },
+  {
+    "url": "http://www.seds.org/messier/large/m104.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.seds.org/messier/large/m104.gif",
+    "sha256": "bc6578c5153df7e2",
+    "sizeBytes": 135997,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/linklibrary.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillyPainting02c.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillyPainting02c.jpg",
+    "sha256": "d8dc598f525b3f81",
+    "sizeBytes": 14897,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/gallery.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinglyph.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinglyph.gif",
+    "sha256": "53115d33e4fc7970",
+    "sizeBytes": 9070,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/gallery.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/TRIANGLE/john6040.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/TRIANGLE/john6040.gif",
+    "sha256": "d6504513162f74d9",
+    "sizeBytes": 2538,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/gallery.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnbubbles01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnbubbles01.gif",
+    "sha256": "88473ee404805023",
+    "sizeBytes": 16002,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/gallery.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/trispiral01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/trispiral01.gif",
+    "sha256": "625ee6b90382a926",
+    "sizeBytes": 6078,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/gallery.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnart01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnart01.gif",
+    "sha256": "2dd589f9ab51767f",
+    "sizeBytes": 9781,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/gallery.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/80thbday01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/80thbday01.gif",
+    "sha256": "271467499caa09aa",
+    "sizeBytes": 5145,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/gallery.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/cyclone.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/cyclone.gif",
+    "sha256": "a08e16723ae885b6",
+    "sizeBytes": 34540,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/whatsnew.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/mind.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/mind.gif",
+    "sha256": "a6e70943db39e8a2",
+    "sizeBytes": 36368,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/whatsnew.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/pulsmini.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/pulsmini.gif",
+    "sha256": "ebe487c24c29f71e",
+    "sizeBytes": 20502,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/cogitatex.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinlogo.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinlogo.gif",
+    "sha256": "d3aae607dbac8e3a",
+    "sizeBytes": 10832,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dolphin01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/talking.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/talking.gif",
+    "sha256": "245ee8fa179c45e7",
+    "sizeBytes": 165516,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dolphin01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/interspecies.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/interspecies.gif",
+    "sha256": "71810628d18d20ad",
+    "sizeBytes": 15155,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dolphin01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnbrain.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnbrain.gif",
+    "sha256": "e9d3f27b6bfce8bf",
+    "sizeBytes": 33851,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/spermwhale.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/brainbody.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/brainbody.gif",
+    "sha256": "d3ced6da9f365bbd",
+    "sizeBytes": 12886,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/spermwhale.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/earthrotate.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/earthrotate.gif",
+    "sha256": "1bb5bf3d5e5c517a",
+    "sizeBytes": 14348,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/cetacean01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinbox01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinbox01.gif",
+    "sha256": "ed7ddfc19e88e74b",
+    "sizeBytes": 52682,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/weirdness.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnwizard02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnwizard02.gif",
+    "sha256": "3b9e498cbe1e8e63",
+    "sizeBytes": 16990,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/accountsx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/elvar01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/elvar01.gif",
+    "sha256": "1db3dec812985d63",
+    "sizeBytes": 16238,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/elvar00x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/mindChart01.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/mindChart01.JPEG",
+    "sha256": "fced076aaa523254",
+    "sizeBytes": 52034,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/dolphinMind03.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/pamMargaret01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/pamMargaret01.gif",
+    "sha256": "93645f59ab66c80b",
+    "sizeBytes": 44007,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/sevenDays04.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/margaretpeter3T.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/margaretpeter3T.gif",
+    "sha256": "efac72a079e6e8a5",
+    "sizeBytes": 34470,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/womandolph01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/margaretpeter4T.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/margaretpeter4T.gif",
+    "sha256": "f8af0049c67c2efe",
+    "sizeBytes": 8282,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/womandolph02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/januslogo.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/januslogo.gif",
+    "sha256": "06bc7f9a1f2f4558",
+    "sizeBytes": 9354,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/janus00x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow03.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow03.JPEG",
+    "sha256": "d1f71c65a87240a3",
+    "sizeBytes": 38131,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/futureComm40.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillywave.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillywave.gif",
+    "sha256": "e65f051e1e62cf03",
+    "sizeBytes": 12209,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/lillywavex.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/electrodes.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/electrodes.gif",
+    "sha256": "ea52daea82e5c725",
+    "sizeBytes": 41587,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/mappingx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/humanbkg02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/humanbkg02.gif",
+    "sha256": "de4bea63b207dc4c",
+    "sizeBytes": 9190,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/metaprog00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/nmrscan.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/nmrscan.gif",
+    "sha256": "b77f93930ef89a3a",
+    "sizeBytes": 98310,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/nmrscanx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/isotank02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/isotank02.gif",
+    "sha256": "e065c8b54bce78e1",
+    "sizeBytes": 59049,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tankx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/isotank03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/isotank03.gif",
+    "sha256": "7078fbb058d9a253",
+    "sizeBytes": 73087,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tankx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/tankcloseM.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/tankcloseM.gif",
+    "sha256": "72487974a4db3a4f",
+    "sizeBytes": 75150,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tankclose.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dyadicS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dyadicS.gif",
+    "sha256": "599dc846120ca0a3",
+    "sizeBytes": 2972,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dyadic01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/eccoCD.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/eccoCD.gif",
+    "sha256": "9b537c18493a58d7",
+    "sizeBytes": 75112,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/eccoCD.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/fractalpix01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/fractalpix01.gif",
+    "sha256": "2d6e4de71091e0b7",
+    "sizeBytes": 55797,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/fractalpixx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/fractalpix03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/fractalpix03.gif",
+    "sha256": "e4d1e5faa6e6690e",
+    "sizeBytes": 12908,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/fractalpixx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/australia01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/australia01.gif",
+    "sha256": "aec29bd3110e2760",
+    "sizeBytes": 72476,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/australia01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/arrowl.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/arrowl.gif",
+    "sha256": "a456fb86b67a7253",
+    "sizeBytes": 1596,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/australia01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/arrowr.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/arrowr.gif",
+    "sha256": "37e9f81508449309",
+    "sizeBytes": 1926,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/australia01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/plaque.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/plaque.gif",
+    "sha256": "c903cd8d7d87143e",
+    "sizeBytes": 61644,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/loehrx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/ymoCD.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/ymoCD.gif",
+    "sha256": "8ce3a854d2d1d1fb",
+    "sizeBytes": 48251,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/ymoCDx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/calling.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/calling.gif",
+    "sha256": "6f8803ef1d7734c4",
+    "sizeBytes": 54952,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/callingCDx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/melonbrains.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/melonbrains.gif",
+    "sha256": "4e1040b7ae1e9ec8",
+    "sizeBytes": 101742,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/melonbrainsx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/ultrasounds02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/ultrasounds02.gif",
+    "sha256": "4dd99e490355085a",
+    "sizeBytes": 74032,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/ultrasoundsx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/scientific.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/scientific.gif",
+    "sha256": "5346de46ef22370f",
+    "sizeBytes": 5649,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/scientificx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/ripple03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/ripple03.gif",
+    "sha256": "202821d3f1a3cae3",
+    "sizeBytes": 691,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/scientificx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/meltingsketch.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/meltingsketch.gif",
+    "sha256": "8774e7199c8eff46",
+    "sizeBytes": 87642,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/meltingx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/watersweep01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/watersweep01.gif",
+    "sha256": "87b9723f7833c335",
+    "sizeBytes": 59098,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/askjohn.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/neptune01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/neptune01.gif",
+    "sha256": "3f705696018dc3dd",
+    "sizeBytes": 15739,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/neptune01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/neptune02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/neptune02.gif",
+    "sha256": "0e1117b5bc5f4259",
+    "sizeBytes": 16360,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/neptune01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/neptune03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/neptune03.gif",
+    "sha256": "44d008a243765b4a",
+    "sizeBytes": 15403,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/neptune01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnwizard07.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnwizard07.gif",
+    "sha256": "2afbfd6c0e4bb498",
+    "sizeBytes": 16847,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/ceo01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnwizard05.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnwizard05.gif",
+    "sha256": "368ec83215f5f265",
+    "sizeBytes": 16553,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/ceo01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JCLmar98_04.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JCLmar98_04.gif",
+    "sha256": "0de7c1bc09f9b871",
+    "sizeBytes": 19842,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/japanTrip01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JCLmar98_03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JCLmar98_03.gif",
+    "sha256": "d3b698cbff086101",
+    "sizeBytes": 20065,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/japanTrip01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JCLmar98_09.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JCLmar98_09.gif",
+    "sha256": "d7eb94af7f84635a",
+    "sizeBytes": 20032,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/japanTrip01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/delphisData02.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/delphisData02.jpg",
+    "sha256": "f1bea25ebd3adcb9",
+    "sizeBytes": 22808,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/touchscreen00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/caltech.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/caltech.gif",
+    "sha256": "1f5b7b6d4f6da565",
+    "sizeBytes": 27745,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/caltechx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/penn.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/penn.gif",
+    "sha256": "2b3e445f2dba1acb",
+    "sizeBytes": 21089,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/pennx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/whalewind.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/whalewind.gif",
+    "sha256": "bb1ea515efee37c3",
+    "sizeBytes": 7721,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/jlhome.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/jlhome.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/jlhome.gif",
+    "sha256": "bc38214aace53ebd",
+    "sizeBytes": 51782,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/jlhome.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/babyjohn.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/babyjohn.gif",
+    "sha256": "4b2d5a09bf49f98b",
+    "sizeBytes": 61790,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/babyjohnx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/yngJL03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/yngJL03.gif",
+    "sha256": "3b4309cb26f71580",
+    "sizeBytes": 75577,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/yngJL03x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/yngJL02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/yngJL02.gif",
+    "sha256": "4e4cccdc85755c03",
+    "sizeBytes": 65543,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/yngJL02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/yngJL01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/yngJL01.gif",
+    "sha256": "a712b9fd06bf81b2",
+    "sizeBytes": 81019,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/yngJL01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johngrad.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johngrad.gif",
+    "sha256": "09c4288fec00e032",
+    "sizeBytes": 64436,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/johngradx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/poolCG.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/poolCG.gif",
+    "sha256": "e81cf8f4b8711e01",
+    "sizeBytes": 77893,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/poolCGx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/doltankCG01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/doltankCG01.gif",
+    "sha256": "ac4af0f5f2df23ee",
+    "sizeBytes": 60167,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/doltankCG01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/doltankCG02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/doltankCG02.gif",
+    "sha256": "b672f078f36fc393",
+    "sizeBytes": 85219,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/doltankCG02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/labCG.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/labCG.gif",
+    "sha256": "619c30a2321fbb1a",
+    "sizeBytes": 77408,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/labCGx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JL&Wood.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JL&Wood.gif",
+    "sha256": "8c1bd823f29c1fb1",
+    "sizeBytes": 53905,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/JL&Woodx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnboat.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnboat.gif",
+    "sha256": "6f541b3e48ba8f5e",
+    "sizeBytes": 63592,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/johnboatx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnjanus.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnjanus.gif",
+    "sha256": "ed1aa9544c9fcfb9",
+    "sizeBytes": 85803,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/johnjanusx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnburgess.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnburgess.gif",
+    "sha256": "2649aa0ec5d4c6b3",
+    "sizeBytes": 60260,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/johnburgessx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/john1960.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/john1960.gif",
+    "sha256": "e67589ccea1f082e",
+    "sizeBytes": 62163,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/john1960x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/margaretpeter3.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/margaretpeter3.gif",
+    "sha256": "7dca99e28ab17471",
+    "sizeBytes": 50516,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/marpeterx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/marpeter02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/marpeter02.gif",
+    "sha256": "6c074010ddfafe95",
+    "sizeBytes": 80296,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/marpeter02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/margretpeter.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/margretpeter.gif",
+    "sha256": "7ed0573b691e83fd",
+    "sizeBytes": 71208,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/marpeter03x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnmar.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnmar.gif",
+    "sha256": "81a4c332b531b785",
+    "sizeBytes": 65240,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/johnmarx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johntoni01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johntoni01.gif",
+    "sha256": "4009ecffd13c996b",
+    "sizeBytes": 97959,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/johntoni01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/toni&beluga.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/toni&beluga.gif",
+    "sha256": "4a04b3b9ab88a62c",
+    "sizeBytes": 64263,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/toni&belugax.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JLEsalen.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JLEsalen.gif",
+    "sha256": "1ef84d2f8296f9b0",
+    "sizeBytes": 82529,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/JLEsalenx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johntim.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johntim.gif",
+    "sha256": "6ef94d624d60d410",
+    "sizeBytes": 56169,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/johntimx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JL&Lou.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JL&Lou.gif",
+    "sha256": "82bcd02ad237b0fd",
+    "sizeBytes": 70705,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/JL&Loux.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/doljump01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/doljump01.gif",
+    "sha256": "2923eee219b7e464",
+    "sizeBytes": 80648,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/doljump01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/doljump02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/doljump02.gif",
+    "sha256": "926201a2d8e13a58",
+    "sizeBytes": 71458,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/doljump02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/videophone01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/videophone01.gif",
+    "sha256": "4f57ad3d6b29dd93",
+    "sizeBytes": 35948,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/videophone01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/videophone02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/videophone02.gif",
+    "sha256": "6fb294a659daaa8a",
+    "sizeBytes": 29584,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/videophone02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/videophone03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/videophone03.gif",
+    "sha256": "9dbbe18e32ce924e",
+    "sizeBytes": 38854,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/videophone03x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/oahudol.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/oahudol.gif",
+    "sha256": "35a110a912014dc7",
+    "sizeBytes": 61081,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/oahudolx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johntank.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johntank.gif",
+    "sha256": "34b39d542d4fd7e1",
+    "sizeBytes": 61008,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/johntankx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnjapan01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnjapan01.gif",
+    "sha256": "244e13e3a1d0e05d",
+    "sizeBytes": 50391,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/johnjapan01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnjapan02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnjapan02.gif",
+    "sha256": "fb20a6c1a294f142",
+    "sizeBytes": 55856,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/johnjapan02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JL&takaka.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JL&takaka.gif",
+    "sha256": "09af09e5d8045cfd",
+    "sizeBytes": 111907,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/JL&takakox.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JL&Barbara.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JL&Barbara.gif",
+    "sha256": "ddc5ea7a6d97ba96",
+    "sizeBytes": 86921,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/JL&Barbarax.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolsmile.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolsmile.gif",
+    "sha256": "bf1c4c38823b3986",
+    "sizeBytes": 63261,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dolsmilex.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/hofmann.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/hofmann.gif",
+    "sha256": "ca80a6802d69f401",
+    "sizeBytes": 71753,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/hofmannx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/hofmannote.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/hofmannote.gif",
+    "sha256": "1afeb5849f955d10",
+    "sizeBytes": 9844,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/hofmannx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/australia02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/australia02.gif",
+    "sha256": "da547348dcfd38c3",
+    "sizeBytes": 87278,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/australia02.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/australia03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/australia03.gif",
+    "sha256": "1761039ecca6ea7a",
+    "sizeBytes": 80739,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/australia03.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/australia04.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/australia04.gif",
+    "sha256": "570caca163fd32f3",
+    "sizeBytes": 84656,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/australia04.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/icercJapan01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/icercJapan01.gif",
+    "sha256": "d92ca0cbf4783652",
+    "sizeBytes": 72830,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/icercJapan01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/icercJapan02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/icercJapan02.gif",
+    "sha256": "fbc8bfa194d62a3c",
+    "sizeBytes": 146071,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/icercJapan02.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/john_eiffel01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/john_eiffel01.gif",
+    "sha256": "271b556d2f73aa8b",
+    "sizeBytes": 111311,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/john_eiffel01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/albertJohn01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/albertJohn01.gif",
+    "sha256": "f7a897faad6081f8",
+    "sizeBytes": 73797,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/albertJohn01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/PHB_JCL_PS.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/PHB_JCL_PS.JPEG",
+    "sha256": "7b35d3720c38f76a",
+    "sizeBytes": 31933,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/PHB_JCL_PS_NYC1998.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JCL_LT_LC1998.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JCL_LT_LC1998.JPEG",
+    "sha256": "bdced7f25a690c01",
+    "sizeBytes": 28660,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/JCL_LT_LC1998.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/instOfEcotConf1998.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/instOfEcotConf1998.JPEG",
+    "sha256": "69372c5b735a420c",
+    "sizeBytes": 51287,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/InstOfEcotConf1998.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JCL_JA_InstOfEcot.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JCL_JA_InstOfEcot.JPEG",
+    "sha256": "1814aad83be00817",
+    "sizeBytes": 27599,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/JCL_JA_InstOfEcot.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JCL_JH_Switz.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JCL_JH_Switz.JPEG",
+    "sha256": "2d85900edb621f5b",
+    "sizeBytes": 36241,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/JCL_JH_Switz.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JCL_AFDB_Basel.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JCL_AFDB_Basel.JPEG",
+    "sha256": "a3f96d91d27e5e1f",
+    "sizeBytes": 26744,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/JCL_AFDB_Basel.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JCL_DH_Basel1999.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JCL_DH_Basel1999.JPEG",
+    "sha256": "78d648ce45c5fd1e",
+    "sizeBytes": 33412,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/JCL_DH_Basel.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/BT_JCL_ICERC1999.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/BT_JCL_ICERC1999.JPEG",
+    "sha256": "34d5cda5fedbb0d6",
+    "sizeBytes": 17515,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/BT_JCL_ICERC1999.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JCL_K_ICERC1999.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JCL_K_ICERC1999.JPEG",
+    "sha256": "0e66dd805fa979c5",
+    "sizeBytes": 30468,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/JCL_K_ICERC1999.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/K_JN_K_ICERC1999.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/K_JN_K_ICERC1999.JPEG",
+    "sha256": "caccdce1f351c5ed",
+    "sizeBytes": 25461,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/K_JN_K_ICERC1999.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/AHofmann_TLeary.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/AHofmann_TLeary.JPEG",
+    "sha256": "313136526c20deba",
+    "sizeBytes": 54864,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/AHofmann_TLeary.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JCL_OJanegae.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JCL_OJanegae.JPEG",
+    "sha256": "85c74ae74f703bd5",
+    "sizeBytes": 42845,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/JCL_OJaniger.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/PB_OJ_KJ_JCL.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/PB_OJ_KJ_JCL.JPEG",
+    "sha256": "2765541f28684776",
+    "sizeBytes": 44285,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/PB_OJ_KJ_JCL.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillyPainting01b.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillyPainting01b.jpg",
+    "sha256": "45333e4163f2c3d4",
+    "sizeBytes": 9403,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/painting00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillyPainting02b.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillyPainting02b.jpg",
+    "sha256": "3372a871c55d5887",
+    "sizeBytes": 10406,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/painting00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillyPainting03b.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillyPainting03b.jpg",
+    "sha256": "3134ddf2227607e0",
+    "sizeBytes": 9273,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/painting00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillyPainting04b.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillyPainting04b.jpg",
+    "sha256": "c4e7a5230ed04ae0",
+    "sizeBytes": 9403,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/painting00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinglyph.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinglyph.jpg",
+    "sha256": "828a8dd18b071546",
+    "sizeBytes": 96818,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/dolphinglyph.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinNN4.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinNN4.gif",
+    "sha256": "e8f66cf842297985",
+    "sizeBytes": 30709,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/sunset.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnbubbles01.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnbubbles01.jpg",
+    "sha256": "c4d3fec3b5d29fa4",
+    "sizeBytes": 93657,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/bubbles.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/trispiral01.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/trispiral01.jpg",
+    "sha256": "2029b005b0fc522b",
+    "sizeBytes": 355262,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/trispiral01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnart02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnart02.gif",
+    "sha256": "c61ec2ebf3253b27",
+    "sizeBytes": 183634,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/johnartx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/80thbday02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/80thbday02.gif",
+    "sha256": "b9bbdccf308ca333",
+    "sizeBytes": 90247,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/80thbdayx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/nytimesPhoto.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/nytimesPhoto.jpg",
+    "sha256": "6d4bedb7c130a2b2",
+    "sizeBytes": 18326,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/nyTimes.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/memorial01.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/memorial01.jpg",
+    "sha256": "706557085defd7dc",
+    "sizeBytes": 25343,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/memorial00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/kstraub-JCL-01.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/kstraub-JCL-01.jpg",
+    "sha256": "28ca2475ba9d2630",
+    "sizeBytes": 88651,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/ashes00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/kstraub-JCL-03.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/kstraub-JCL-03.jpg",
+    "sha256": "1506fccd40dc481c",
+    "sizeBytes": 52823,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/ashes00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/kstraub-JCL-02.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/kstraub-JCL-02.jpg",
+    "sha256": "def0b3480727b3be",
+    "sizeBytes": 33656,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/ashes00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/sonogram.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/sonogram.jpg",
+    "sha256": "6a573d3f8b956623",
+    "sizeBytes": 10088,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/whatsnew0201.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dyadic.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dyadic.gif",
+    "sha256": "3759a2b8da1509f9",
+    "sizeBytes": 18623,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/whatsnew0201.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/simulations.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/simulations.gif",
+    "sha256": "90f6e8c2eac15ad3",
+    "sizeBytes": 40958,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/whatsnew0201.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/JCL_JA_InstOfEcotS.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/JCL_JA_InstOfEcotS.JPEG",
+    "sha256": "cc652eb4aee84399",
+    "sizeBytes": 8858,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/whatsnew0201.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/historyS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/historyS.gif",
+    "sha256": "3e5c5ca5274172c5",
+    "sizeBytes": 1912,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/whatsnew0201.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/programmingS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/programmingS.gif",
+    "sha256": "1c26c57e027dade0",
+    "sizeBytes": 2899,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/whatsnew0201.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinbox02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinbox02.gif",
+    "sha256": "5734db073c4278ec",
+    "sizeBytes": 11956,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/whatsnew0997.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnaristotle02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnaristotle02.gif",
+    "sha256": "e9a0a3d42711fe67",
+    "sizeBytes": 7599,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/whatsnew0997.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/tankopen.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/tankopen.gif",
+    "sha256": "cc0ef5075d0f7491",
+    "sizeBytes": 16046,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/whatsnew0997.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/hsaward3.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/hsaward3.gif",
+    "sha256": "d66f5bc53495bc1b",
+    "sizeBytes": 3486,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/whatsnew0997.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnreflectx.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnreflectx.gif",
+    "sha256": "57518fd5b6e3369f",
+    "sizeBytes": 22366,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/outline.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinbrain.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinbrain.gif",
+    "sha256": "205f1cc6d4cdb6a5",
+    "sizeBytes": 21037,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dolbrains.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/brainchart.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/brainchart.gif",
+    "sha256": "642182e42258ac49",
+    "sizeBytes": 24783,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dolbrains.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/chart01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/chart01.gif",
+    "sha256": "de5cd825f054d39b",
+    "sizeBytes": 9206,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dolbrains.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/chart02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/chart02.gif",
+    "sha256": "70b98fdac0739060",
+    "sizeBytes": 9696,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dolbrains.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/hardpeter.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/hardpeter.gif",
+    "sha256": "95437411b0b2d5f1",
+    "sizeBytes": 25886,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dolsex.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/updown.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/updown.gif",
+    "sha256": "4f8d8dff05514e6f",
+    "sizeBytes": 267917,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dolphingifs.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnaristotle.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnaristotle.gif",
+    "sha256": "4262ea1588e735f6",
+    "sizeBytes": 50404,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/aristotle.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/whaletail.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/whaletail.gif",
+    "sha256": "985499d7c57cdad8",
+    "sizeBytes": 94445,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/cetacean04.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/stthomas01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/stthomas01.gif",
+    "sha256": "986f99bb12e3bac8",
+    "sizeBytes": 13022,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/laboratoryx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/greenline.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/greenline.gif",
+    "sha256": "d6474069fe0662c9",
+    "sizeBytes": 80,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/laboratoryx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/stthomas02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/stthomas02.gif",
+    "sha256": "ca1c0f576cac1898",
+    "sizeBytes": 13578,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/laboratoryx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/happy.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/happy.gif",
+    "sha256": "6bf345a402cb3741",
+    "sizeBytes": 117544,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/laboratoryx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/stthomas03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/stthomas03.gif",
+    "sha256": "efbe9cbd8a0258d0",
+    "sizeBytes": 27464,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/laboratory02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/marpeter09.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/marpeter09.gif",
+    "sha256": "c52607acb20aa8cc",
+    "sizeBytes": 90998,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/laboratory04x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/paddle01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/paddle01.gif",
+    "sha256": "902ff22ff337796a",
+    "sizeBytes": 11407,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/paddlex.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/paddle02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/paddle02.gif",
+    "sha256": "5d1a508798f97cac",
+    "sizeBytes": 10532,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/paddlex.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/paddle03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/paddle03.gif",
+    "sha256": "902020099b0f9191",
+    "sizeBytes": 10673,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/paddlex.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/davidsissy01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/davidsissy01.gif",
+    "sha256": "1b06d15b72038c56",
+    "sizeBytes": 11827,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/davidsissy01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/davidsissy02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/davidsissy02.gif",
+    "sha256": "64f9995150a840e6",
+    "sizeBytes": 11579,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/davidsissy01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/davidsissy03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/davidsissy03.gif",
+    "sha256": "77cb9d81149db71c",
+    "sizeBytes": 11800,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/davidsissy01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/davidsissy04.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/davidsissy04.gif",
+    "sha256": "c317b70cf4bb8a18",
+    "sizeBytes": 11392,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/davidsissy01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/davidsissy05.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/davidsissy05.gif",
+    "sha256": "fe6dee6979d599bf",
+    "sizeBytes": 11214,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/davidsissy01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/davidsissy06.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/davidsissy06.gif",
+    "sha256": "558393934acbaff8",
+    "sizeBytes": 11160,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/davidsissy01x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/davidsissy07.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/davidsissy07.gif",
+    "sha256": "23e87e1b68c215be",
+    "sizeBytes": 11597,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/davidsissy02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/davidsissy08.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/davidsissy08.gif",
+    "sha256": "2deb02bd39c4468b",
+    "sizeBytes": 11669,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/davidsissy02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/davidsissy09.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/davidsissy09.gif",
+    "sha256": "0dabe0ee37a15b44",
+    "sizeBytes": 11679,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/davidsissy02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/marpeter28.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/marpeter28.gif",
+    "sha256": "d5aef1ce321e9e76",
+    "sizeBytes": 37270,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/womandolph05x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/marpeter22.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/marpeter22.gif",
+    "sha256": "1b7cf7769904c050",
+    "sizeBytes": 24635,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/womandolph06x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/marpeter23.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/marpeter23.gif",
+    "sha256": "5107245c11baeca6",
+    "sizeBytes": 33934,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/womandolph07x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/marpeter25.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/marpeter25.gif",
+    "sha256": "55a7b0bddecf0e2f",
+    "sizeBytes": 42897,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/womandolph08x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/marpeter24.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/marpeter24.gif",
+    "sha256": "1b349d2aaa64b923",
+    "sizeBytes": 30363,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/womandolph09x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/marpeter26.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/marpeter26.gif",
+    "sha256": "d34906cef2d9102f",
+    "sizeBytes": 43739,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/womandolph11x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/marpeter27.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/marpeter27.gif",
+    "sha256": "269c9780f932b594",
+    "sizeBytes": 34395,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/womandolph12x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/januschart.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/januschart.gif",
+    "sha256": "4c88862473ed7856",
+    "sizeBytes": 37445,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/janus04x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/sketch01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/sketch01.gif",
+    "sha256": "206906955ae3ac44",
+    "sizeBytes": 34655,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tanksketch01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/mandolphS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/mandolphS.gif",
+    "sha256": "96bb790dd0459d37",
+    "sizeBytes": 3438,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/mandolph01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/mindS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/mindS.gif",
+    "sha256": "fdbaeb289b6e7065",
+    "sizeBytes": 3661,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/mind01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/cycloneS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/cycloneS.gif",
+    "sha256": "de16430355ceeb1f",
+    "sizeBytes": 3599,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/cyclone01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/simulationsS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/simulationsS.gif",
+    "sha256": "4247ba348f12b297",
+    "sizeBytes": 4048,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/simulations01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/deepselfS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/deepselfS.gif",
+    "sha256": "47160c8e12388a15",
+    "sizeBytes": 3175,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/deepself01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/communicationS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/communicationS.gif",
+    "sha256": "9e3a8967f4074342",
+    "sizeBytes": 4057,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/communication01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/sofarS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/sofarS.gif",
+    "sha256": "59b2e00d40b12552",
+    "sizeBytes": 3985,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/sofar01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/tanksS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/tanksS.gif",
+    "sha256": "05ff78beb50e5d54",
+    "sizeBytes": 4328,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tanks01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnspiral02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnspiral02.gif",
+    "sha256": "1321c04289f1f95e",
+    "sizeBytes": 7727,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/lillyland11.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/geosis01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/geosis01.gif",
+    "sha256": "df71eff68b91bb7b",
+    "sizeBytes": 11482,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/geosisx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/geosis02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/geosis02.gif",
+    "sha256": "5e82beeca5bbf08a",
+    "sizeBytes": 11068,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/geosisx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/geosis03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/geosis03.gif",
+    "sha256": "9ad3eaba163ec475",
+    "sizeBytes": 10992,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/geosisx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/drown01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/drown01.gif",
+    "sha256": "4b4fd973c7206724",
+    "sizeBytes": 11146,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/drownx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/drown02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/drown02.gif",
+    "sha256": "a5dd1007ad37d50d",
+    "sizeBytes": 11139,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/drownx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/drown03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/drown03.gif",
+    "sha256": "d9a2c9e6cf407a2e",
+    "sizeBytes": 10968,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/drownx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/chart05.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/chart05.gif",
+    "sha256": "2d817719cb552cbb",
+    "sizeBytes": 19704,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dolcomm03.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/marpeter07.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/marpeter07.gif",
+    "sha256": "4dc10fd17e1077e6",
+    "sizeBytes": 71393,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/sound02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/marpeter08.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/marpeter08.gif",
+    "sha256": "f5589617e294d72b",
+    "sizeBytes": 59317,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/sound03x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/marpeter10.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/marpeter10.gif",
+    "sha256": "51df88cf2e267955",
+    "sizeBytes": 66542,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/sound05x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/fclPIX/labAireal01.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/fclPIX/labAireal01.jpg",
+    "sha256": "46a234b20db720df",
+    "sizeBytes": 19946,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/construction00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/fclPIX/fcl02.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/fclPIX/fcl02.jpg",
+    "sha256": "90e7ffb43f654088",
+    "sizeBytes": 25568,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/construction00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/fclPIX/fcl03.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/fclPIX/fcl03.jpg",
+    "sha256": "c5b104e42a0d5e4b",
+    "sizeBytes": 22981,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/construction00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/fclPIX/fcl04.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/fclPIX/fcl04.jpg",
+    "sha256": "9fc26f3005dab32d",
+    "sizeBytes": 20844,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/construction00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/fclPIX/fcl05.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/fclPIX/fcl05.jpg",
+    "sha256": "fa82ab6f5c888071",
+    "sizeBytes": 20470,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/construction00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/figure01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/figure01.gif",
+    "sha256": "38b679537b1ec1c9",
+    "sizeBytes": 74112,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/metaprog03.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/tankopenM.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/tankopenM.gif",
+    "sha256": "39d50036b0676978",
+    "sizeBytes": 75150,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tankopen.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/scientist96.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/scientist96.gif",
+    "sha256": "13aab94aadf5c6f5",
+    "sizeBytes": 50850,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/scientist00x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/scientistS.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/scientistS.gif",
+    "sha256": "f3b27f8f00a6df3a",
+    "sizeBytes": 5124,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/scientist00x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillyondolphins02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillyondolphins02.gif",
+    "sha256": "d866aa64911d64d7",
+    "sizeBytes": 4669,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/lillyondolphins01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnwizard06.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnwizard06.jpg",
+    "sha256": "5bb2eeadb4f1718c",
+    "sizeBytes": 39657,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/johnwizard02.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnwizard01.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnwizard01.jpg",
+    "sha256": "d4da6f8e78b3f1dd",
+    "sizeBytes": 115954,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/johnwizard.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnwizard05.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnwizard05.jpg",
+    "sha256": "c978c9495a2c646c",
+    "sizeBytes": 47306,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/johnwizard03.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/john04a.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/john04a.gif",
+    "sha256": "7d79c1babb1331c0",
+    "sizeBytes": 127112,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/JCLmar98_04.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/john03a.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/john03a.gif",
+    "sha256": "216bc01102ada14c",
+    "sizeBytes": 132248,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/JCLmar98_03.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/john09a.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/john09a.gif",
+    "sha256": "3220ee4cd09361b1",
+    "sizeBytes": 131397,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/JCLmar98_09.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/kenMarten01.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/kenMarten01.jpg",
+    "sha256": "3a9070f08be30e59",
+    "sizeBytes": 24788,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/delphis03.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/listener01.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/listener01.jpg",
+    "sha256": "dca1d89584a82cb0",
+    "sizeBytes": 73957,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/delphis01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/display01.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/display01.jpg",
+    "sha256": "6c8e724c693dfdd4",
+    "sizeBytes": 70906,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/delphis01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/livingroom02M.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/livingroom02M.gif",
+    "sha256": "a2cae46cdea6fee3",
+    "sizeBytes": 28386,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/jlhome2.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/livingroom01M.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/livingroom01M.gif",
+    "sha256": "6a9965780c9d299b",
+    "sizeBytes": 29947,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/jlhome2.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillyPainting01a.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillyPainting01a.jpg",
+    "sha256": "ff4298abfed7b671",
+    "sizeBytes": 40381,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/painting01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillyPainting02a.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillyPainting02a.jpg",
+    "sha256": "f7b89badb5465ffa",
+    "sizeBytes": 47344,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/painting02.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillyPainting03a.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillyPainting03a.jpg",
+    "sha256": "3fbba9b7509bc8ce",
+    "sizeBytes": 40952,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/painting03.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillyPainting04a.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillyPainting04a.jpg",
+    "sha256": "26d3a6c3da055938",
+    "sizeBytes": 41959,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/painting04.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/TRIANGLE/triangular06.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/TRIANGLE/triangular06.gif",
+    "sha256": "454415ecd7857214",
+    "sizeBytes": 552,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/TRIANGLE/triangle11.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/TRIANGLE/triangular3.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/TRIANGLE/triangular3.gif",
+    "sha256": "353b5e1a8613ea3a",
+    "sizeBytes": 1756,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/TRIANGLE/triangle11.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/TRIANGLE/triangular08.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/TRIANGLE/triangular08.gif",
+    "sha256": "1662046f602ebcec",
+    "sizeBytes": 554,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/TRIANGLE/triangle11.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/TRIANGLE/triangular2.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/TRIANGLE/triangular2.gif",
+    "sha256": "28bbaab15e84a8fa",
+    "sizeBytes": 1756,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/TRIANGLE/triangle11.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/TRIANGLE/triangular02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/TRIANGLE/triangular02.gif",
+    "sha256": "95ae35b931f5f7d1",
+    "sizeBytes": 560,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/TRIANGLE/triangle11.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/TRIANGLE/triangular05.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/TRIANGLE/triangular05.gif",
+    "sha256": "ae90d73d76f933e7",
+    "sizeBytes": 556,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/TRIANGLE/triangle11.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/memorial02.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/memorial02.jpg",
+    "sha256": "6d8f0aeab52a4ea6",
+    "sizeBytes": 38775,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/memorial01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/memorial03.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/memorial03.jpg",
+    "sha256": "34a011f61235617b",
+    "sizeBytes": 58920,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/memorial01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/memorial04.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/memorial04.jpg",
+    "sha256": "e4f422743ab89ccb",
+    "sizeBytes": 59905,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/memorial02.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/memorial05.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/memorial05.jpg",
+    "sha256": "cb2118ff9fcd4477",
+    "sizeBytes": 60814,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/memorial02.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/memorial06.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/memorial06.jpg",
+    "sha256": "d22c38945f38c287",
+    "sizeBytes": 55060,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/memorial03.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/memorial07.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/memorial07.jpg",
+    "sha256": "7a1dc3febfcfefcf",
+    "sizeBytes": 41610,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/memorial03.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/memorial08.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/memorial08.jpg",
+    "sha256": "5206f47e76f88278",
+    "sizeBytes": 33874,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/memorial04.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/simulationsPro.JPG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/simulationsPro.JPG",
+    "sha256": "01c1882cd8d05251",
+    "sizeBytes": 72712,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/simulationsPrologue.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/koontz01.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/koontz01.jpg",
+    "sha256": "cba472eb50a0fe99",
+    "sizeBytes": 54414,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/koontz01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/koontz02.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/koontz02.jpg",
+    "sha256": "ddf9e94b358e26ea",
+    "sizeBytes": 16988,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/koontz01.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/programming.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/programming.gif",
+    "sha256": "de483ef0a2c93e30",
+    "sizeBytes": 22291,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/books02.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/history.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/history.gif",
+    "sha256": "116c2b49abba320c",
+    "sizeBytes": 22912,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/books02.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/john_eiffel02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/john_eiffel02.gif",
+    "sha256": "00a42ec1d5d1aca0",
+    "sizeBytes": 17570,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/whatsnew0199.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dolphinjump.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dolphinjump.gif",
+    "sha256": "5a97f7361caaeec2",
+    "sizeBytes": 206862,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/dolphinjumpx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/surfaceM.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/surfaceM.gif",
+    "sha256": "f028b93cd92ce837",
+    "sizeBytes": 120642,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/surfacex.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/masks.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/masks.gif",
+    "sha256": "0387f43068d2273c",
+    "sizeBytes": 66246,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/maskx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/dogpaddle.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/dogpaddle.gif",
+    "sha256": "060a0dcd54024598",
+    "sizeBytes": 240998,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/mimicx.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/sketch02.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/sketch02.gif",
+    "sha256": "07722252107ab56a",
+    "sizeBytes": 34618,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tanksketch02.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/mandolph.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/mandolph.gif",
+    "sha256": "701f96c66a34e697",
+    "sizeBytes": 45402,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/mandolph00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/deepself.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/deepself.gif",
+    "sha256": "dc219bd32ad0c52e",
+    "sizeBytes": 31269,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/deepself00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/communication.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/communication.gif",
+    "sha256": "c02594d636e70563",
+    "sizeBytes": 44263,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/communication00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/sofar.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/sofar.gif",
+    "sha256": "90fba3751f89a322",
+    "sizeBytes": 37255,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/sofar00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/tanks.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/tanks.gif",
+    "sha256": "fb36d43a98562ef4",
+    "sizeBytes": 40879,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tanks00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/bigScreen01.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/bigScreen01.JPEG",
+    "sha256": "07df018db23a3995",
+    "sizeBytes": 32904,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/bigScreen02.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/bigScreen02.JPEG",
+    "sha256": "d87ecdb287f784af",
+    "sizeBytes": 33534,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/bigScreen03.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/bigScreen03.JPEG",
+    "sha256": "8c444531390005a7",
+    "sizeBytes": 33355,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/bigScreen04.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/bigScreen04.JPEG",
+    "sha256": "14352d19489c5637",
+    "sizeBytes": 33591,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/bigScreen05.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/bigScreen05.JPEG",
+    "sha256": "f7428e2c7dc87505",
+    "sizeBytes": 33716,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/bigScreen06.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/bigScreen06.JPEG",
+    "sha256": "4a80d760d867a560",
+    "sizeBytes": 33087,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow01.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow01.JPEG",
+    "sha256": "535be8b02d0368f1",
+    "sizeBytes": 35722,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow02.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow02.JPEG",
+    "sha256": "c1c179b0b07d821d",
+    "sizeBytes": 36501,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow04.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow04.JPEG",
+    "sha256": "7c2b109d376640fa",
+    "sizeBytes": 36206,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow05.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow05.JPEG",
+    "sha256": "64b54177ea3f126d",
+    "sizeBytes": 36408,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow07.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow07.JPEG",
+    "sha256": "bf98ca58b486600e",
+    "sizeBytes": 37749,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow08.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow08.JPEG",
+    "sha256": "e3d116979641fa93",
+    "sizeBytes": 37817,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow09.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow09.JPEG",
+    "sha256": "6de5b0cb3cf3f82e",
+    "sizeBytes": 37685,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow10.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow10.JPEG",
+    "sha256": "3471f666d1f87579",
+    "sizeBytes": 37531,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow11.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow11.JPEG",
+    "sha256": "82422d8fb8154c0d",
+    "sizeBytes": 34482,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow12.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow12.JPEG",
+    "sha256": "69fc4fe2b06a8481",
+    "sizeBytes": 34344,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow13.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow13.JPEG",
+    "sha256": "591ba2384972c683",
+    "sizeBytes": 34599,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow14.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow14.JPEG",
+    "sha256": "60662e31a1a959fc",
+    "sizeBytes": 33866,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/dolphinwindow15.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/dolphinwindow15.JPEG",
+    "sha256": "cce676be0d490b31",
+    "sizeBytes": 35815,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth01.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth01.JPEG",
+    "sha256": "da95f376b67a9853",
+    "sizeBytes": 36426,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth02.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth02.JPEG",
+    "sha256": "a7f318603ddac18b",
+    "sizeBytes": 37944,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth03.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth03.JPEG",
+    "sha256": "6c0592aa6792bb71",
+    "sizeBytes": 39452,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth04.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth04.JPEG",
+    "sha256": "b9a85bbced9e9e78",
+    "sizeBytes": 30386,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth05.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth05.JPEG",
+    "sha256": "9861e4d49fcd9616",
+    "sizeBytes": 34685,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth06.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth06.JPEG",
+    "sha256": "ddf9b744cb79da4c",
+    "sizeBytes": 34294,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth07.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth07.JPEG",
+    "sha256": "f04790a818b145d5",
+    "sizeBytes": 34760,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth08.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth08.JPEG",
+    "sha256": "dcdca445ffb4a729",
+    "sizeBytes": 35750,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth09.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth09.JPEG",
+    "sha256": "51b906b94a5b1fbf",
+    "sizeBytes": 35330,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth10.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth10.JPEG",
+    "sha256": "7eb15cca08cfbd98",
+    "sizeBytes": 35911,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth11.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth11.JPEG",
+    "sha256": "ce8034ebf70dea34",
+    "sizeBytes": 33791,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth12.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth12.JPEG",
+    "sha256": "89db4204c52f11d5",
+    "sizeBytes": 37447,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth13.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth13.JPEG",
+    "sha256": "e780d8a2e343978a",
+    "sizeBytes": 34315,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth14.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth14.JPEG",
+    "sha256": "4d3939d4115bb9c1",
+    "sizeBytes": 33678,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth15.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth15.JPEG",
+    "sha256": "6b0f2c429a42346d",
+    "sizeBytes": 33072,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth16.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth16.JPEG",
+    "sha256": "6a2aa1142c36655b",
+    "sizeBytes": 33671,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/earth17.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/earth17.JPEG",
+    "sha256": "b1f025a2a65a1188",
+    "sizeBytes": 35031,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/house04.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/house04.JPEG",
+    "sha256": "121cbaabadf6f461",
+    "sizeBytes": 34824,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/ferns01.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/ferns01.JPEG",
+    "sha256": "f0620d105e64b145",
+    "sizeBytes": 36624,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/ferns02.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/ferns02.JPEG",
+    "sha256": "b71ed4f8c9017b76",
+    "sizeBytes": 35193,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/ferns03.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/ferns03.JPEG",
+    "sha256": "f0dc57204be85fba",
+    "sizeBytes": 36503,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/ferns04.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/ferns04.JPEG",
+    "sha256": "c3f213ba3b842bf1",
+    "sizeBytes": 39111,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/ferns05.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/ferns05.JPEG",
+    "sha256": "fbf0b884076326d5",
+    "sizeBytes": 36796,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/ferns06.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/ferns06.JPEG",
+    "sha256": "f09b16732f5404bf",
+    "sizeBytes": 37722,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/ferns07.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/ferns07.JPEG",
+    "sha256": "65e75d4b457b4d9f",
+    "sizeBytes": 37996,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/ferns08.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/ferns08.JPEG",
+    "sha256": "0ed20884186d2ab3",
+    "sizeBytes": 37780,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/ferns09.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/ferns09.JPEG",
+    "sha256": "fff0b8e53707e149",
+    "sizeBytes": 38093,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/ferns10.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/ferns10.JPEG",
+    "sha256": "286dbe8c4f9541c2",
+    "sizeBytes": 37933,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/ferns11.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/ferns11.JPEG",
+    "sha256": "b30f06d71c288967",
+    "sizeBytes": 37319,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/ferns12.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/ferns12.JPEG",
+    "sha256": "660103ec660ab018",
+    "sizeBytes": 36389,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/futureComm02.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/futureComm02.JPEG",
+    "sha256": "a2fc4277b7f68c87",
+    "sizeBytes": 28639,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/futureComm03.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/futureComm03.JPEG",
+    "sha256": "c75dcf6c6384ee3a",
+    "sizeBytes": 33547,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/house01.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/house01.JPEG",
+    "sha256": "0955db84b7d130c9",
+    "sizeBytes": 34450,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/house02.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/house02.JPEG",
+    "sha256": "fd1f04c36a728cb7",
+    "sizeBytes": 34944,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/house05.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/house05.JPEG",
+    "sha256": "6d4d07c2ece50fa9",
+    "sizeBytes": 36446,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/house06.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/house06.JPEG",
+    "sha256": "7ce2e24d17a4020f",
+    "sizeBytes": 35104,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/house07.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/house07.JPEG",
+    "sha256": "9b3506c4efef83ae",
+    "sizeBytes": 35502,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/house08.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/house08.JPEG",
+    "sha256": "d04c66a3aed805c7",
+    "sizeBytes": 36431,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/house09.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/house09.JPEG",
+    "sha256": "e1aaecaedce1f1e4",
+    "sizeBytes": 36766,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/house10.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/house10.JPEG",
+    "sha256": "425c61ca217acc44",
+    "sizeBytes": 36397,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/house11.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/house11.JPEG",
+    "sha256": "1ba05301fbd8b846",
+    "sizeBytes": 36294,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/outerSpace01.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/outerSpace01.JPEG",
+    "sha256": "816782005c00bf2f",
+    "sizeBytes": 38070,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/outerSpace02.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/outerSpace02.JPEG",
+    "sha256": "72fc5e6dd691ca91",
+    "sizeBytes": 37949,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/outerSpace03.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/outerSpace03.JPEG",
+    "sha256": "13a951e9bc7b54e2",
+    "sizeBytes": 39197,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/outerSpace04.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/outerSpace04.JPEG",
+    "sha256": "a656e6bf81b4b3cb",
+    "sizeBytes": 39219,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/outerSpace05.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/outerSpace05.JPEG",
+    "sha256": "a9bf5d9c032dedd7",
+    "sizeBytes": 39775,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/outerSpace06.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/outerSpace06.JPEG",
+    "sha256": "5a082c0099e67c8a",
+    "sizeBytes": 40599,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/outerSpace07.JPEG",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/outerSpace07.JPEG",
+    "sha256": "861fd8603bff26df",
+    "sizeBytes": 41428,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/01_99images.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/scientist.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/scientist.gif",
+    "sha256": "0f72e8a7c26ac3d9",
+    "sizeBytes": 52983,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/scientist02x.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/lillyondolphins01.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/lillyondolphins01.gif",
+    "sha256": "322b3ac61cf40263",
+    "sizeBytes": 78032,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/lillyondolphins00.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/sketch03.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/sketch03.gif",
+    "sha256": "0e470038dbe1a1e2",
+    "sizeBytes": 37067,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tanksketch03.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/johnspiral.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/johnspiral.jpg",
+    "sha256": "309a6f33507534fa",
+    "sizeBytes": 161966,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/johnspiral.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/01_99jpgs/touchscreenDiagram02.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/01_99jpgs/touchscreenDiagram02.jpg",
+    "sha256": "6305fa5328b61934",
+    "sizeBytes": 74537,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.johnclilly.com/futureComm24A.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/sketch04.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/sketch04.gif",
+    "sha256": "3c7097716b285ce1",
+    "sizeBytes": 36406,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tanksketch04.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/sketch05.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/sketch05.gif",
+    "sha256": "e96fc10771c46fe4",
+    "sizeBytes": 32414,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tanksketch05.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/sketch07.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/sketch07.gif",
+    "sha256": "bb5134bfcccdb84c",
+    "sizeBytes": 33612,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tanksketch06.html"
+  },
+  {
+    "url": "http://www.johnclilly.com/gifs/sketch06.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.johnclilly.com/gifs/sketch06.gif",
+    "sha256": "46c50bf403c81745",
+    "sizeBytes": 36824,
+    "kind": "image/gif",
+    "sourcePage": "http://www.johnclilly.com/tanksketch07.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/images/banner4.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/images/banner4.jpg",
+    "sha256": "0b23bbe4dca33dd4",
+    "sizeBytes": 28063,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/images/home.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/images/home.gif",
+    "sha256": "d177786f21d0a681",
+    "sizeBytes": 1235,
+    "kind": "image/gif",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/images/search.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/images/search.gif",
+    "sha256": "8801e0bc1de9100b",
+    "sizeBytes": 1281,
+    "kind": "image/gif",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/images/order.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/images/order.gif",
+    "sha256": "8e19d56f149121cb",
+    "sizeBytes": 1192,
+    "kind": "image/gif",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/images/line.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/images/line.gif",
+    "sha256": "bb2f05c1385c85d9",
+    "sizeBytes": 464,
+    "kind": "image/gif",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/images-categories/John_Lilly.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/images-categories/John_Lilly.jpg",
+    "sha256": "d59889057862251e",
+    "sizeBytes": 24590,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/images-titles/D10-94.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/images-titles/D10-94.gif",
+    "sha256": "e788883ac0370571",
+    "sizeBytes": 5117,
+    "kind": "image/gif",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/images-titles/V74-94.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/images-titles/V74-94.gif",
+    "sha256": "003d30850c0db63b",
+    "sizeBytes": 9088,
+    "kind": "image/gif",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/images-titles/V518-93.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/images-titles/V518-93.gif",
+    "sha256": "695b1e0527f53758",
+    "sizeBytes": 7555,
+    "kind": "image/gif",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/stylesheet.css",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/stylesheet.css",
+    "sha256": "6c7fe61d4055cd5a",
+    "sizeBytes": 1420,
+    "kind": "text/css",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/images-titles/D10-94.jpeg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/images-titles/D10-94.jpeg",
+    "sha256": "11b8078b2be77bd6",
+    "sizeBytes": 53362,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/images-titles/V74-94.jpeg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/images-titles/V74-94.jpeg",
+    "sha256": "726a3a8242241dc3",
+    "sizeBytes": 48187,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.photosynthesis.com/images-titles/V518-93.jpeg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.photosynthesis.com/images-titles/V518-93.jpeg",
+    "sha256": "23bc50ed5d51c354",
+    "sizeBytes": 22171,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.photosynthesis.com/JOHN_C.html"
+  },
+  {
+    "url": "http://www.roninpub.com/SciJoh.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.roninpub.com/SciJoh.gif",
+    "sha256": "3bab84e620de2225",
+    "sizeBytes": 26113,
+    "kind": "image/gif",
+    "sourcePage": "http://www.roninpub.com/SciJoh.html"
+  },
+  {
+    "url": "http://assets.pinterest.com/images/pidgets/pin_it_button.png",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/assets.pinterest.com/images/pidgets/pin_it_button.png",
+    "sha256": "f942d5999c18b372",
+    "sizeBytes": 909,
+    "kind": "image/png",
+    "sourcePage": "http://www.roninpub.com/SciJoh.html"
+  },
+  {
+    "url": "http://www.e-junkie.com/ej/ej_add_to_cart.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.e-junkie.com/ej/ej_add_to_cart.gif",
+    "sha256": "aec67a8e75874575",
+    "sizeBytes": 1291,
+    "kind": "image/gif",
+    "sourcePage": "http://www.roninpub.com/SciJoh.html"
+  },
+  {
+    "url": "http://www.e-junkie.com/ej/ej_view_cart.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.e-junkie.com/ej/ej_view_cart.gif",
+    "sha256": "b7deb3cb6559b0a7",
+    "sizeBytes": 1260,
+    "kind": "image/gif",
+    "sourcePage": "http://www.roninpub.com/SciJoh.html"
+  },
+  {
+    "url": "http://books.google.com/googlebooks/cobrandfiles/Powered_By_Google_BLACK.png",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/books.google.com/googlebooks/cobrandfiles/Powered_By_Google_BLACK.png",
+    "sha256": "3219f9ff72ca64bf",
+    "sizeBytes": 3576,
+    "kind": "image/png",
+    "sourcePage": "http://www.roninpub.com/SciJoh.html"
+  },
+  {
+    "url": "http://www.roninpub.com/indent.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.roninpub.com/indent.gif",
+    "sha256": "61dbfb5ee8ac0179",
+    "sizeBytes": 52,
+    "kind": "image/gif",
+    "sourcePage": "http://www.roninpub.com/SciJoh.html"
+  },
+  {
+    "url": "http://www.roninpub.com/SciJoh_ill.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.roninpub.com/SciJoh_ill.gif",
+    "sha256": "282ba9612d429246",
+    "sizeBytes": 633,
+    "kind": "image/gif",
+    "sourcePage": "http://www.roninpub.com/SciJoh.html"
+  },
+  {
+    "url": "http://www.roninpub.com/T.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.roninpub.com/T.gif",
+    "sha256": "726dcf4330346fa7",
+    "sizeBytes": 202,
+    "kind": "image/gif",
+    "sourcePage": "http://www.roninpub.com/SciJoh.html"
+  },
+  {
+    "url": "http://www.roninpub.com/scient.gif",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.roninpub.com/scient.gif",
+    "sha256": "57ae787d5220747b",
+    "sizeBytes": 37863,
+    "kind": "image/gif",
+    "sourcePage": "http://www.roninpub.com/SciJoh.html"
+  },
+  {
+    "url": "http://pagead2.googlesyndication.com/pagead/show_ads.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/pagead2.googlesyndication.com/pagead/show_ads.js",
+    "sha256": "0711e662b17d1730",
+    "sizeBytes": 54962,
+    "kind": "text/javascript",
+    "sourcePage": "http://www.roninpub.com/SciJoh.html"
+  },
+  {
+    "url": "http://www.e-junkie.com/ecom/box.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.e-junkie.com/ecom/box.js",
+    "sha256": "f1f0487a285f374f",
+    "sizeBytes": 87743,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.roninpub.com/SciJoh.html"
+  },
+  {
+    "url": "http://assets.pinterest.com/js/pinit.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/assets.pinterest.com/js/pinit.js",
+    "sha256": "3f6e9b85ad3ee165",
+    "sizeBytes": 290,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.roninpub.com/SciJoh.html"
+  },
+  {
+    "url": "http://www.interspecies.com/assets/logo.svg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/assets/logo.svg",
+    "sha256": "aa2cf532cfca509c",
+    "sizeBytes": 14603,
+    "kind": "image/svg+xml",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992063/jim-orca-waterphone_xpehkq.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/res.cloudinary.com/dzxk4xfee/image/upload/v1751992063/jim-orca-waterphone_xpehkq.jpg",
+    "sha256": "b8fe86233526c6a1",
+    "sizeBytes": 2955487,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992063/audio-dolphin-deterrent_blo8yq.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/res.cloudinary.com/dzxk4xfee/image/upload/v1751992063/audio-dolphin-deterrent_blo8yq.jpg",
+    "sha256": "a58afe1198ee34ed",
+    "sizeBytes": 4328966,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992062/orca-kayak_s04xzm.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/res.cloudinary.com/dzxk4xfee/image/upload/v1751992062/orca-kayak_s04xzm.jpg",
+    "sha256": "741dda711bef4af1",
+    "sizeBytes": 4329226,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992131/campsite_gsmcef.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/res.cloudinary.com/dzxk4xfee/image/upload/v1751992131/campsite_gsmcef.jpg",
+    "sha256": "b10756903990c31e",
+    "sizeBytes": 5188555,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992061/whale-drum_me74xd.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/res.cloudinary.com/dzxk4xfee/image/upload/v1751992061/whale-drum_me74xd.jpg",
+    "sha256": "7ef4811ef7286309",
+    "sizeBytes": 4120096,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://res.cloudinary.com/dzxk4xfee/image/upload/v1751992066/jim-boat_erxyp6.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/res.cloudinary.com/dzxk4xfee/image/upload/v1751992066/jim-boat_erxyp6.jpg",
+    "sha256": "2493148d3ee5d504",
+    "sizeBytes": 8962551,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/newsletter/covers-1.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/newsletter/covers-1.jpg",
+    "sha256": "7456fbc107dcccfd",
+    "sizeBytes": 443835,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/newsletter/covers-2.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/newsletter/covers-2.jpg",
+    "sha256": "33a15e7b381ecf81",
+    "sizeBytes": 473539,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/newsletter/covers-3.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/newsletter/covers-3.jpg",
+    "sha256": "c3c874a1cffbf6db",
+    "sizeBytes": 402111,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/newsletter/covers-4.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/newsletter/covers-4.jpg",
+    "sha256": "ccc0485000c3df7a",
+    "sizeBytes": 422646,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/newsletter/covers-5.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/newsletter/covers-5.jpg",
+    "sha256": "6758caee49fe000b",
+    "sizeBytes": 530478,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/newsletter/covers-6.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/newsletter/covers-6.jpg",
+    "sha256": "83a2d2aed6a5fe0c",
+    "sizeBytes": 479915,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/newsletter/covers-7.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/newsletter/covers-7.jpg",
+    "sha256": "219b2229c3152f67",
+    "sizeBytes": 421903,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/newsletter/covers-8.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/newsletter/covers-8.jpg",
+    "sha256": "364048e25d579e8a",
+    "sizeBytes": 445698,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/newsletter/covers-9.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/newsletter/covers-9.jpg",
+    "sha256": "821f6c9291d02a09",
+    "sizeBytes": 509348,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/newsletter/covers-10.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/newsletter/covers-10.jpg",
+    "sha256": "69af7103ab33478a",
+    "sizeBytes": 729032,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/bibliography/dolphin-dreamtime.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/bibliography/dolphin-dreamtime.jpg",
+    "sha256": "eebf812f3a2ae93a",
+    "sizeBytes": 261523,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/bibliography/spiritual-ecology.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/bibliography/spiritual-ecology.jpg",
+    "sha256": "3ce7a4140e00f5f7",
+    "sizeBytes": 253415,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/bibliography/why-we-garden.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/bibliography/why-we-garden.jpg",
+    "sha256": "17169c898548e932",
+    "sizeBytes": 158808,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/bibliography/the-charged-border.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/bibliography/the-charged-border.jpg",
+    "sha256": "4288649e03544353",
+    "sizeBytes": 89755,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/bibliography/beluga-cafe.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/bibliography/beluga-cafe.jpg",
+    "sha256": "034254281d1747b0",
+    "sizeBytes": 253261,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/bibliography/the-man-who-talks-to-whales.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/bibliography/the-man-who-talks-to-whales.jpg",
+    "sha256": "3428e515b4934baf",
+    "sizeBytes": 158256,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/discography/playing-music-with-animals-1982.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/discography/playing-music-with-animals-1982.jpg",
+    "sha256": "003b95e723578f00",
+    "sizeBytes": 294832,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/discography/ogh.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/discography/ogh.jpg",
+    "sha256": "36175292127823ea",
+    "sizeBytes": 43807,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/discography/a-fish-thats-a-song.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/discography/a-fish-thats-a-song.jpg",
+    "sha256": "9b727a99dcb0390d",
+    "sizeBytes": 199942,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/discography/ab67616d0000b273603a0f47adabf66e274556c6.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/discography/ab67616d0000b273603a0f47adabf66e274556c6.jpg",
+    "sha256": "e4de7c9a3ef3b979",
+    "sizeBytes": 281639,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/discography/belly-of-the-whale.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/discography/belly-of-the-whale.jpg",
+    "sha256": "8a9d55f97d2b602f",
+    "sizeBytes": 28363,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/discography/the-new-old-time.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/discography/the-new-old-time.jpg",
+    "sha256": "bb11afd54973e8b2",
+    "sizeBytes": 91518,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/discography/music-for-swimming-and-flying.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/discography/music-for-swimming-and-flying.jpg",
+    "sha256": "237c2942e2dcb657",
+    "sizeBytes": 287632,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/discography/oropendola.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/discography/oropendola.jpg",
+    "sha256": "4c68babc11bedde6",
+    "sizeBytes": 341825,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "https://05ec48578e12534030.temporary.link/interspecies/philosophy.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/05ec48578e12534030.temporary.link/interspecies/philosophy.jpg",
+    "sha256": "bd1320ea5abfa115",
+    "sizeBytes": 311514,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/css/d77d7b2205f6ff49.css",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/css/d77d7b2205f6ff49.css",
+    "sha256": "8e54cd70ceb51fcd",
+    "sizeBytes": 21840,
+    "kind": "text/css",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/4bd1b696-299743f5624cdabe.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/4bd1b696-299743f5624cdabe.js",
+    "sha256": "37241cd3183b7a3e",
+    "sizeBytes": 168413,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/684-c8eeea2a654cbd38.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/684-c8eeea2a654cbd38.js",
+    "sha256": "b9c91fd8b72d85aa",
+    "sizeBytes": 175461,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/main-app-d9794b1200c643e4.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/main-app-d9794b1200c643e4.js",
+    "sha256": "5f2187cd5c9aaa42",
+    "sizeBytes": 518,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/397-d9241252a5643b94.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/397-d9241252a5643b94.js",
+    "sha256": "a11ab52800a9277f",
+    "sizeBytes": 115932,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/app/layout-7e846e6897cd8a6e.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/app/layout-7e846e6897cd8a6e.js",
+    "sha256": "dd4f50ec4f859a72",
+    "sizeBytes": 3371,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/794-9b83050afb2b6766.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/794-9b83050afb2b6766.js",
+    "sha256": "e339326f9fcbde96",
+    "sizeBytes": 56991,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/785-b98ac527597e2cb2.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/785-b98ac527597e2cb2.js",
+    "sha256": "34dac5292e67336b",
+    "sizeBytes": 45181,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/460-bdc2b19a68fcaea2.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/460-bdc2b19a68fcaea2.js",
+    "sha256": "c9a155ef168d3639",
+    "sizeBytes": 30399,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/653-35977efcf1254fb7.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/653-35977efcf1254fb7.js",
+    "sha256": "ca681c0e92a93e8c",
+    "sizeBytes": 17256,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/238-aeed83f36b6bf88f.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/238-aeed83f36b6bf88f.js",
+    "sha256": "cec41679b8bc6520",
+    "sizeBytes": 12199,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/app/page-5005ace797268b74.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/app/page-5005ace797268b74.js",
+    "sha256": "57569ec45aa5a332",
+    "sizeBytes": 15645,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "sha256": "0973c1d64c88adc8",
+    "sizeBytes": 112594,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.interspecies.com/_next/static/chunks/webpack-68f22649503f8e75.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.interspecies.com/_next/static/chunks/webpack-68f22649503f8e75.js",
+    "sha256": "448759ab5f27a70f",
+    "sizeBytes": 3843,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.interspecies.com/"
+  },
+  {
+    "url": "http://www.samadhitank.com/graphics/samadhi-banner2.png",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.samadhitank.com/graphics/samadhi-banner2.png",
+    "sha256": "aa27d816c6a7d804",
+    "sizeBytes": 312087,
+    "kind": "image/png",
+    "sourcePage": "http://www.samadhitank.com/"
+  },
+  {
+    "url": "http://www.samadhitank.com/graphics/steph-curry-floating.jpg",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.samadhitank.com/graphics/steph-curry-floating.jpg",
+    "sha256": "f56146fac84f533e",
+    "sizeBytes": 122203,
+    "kind": "image/jpeg",
+    "sourcePage": "http://www.samadhitank.com/"
+  },
+  {
+    "url": "http://www.samadhitank.com/graphics/floating-quiet-darkness-cover.png",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.samadhitank.com/graphics/floating-quiet-darkness-cover.png",
+    "sha256": "c7e5c16eb47c9c61",
+    "sizeBytes": 345044,
+    "kind": "image/png",
+    "sourcePage": "http://www.samadhitank.com/"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/fonts.googleapis.com/css.html",
+    "sha256": "910658fb3f9f73f1",
+    "sizeBytes": 1230,
+    "kind": "text/css",
+    "sourcePage": "http://www.samadhitank.com/"
+  },
+  {
+    "url": "http://www.samadhitank.com/ssi/normxxaxx.css",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.samadhitank.com/ssi/normxxaxx.css",
+    "sha256": "37915dcefaa2582f",
+    "sizeBytes": 1551,
+    "kind": "text/css",
+    "sourcePage": "http://www.samadhitank.com/"
+  },
+  {
+    "url": "http://www.samadhitank.com/ssi/main.css",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.samadhitank.com/ssi/main.css",
+    "sha256": "e18f2197ff36b10c",
+    "sizeBytes": 18038,
+    "kind": "text/css",
+    "sourcePage": "http://www.samadhitank.com/"
+  },
+  {
+    "url": "http://www.samadhitank.com/ssi/jquery.min.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.samadhitank.com/ssi/jquery.min.js",
+    "sha256": "8c574e0a06396dfa",
+    "sizeBytes": 92555,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.samadhitank.com/"
+  },
+  {
+    "url": "http://www.samadhitank.com/ssi/xxaxxutils.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.samadhitank.com/ssi/xxaxxutils.js",
+    "sha256": "828a827155cd0d92",
+    "sizeBytes": 17298,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.samadhitank.com/"
+  },
+  {
+    "url": "http://www.samadhitank.com/ssi/jmi-main.js",
+    "localPath": "/home/node/.openclaw/workspace/builds/jcl-hub/mirror/www.samadhitank.com/ssi/jmi-main.js",
+    "sha256": "00c979084684d3c5",
+    "sizeBytes": 12820,
+    "kind": "application/javascript",
+    "sourcePage": "http://www.samadhitank.com/"
+  }
+]
