@@ -1,0 +1,41 @@
+{
+  "project": "JCL Archive — dolphins-jcl.netlify.app",
+  "source_of_truth": "http://www.johnclilly.com",
+  "current_batch": "0",
+  "batches": {
+    "0": "pending",
+    "A": "pending",
+    "B": "pending",
+    "C": "pending",
+    "D": "pending",
+    "E": "pending",
+    "F": "pending",
+    "G": "pending",
+    "H": "pending",
+    "I": "pending",
+    "J": "pending",
+    "K": "pending",
+    "L": "pending",
+    "M": "pending",
+    "N": "pending",
+    "O": "pending"
+  },
+  "pages": {
+    "index.html":        "partial",
+    "thestory.html":     "partial",
+    "cetacean.html":     "partial",
+    "interspecies.html": "partial",
+    "isolation.html":    "partial",
+    "mind.html":         "partial",
+    "ecco.html":         "partial",
+    "bio.html":          "partial",
+    "writings.html":     "partial",
+    "memorial.html":     "partial",
+    "vortex.html":       "partial",
+    "photos.html":       "partial",
+    "gallery.html":      "partial"
+  },
+  "last_batch_run": null,
+  "last_batch_completed": null,
+  "last_updated": "2026-05-17"
+}
