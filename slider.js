@@ -1,8 +1,9 @@
 /* ═══════════════════════════════════════════════
-   JCL Archive — Image Slider Runtime
-   Handles drag/touch for all .img-slider elements
+   JCL Archive — Image Comparison Slider v2
+   Default: AI image fully visible
+   Drag RIGHT → original archive image revealed
    ═══════════════════════════════════════════════ */
-(function() {
+(function () {
   'use strict';
 
   function initSlider(el) {
@@ -13,91 +14,72 @@
     var dragging = false;
     var rect;
 
+    // pct = 0:   handle at left  → AI fully visible (default)
+    // pct = 100: handle at right → AI fully hidden → original shows
+    function setPosition(pct) {
+      var p = Math.max(0, Math.min(pct, 100));
+      // Clip the AI layer from the LEFT side as handle moves right
+      aiLayer.style.clipPath = 'inset(0 0 0 ' + p + '%)';
+      handle.style.left = p + '%';
+    }
+
     function getPercent(clientX) {
       rect = el.getBoundingClientRect();
-      var x = Math.max(0, Math.min(clientX - rect.left, rect.width));
-      return (x / rect.width) * 100;
+      return ((clientX - rect.left) / rect.width) * 100;
     }
 
-    function setPosition(pct) {
-      // pct = 0: handle far left (original fully visible)
-      // pct = 100: handle far right (AI fully visible — default)
-      var reveal = Math.max(0, Math.min(pct, 100));
-      // Clip AI layer: clip from right, revealing from right = show (100-reveal)% from right
-      var clipRight = 100 - reveal;
-      aiLayer.style.clipPath = 'inset(0 ' + clipRight + '% 0 0)';
-      handle.style.left = reveal + '%';
-    }
-
-    function onStart(clientX) {
+    function start(clientX) {
       el.classList.remove('hint-anim');
       dragging = true;
       rect = el.getBoundingClientRect();
       setPosition(getPercent(clientX));
     }
-
-    function onMove(clientX) {
+    function move(clientX) {
       if (!dragging) return;
       setPosition(getPercent(clientX));
     }
+    function end() { dragging = false; }
 
-    function onEnd() {
-      dragging = false;
-    }
+    el.addEventListener('mousedown',  e => { e.preventDefault(); start(e.clientX); });
+    window.addEventListener('mousemove', e => move(e.clientX));
+    window.addEventListener('mouseup', end);
 
-    // Mouse
-    el.addEventListener('mousedown', function(e) {
-      e.preventDefault();
-      onStart(e.clientX);
-    });
-    window.addEventListener('mousemove', function(e) {
-      if (!dragging) return;
-      onMove(e.clientX);
-    });
-    window.addEventListener('mouseup', onEnd);
+    el.addEventListener('touchstart', e => { e.preventDefault(); start(e.touches[0].clientX); }, { passive: false });
+    el.addEventListener('touchmove',  e => { e.preventDefault(); move(e.touches[0].clientX);  }, { passive: false });
+    el.addEventListener('touchend', end);
 
-    // Touch
-    el.addEventListener('touchstart', function(e) {
-      e.preventDefault();
-      onStart(e.touches[0].clientX);
-    }, { passive: false });
-    el.addEventListener('touchmove', function(e) {
-      e.preventDefault();
-      onMove(e.touches[0].clientX);
-    }, { passive: false });
-    el.addEventListener('touchend', onEnd);
-
-    // Click toggle (fast tap without drag)
+    // Click toggle
     var startX, startT;
-    el.addEventListener('mousedown', function(e) { startX = e.clientX; startT = Date.now(); });
-    el.addEventListener('mouseup', function(e) {
+    el.addEventListener('mousedown', e => { startX = e.clientX; startT = Date.now(); });
+    el.addEventListener('mouseup', e => {
       if (Date.now() - startT < 200 && Math.abs(e.clientX - startX) < 8) {
-        // Toggle
-        var cur = parseFloat(aiLayer.style.clipPath.replace(/inset\(0 ([0-9.]+)%.*/, '$1') || '0');
-        setPosition(cur > 50 ? 0 : 100);
+        var cur = parseFloat(handle.style.left || '0');
+        setPosition(cur < 50 ? 100 : 0);
       }
     });
 
-    // Keyboard accessible
+    // Keyboard
     el.setAttribute('tabindex', '0');
     el.setAttribute('role', 'slider');
-    el.setAttribute('aria-label', 'Drag to compare AI reinterpretation with original archive image');
-    el.addEventListener('keydown', function(e) {
-      var cur = parseFloat(handle.style.left || '100');
-      if (e.key === 'ArrowLeft')  { setPosition(Math.max(0,   cur - 10)); e.preventDefault(); }
+    el.setAttribute('aria-label', 'Drag right to see original archive image, drag left for AI version');
+    el.addEventListener('keydown', e => {
+      var cur = parseFloat(handle.style.left || '0');
       if (e.key === 'ArrowRight') { setPosition(Math.min(100, cur + 10)); e.preventDefault(); }
-      if (e.key === 'Home')       { setPosition(0);   e.preventDefault(); }
-      if (e.key === 'End')        { setPosition(100); e.preventDefault(); }
+      if (e.key === 'ArrowLeft')  { setPosition(Math.max(0,   cur - 10)); e.preventDefault(); }
+      if (e.key === 'End')   { setPosition(100); e.preventDefault(); }
+      if (e.key === 'Home')  { setPosition(0);   e.preventDefault(); }
     });
 
-    // Default: AI fully visible, play hint animation once
-    setPosition(100);
+    // Default: AI fully visible (pct = 0, handle at left)
+    setPosition(0);
+
+    // Hint animation — slightly reveals original then snaps back
     el.classList.add('hint-anim');
   }
 
   function initAll() {
     document.querySelectorAll('.img-slider:not(.no-ai):not([data-slider-init])')
-      .forEach(function(el) {
+      .forEach(el => {
         el.setAttribute('data-slider-init', '1');
         initSlider(el);
       });
@@ -108,7 +90,5 @@
   } else {
     initAll();
   }
-
-  // Re-run for dynamically added sliders
   window.initSliders = initAll;
 })();

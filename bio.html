@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Biography — John C. Lilly Archive</title>
@@ -11,8 +9,8 @@
   <link rel="stylesheet" href="style-jcl.css">
   <link rel="stylesheet" href="slider.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&amp;display=swap" rel="stylesheet">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐬</text></svg>">
 </head>
 <body><header class="site-header">
@@ -54,29 +52,40 @@
     <h1 style="font-family:var(--font-serif);font-size:clamp(2.2rem,5vw,3.6rem);font-weight:600;line-height:1.1;margin-bottom:16px;">A Life in <em style="font-style:normal;background:var(--grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Science</em></h1>
     <p style="font-size:clamp(1rem,2vw,1.2rem);color:var(--text-soft);line-height:1.75;max-width:640px;margin:0 auto;">January 6, 1915 — September 30, 2001 · Neurosurgeon · Dolphin Researcher · Psychonaut · Visionary</p>
   </div>
-</section><div class="hero-slider-wrap" style="position:relative;z-index:1;">
-  <div class="img-slider" style="aspect-ratio:21/9;border-radius:0;border:none;border-bottom:1px solid var(--border);">
-    <div class="img-slider-original" style="background:var(--bg-mid);display:flex;align-items:center;justify-content:center;"><img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1779034026/jcl-archive/ai/group-01.jpg" alt="Archive" loading="eager" style="max-width:100%;max-height:100%;object-fit:contain;"></div>
-    <div class="img-slider-ai"><img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1779034026/jcl-archive/ai/group-01.jpg" alt="AI reinterpretation" loading="eager" style="width:100%;height:100%;object-fit:cover;"><div class="slider-ai-overlay"></div></div>
-    <div class="img-slider-handle" aria-hidden="true"></div>
-    <span class="slider-label slider-label-ai">✦ AI</span>
-    <span class="slider-label slider-label-orig">📷 Archive</span>
+</section><div class="hero-slider-wrap" style="position:relative;z-index:1;background:#000;">
+  <div class="img-slider" style="aspect-ratio:21/9;border-radius:0;border:none;border-bottom:1px solid var(--border);" aria-label="Drag right to reveal original archive photograph">
+    <div class="img-slider-original" style="position:absolute;inset:0;background:#fff;">
+      <img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1778985001/jcl-archive/gifs/bt_jcl_icerc1999.jpg" alt="Original archive photograph" loading="eager" style="width:100%;height:100%;object-fit:cover;">
+    </div>
+    <div class="img-slider-ai" style="position:absolute;inset:0;overflow:hidden;clip-path:inset(0 0 0 0%);">
+      <img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1779034026/jcl-archive/ai/group-01.jpg" alt="AI reinterpretation" loading="eager" style="width:100%;height:100%;object-fit:cover;">
+      <div class="slider-ai-overlay" style="position:absolute;inset:0;background:linear-gradient(to top,rgba(8,14,24,0.35) 0%,transparent 50%);pointer-events:none;"></div>
+    </div>
+    <div class="img-slider-handle" style="position:absolute;top:0;bottom:0;width:3px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,0.15),0 2px 12px rgba(0,0,0,0.25);z-index:10;left:0%;transform:translateX(-50%);" aria-hidden="true"></div>
+    <span class="slider-label slider-label-ai" style="position:absolute;bottom:10px;left:12px;z-index:20;font-size:10px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:3px 8px;border-radius:99px;background:linear-gradient(135deg,#0A4D8C,#0A9AA4);color:#fff;pointer-events:none;">✦ AI</span>
+    <span class="slider-label slider-label-orig" style="position:absolute;bottom:10px;right:12px;z-index:20;font-size:10px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:3px 8px;border-radius:99px;background:rgba(255,255,255,0.92);color:#0A4D8C;border:1px solid rgba(0,0,0,0.09);pointer-events:none;">📷 Original</span>
   </div>
-  <p class="slider-caption" style="padding:8px 32px;text-align:right;font-size:12px;color:var(--text-soft);background:var(--bg-soft);border-bottom:1px solid var(--border);">John C. Lilly at the International Cetacean Research Conference, 1999</p>
-</div><div class="page">
+  <p style="padding:8px 28px;margin:0;font-size:12px;color:var(--text-soft);background:var(--bg-soft);border-bottom:1px solid var(--border);font-style:italic;">John C. Lilly at the International Cetacean Research Conference — 1999</p>
+</div>
+    
+    
+    
+  
+  
+<div class="page">
   <div class="archive-notice">⚑ <strong>Permanent Archive</strong> — Original: <a href="http://www.johnclilly.com/bio.html" target="_blank" rel="noopener">johnclilly.com/bio.html</a></div>
 
   <div class="steps" style="margin-bottom:48px;">
-    <div class="step"><div class="step-num" style="background:var(--grad);color:#fff;font-size:14px;font-weight:700;border-radius:50%;width:40px;height:40px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">1</div><div><h4 style="font-size:1rem;margin-bottom:5px;">Early Life & Education</h4><p style="font-size:14px;color:var(--text-soft);margin:0;">St. Paul, Minnesota · Caltech (physics, 1938) · University of Pennsylvania Medical School (M.D., 1942) · Dartmouth · Johns Hopkins</p></div></div>
-    <div class="step"><div class="step-num" style="background:var(--grad);color:#fff;font-size:14px;font-weight:700;border-radius:50%;width:40px;height:40px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">2</div><div><h4 style="font-size:1rem;margin-bottom:5px;">NIMH & The First Tank</h4><p style="font-size:14px;color:var(--text-soft);margin:0;">National Institute of Mental Health, Bethesda · First isolation tank, 1954 · Brain electrode research · Neurophysiology pioneer</p></div></div>
+    <div class="step"><div class="step-num" style="background:var(--grad);color:#fff;font-size:14px;font-weight:700;border-radius:50%;width:40px;height:40px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">1</div><div><h4 style="font-size:1rem;margin-bottom:5px;">Early Life &amp; Education</h4><p style="font-size:14px;color:var(--text-soft);margin:0;">St. Paul, Minnesota · Caltech (physics, 1938) · University of Pennsylvania Medical School (M.D., 1942) · Dartmouth · Johns Hopkins</p></div></div>
+    <div class="step"><div class="step-num" style="background:var(--grad);color:#fff;font-size:14px;font-weight:700;border-radius:50%;width:40px;height:40px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">2</div><div><h4 style="font-size:1rem;margin-bottom:5px;">NIMH &amp; The First Tank</h4><p style="font-size:14px;color:var(--text-soft);margin:0;">National Institute of Mental Health, Bethesda · First isolation tank, 1954 · Brain electrode research · Neurophysiology pioneer</p></div></div>
     <div class="step"><div class="step-num" style="background:var(--grad);color:#fff;font-size:14px;font-weight:700;border-radius:50%;width:40px;height:40px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">3</div><div><h4 style="font-size:1rem;margin-bottom:5px;">The Virgin Islands</h4><p style="font-size:14px;color:var(--text-soft);margin:0;">Communications Research Institute, St. Thomas, 1959 · Dolphin research · Margaret Howe experiment · The flooded laboratory</p></div></div>
-    <div class="step"><div class="step-num" style="background:var(--grad);color:#fff;font-size:14px;font-weight:700;border-radius:50%;width:40px;height:40px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">4</div><div><h4 style="font-size:1rem;margin-bottom:5px;">Esalen & The Human Potential Movement</h4><p style="font-size:14px;color:var(--text-soft);margin:0;">Big Sur, California · LSD and ketamine research · Metaprogramming theory · E.C.C.O. cosmology · International influence</p></div></div>
-    <div class="step"><div class="step-num" style="background:var(--grad);color:#fff;font-size:14px;font-weight:700;border-radius:50%;width:40px;height:40px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">5</div><div><h4 style="font-size:1rem;margin-bottom:5px;">Later Life & Legacy</h4><p style="font-size:14px;color:var(--text-soft);margin:0;">Malibu, California · Human Software Inc. · Samadhi tanks worldwide · Died September 30, 2001</p></div></div>
+    <div class="step"><div class="step-num" style="background:var(--grad);color:#fff;font-size:14px;font-weight:700;border-radius:50%;width:40px;height:40px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">4</div><div><h4 style="font-size:1rem;margin-bottom:5px;">Esalen &amp; The Human Potential Movement</h4><p style="font-size:14px;color:var(--text-soft);margin:0;">Big Sur, California · LSD and ketamine research · Metaprogramming theory · E.C.C.O. cosmology · International influence</p></div></div>
+    <div class="step"><div class="step-num" style="background:var(--grad);color:#fff;font-size:14px;font-weight:700;border-radius:50%;width:40px;height:40px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">5</div><div><h4 style="font-size:1rem;margin-bottom:5px;">Later Life &amp; Legacy</h4><p style="font-size:14px;color:var(--text-soft);margin:0;">Malibu, California · Human Software Inc. · Samadhi tanks worldwide · Died September 30, 2001</p></div></div>
   </div>
 
   <div style="margin:48px 0 20px;">
   <span style="display:block;font-size:0.7rem;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--teal);margin-bottom:6px;">EARLY LIFE PHOTOS</span>
-  <h2 style="font-size:1.35rem;font-weight:800;color:var(--text);line-height:1.2;">Youth & Education</h2>
+  <h2 style="font-size:1.35rem;font-weight:800;color:var(--text);line-height:1.2;">Youth &amp; Education</h2>
   <div style="height:3px;width:48px;background:var(--grad);border-radius:2px;margin-top:10px;"></div>
 </div>
   <div class="feature-grid">
@@ -108,7 +117,7 @@
 
   <div style="margin:48px 0 20px;">
   <span style="display:block;font-size:0.7rem;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--teal);margin-bottom:6px;">AT WORK</span>
-  <h2 style="font-size:1.35rem;font-weight:800;color:var(--text);line-height:1.2;">Research & Laboratory</h2>
+  <h2 style="font-size:1.35rem;font-weight:800;color:var(--text);line-height:1.2;">Research &amp; Laboratory</h2>
   <div style="height:3px;width:48px;background:var(--grad);border-radius:2px;margin-top:10px;"></div>
 </div>
   <div class="feature-grid">
@@ -151,14 +160,14 @@
   </div>
 
   <div style="margin:48px 0 20px;">
-  <span style="display:block;font-size:0.7rem;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--teal);margin-bottom:6px;">COLLEAGUES & FAMILY</span>
+  <span style="display:block;font-size:0.7rem;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--teal);margin-bottom:6px;">COLLEAGUES &amp; FAMILY</span>
   <h2 style="font-size:1.35rem;font-weight:800;color:var(--text);line-height:1.2;">People in the Archive</h2>
   <div style="height:3px;width:48px;background:var(--grad);border-radius:2px;margin-top:10px;"></div>
 </div>
   <div class="feature-grid">
     <a href="marpeterx.html" class="feature-card">
   <span class="fc-icon">🐬</span>
-  <span class="fc-title">Margaret & Peter</span>
+  <span class="fc-title">Margaret &amp; Peter</span>
   <span class="fc-desc">Margaret Howe and Peter the dolphin — the central relationship of the interspecies experiment.</span>
   <span class="fc-cta">View photos</span>
 </a>
@@ -168,21 +177,21 @@
   <span class="fc-desc">Photographs and records of Lilly's relationship with LSD inventor Albert Hofmann.</span>
   <span class="fc-cta">View</span>
 </a>
-    <a href="JL&Barbarax.html" class="feature-card">
+    <a href="JL&amp;Barbarax.html" class="feature-card">
   <span class="fc-icon">❤️</span>
-  <span class="fc-title">John & Barbara</span>
+  <span class="fc-title">John &amp; Barbara</span>
   <span class="fc-desc">Photographs of John Lilly with his wife Barbara Brown Lilly.</span>
   <span class="fc-cta">View</span>
 </a>
-    <a href="JL&Loux.html" class="feature-card">
+    <a href="JL&amp;Loux.html" class="feature-card">
   <span class="fc-icon">👥</span>
-  <span class="fc-title">John & Lou</span>
+  <span class="fc-title">John &amp; Lou</span>
   <span class="fc-desc">John Lilly with Lou Gasnier — later life photographs from the Malibu period.</span>
   <span class="fc-cta">View</span>
 </a>
-    <a href="JL&takakox.html" class="feature-card">
+    <a href="JL&amp;takakox.html" class="feature-card">
   <span class="fc-icon">🌏</span>
-  <span class="fc-title">John & Takako</span>
+  <span class="fc-title">John &amp; Takako</span>
   <span class="fc-desc">Photographs with Takako Takase during the Japanese research visits.</span>
   <span class="fc-cta">View</span>
 </a>

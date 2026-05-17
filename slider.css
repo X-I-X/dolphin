@@ -44,7 +44,7 @@
   inset: 0;
   overflow: hidden;
   /* clip-path controlled by JS: starts at 100% (fully visible) */
-  clip-path: inset(0 0 0 0);
+  clip-path: inset(0 0 0 0%); /* AI fully visible: no left clip */
   transition: clip-path 0s;
 }
 .img-slider-ai img {
@@ -70,7 +70,7 @@
   box-shadow: 0 0 0 1px rgba(0,0,0,0.15), 0 2px 12px rgba(0,0,0,0.25);
   z-index: 10;
   /* position set by JS */
-  left: 100%;
+  left: 0%; /* default: handle at left edge */
   transform: translateX(-50%);
   transition: left 0s;
 }
@@ -130,9 +130,9 @@
   animation: slider-hint 1.2s ease-out 0.6s forwards;
 }
 @keyframes slider-hint {
-  0%   { clip-path: inset(0 0% 0 0); }
-  40%  { clip-path: inset(0 35% 0 0); }
-  100% { clip-path: inset(0 0% 0 0); }
+  0%   { clip-path: inset(0 0 0 0%); }
+  40%  { clip-path: inset(0 0 0 45%); }
+  100% { clip-path: inset(0 0 0 0%); }
 }
 
 /* Loading state */

@@ -52,20 +52,33 @@
     <h1 style="font-family:var(--font-serif);font-size:clamp(2rem,5vw,3.4rem);font-weight:600;line-height:1.1;margin-bottom:14px;"><em style="font-style:normal;background:var(--grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Vortex</em></h1>
     <p style="font-size:clamp(0.95rem,2vw,1.1rem);color:var(--text-soft);max-width:580px;margin:0 auto;line-height:1.7;">Deep ocean mapping, SOFAR channels, cetacean long-range communication, and the cosmic perspective.</p>
   </div>
-</section><div class="slider-wrap" style="margin:0 0 8px;">
-  <div class="img-slider" style="aspect-ratio:16/7;border-radius:0;border:none;border-bottom:1px solid var(--border);">
-    <div class="img-slider-original" style="background:#fff;padding:0;">
-        <img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1778985123/jcl-archive/gifs/sofar.gif" alt="SOFAR sonar — original" loading="lazy" style="width:100%;height:100%;object-fit:cover;">
-      </div>
+</section><div class="hero-slider-wrap" style="position:relative;z-index:1;background:#000;">
+  <div class="img-slider" style="aspect-ratio:21/9;border-radius:0;border:none;border-bottom:1px solid var(--border);" aria-label="Drag right to reveal original archive photograph">
+    <div class="img-slider-original" style="position:absolute;inset:0;background:#fff;">
+      <img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1778985123/jcl-archive/gifs/sofar.gif" alt="Original archive photograph" loading="eager" style="width:100%;height:100%;object-fit:cover;">
+    </div>
+    <div class="img-slider-ai" style="position:absolute;inset:0;overflow:hidden;clip-path:inset(0 0 0 0%);">
+      <img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1779034033/jcl-archive/ai/group-11.jpg" alt="AI reinterpretation" loading="eager" style="width:100%;height:100%;object-fit:cover;">
+      <div class="slider-ai-overlay" style="position:absolute;inset:0;background:linear-gradient(to top,rgba(8,14,24,0.35) 0%,transparent 50%);pointer-events:none;"></div>
+    </div>
+    <div class="img-slider-handle" style="position:absolute;top:0;bottom:0;width:3px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,0.15),0 2px 12px rgba(0,0,0,0.25);z-index:10;left:0%;transform:translateX(-50%);" aria-hidden="true"></div>
+    <span class="slider-label slider-label-ai" style="position:absolute;bottom:10px;left:12px;z-index:20;font-size:10px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:3px 8px;border-radius:99px;background:linear-gradient(135deg,#0A4D8C,#0A9AA4);color:#fff;pointer-events:none;">✦ AI</span>
+    <span class="slider-label slider-label-orig" style="position:absolute;bottom:10px;right:12px;z-index:20;font-size:10px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:3px 8px;border-radius:99px;background:rgba(255,255,255,0.92);color:#0A4D8C;border:1px solid rgba(0,0,0,0.09);pointer-events:none;">📷 Original</span>
+  </div>
+  <p style="padding:8px 28px;margin:0;font-size:12px;color:var(--text-soft);background:var(--bg-soft);border-bottom:1px solid var(--border);font-style:italic;">SOFAR channel — deep ocean acoustic mapping</p>
+</div><div class="slider-wrap">
+  <div class="img-slider" role="img" aria-label="Drag right to reveal original archive image">
+    <div class="img-slider-original">
+      <img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1778985123/jcl-archive/gifs/sofar.gif" alt="SOFAR sonar — original — original archive" loading="lazy">
+    </div>
     <div class="img-slider-ai">
-      <img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1779034033/jcl-archive/ai/group-11.jpg" alt="SOFAR sonar — AI reinterpretation" loading="eager">
+      <img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1779034033/jcl-archive/ai/group-11.jpg" alt="SOFAR sonar — original — AI reinterpretation" loading="lazy">
       <div class="slider-ai-overlay"></div>
     </div>
     <div class="img-slider-handle" aria-hidden="true"></div>
     <span class="slider-label slider-label-ai">✦ AI</span>
-    <span class="slider-label slider-label-orig">📷 Archive</span>
+    <span class="slider-label slider-label-orig">📷 Original</span>
   </div>
-  <p class="slider-caption">SOFAR channel and deep ocean sound mapping</p>
 </div><div class="page">
 <div class="archive-notice">⚑ <strong>Permanent Archive</strong> — Original: <a href="http://www.johnclilly.com/vortex.html" target="_blank" rel="noopener">johnclilly.com/vortex.html</a></div>
 <h2 style="font-size:1rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;border-bottom:1px solid var(--border);padding-bottom:10px;margin:36px 0 16px;color:var(--text);">Vortex &amp; Deep Ocean</h2>

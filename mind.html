@@ -1,18 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Brain & Mind — John C. Lilly Archive</title>
+  <title>Brain &amp; Mind — John C. Lilly Archive</title>
   <meta name="description" content="John C. Lilly — the human biocomputer theory, metaprogramming, and the architecture of consciousness.">
-  <meta property="og:title" content="Brain & Mind — JCL Archive">
+  <meta property="og:title" content="Brain &amp; Mind — JCL Archive">
   <meta property="og:description" content="John C. Lilly — the human biocomputer theory, metaprogramming, and the architecture of consciousness.">
   <meta property="og:type" content="article">
   <link rel="stylesheet" href="style-jcl.css">
   <link rel="stylesheet" href="slider.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&amp;display=swap" rel="stylesheet">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐬</text></svg>">
 </head>
 <body><header class="site-header">
@@ -54,16 +52,27 @@
     <h1 style="font-family:var(--font-serif);font-size:clamp(2.2rem,5vw,3.6rem);font-weight:600;line-height:1.1;margin-bottom:16px;">Brain &amp; <em style="font-style:normal;background:var(--grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Mind</em></h1>
     <p style="font-size:clamp(1rem,2vw,1.2rem);color:var(--text-soft);line-height:1.75;max-width:640px;margin:0 auto;">The human brain as a programmable biological computer. Long before Silicon Valley — Lilly said it first.</p>
   </div>
-</section><div class="hero-slider-wrap" style="position:relative;z-index:1;">
-  <div class="img-slider" style="aspect-ratio:21/9;border-radius:0;border:none;border-bottom:1px solid var(--border);">
-    <div class="img-slider-original"><img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1778984910/jcl-archive/gifs/brainbody.gif" alt="Archive original" loading="eager" style="width:100%;height:100%;object-fit:cover;"></div>
-    <div class="img-slider-ai"><img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1779034029/jcl-archive/ai/group-06.jpg" alt="AI reinterpretation" loading="eager" style="width:100%;height:100%;object-fit:cover;"><div class="slider-ai-overlay"></div></div>
-    <div class="img-slider-handle" aria-hidden="true"></div>
-    <span class="slider-label slider-label-ai">✦ AI</span>
-    <span class="slider-label slider-label-orig">📷 Archive</span>
+</section><div class="hero-slider-wrap" style="position:relative;z-index:1;background:#000;">
+  <div class="img-slider" style="aspect-ratio:21/9;border-radius:0;border:none;border-bottom:1px solid var(--border);" aria-label="Drag right to reveal original archive photograph">
+    <div class="img-slider-original" style="position:absolute;inset:0;background:#fff;">
+      <img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1778984910/jcl-archive/gifs/brainbody.gif" alt="Original archive photograph" loading="eager" style="width:100%;height:100%;object-fit:cover;">
+    </div>
+    <div class="img-slider-ai" style="position:absolute;inset:0;overflow:hidden;clip-path:inset(0 0 0 0%);">
+      <img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1779034029/jcl-archive/ai/group-06.jpg" alt="AI reinterpretation" loading="eager" style="width:100%;height:100%;object-fit:cover;">
+      <div class="slider-ai-overlay" style="position:absolute;inset:0;background:linear-gradient(to top,rgba(8,14,24,0.35) 0%,transparent 50%);pointer-events:none;"></div>
+    </div>
+    <div class="img-slider-handle" style="position:absolute;top:0;bottom:0;width:3px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,0.15),0 2px 12px rgba(0,0,0,0.25);z-index:10;left:0%;transform:translateX(-50%);" aria-hidden="true"></div>
+    <span class="slider-label slider-label-ai" style="position:absolute;bottom:10px;left:12px;z-index:20;font-size:10px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:3px 8px;border-radius:99px;background:linear-gradient(135deg,#0A4D8C,#0A9AA4);color:#fff;pointer-events:none;">✦ AI</span>
+    <span class="slider-label slider-label-orig" style="position:absolute;bottom:10px;right:12px;z-index:20;font-size:10px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;padding:3px 8px;border-radius:99px;background:rgba(255,255,255,0.92);color:#0A4D8C;border:1px solid rgba(0,0,0,0.09);pointer-events:none;">📷 Original</span>
   </div>
-  <p class="slider-caption" style="padding:8px 32px;text-align:right;font-size:12px;color:var(--text-soft);background:var(--bg-soft);border-bottom:1px solid var(--border);">Brain mapping and neural research — National Institute of Mental Health, Bethesda — 1950s</p>
-</div><div class="page">
+  <p style="padding:8px 28px;margin:0;font-size:12px;color:var(--text-soft);background:var(--bg-soft);border-bottom:1px solid var(--border);font-style:italic;">Brain research documentation, NIMH — 1950s</p>
+</div>
+    
+    
+    
+  
+  
+<div class="page">
   <div class="archive-notice">⚑ <strong>Permanent Archive</strong> — Original: <a href="http://www.johnclilly.com/mind.html" target="_blank" rel="noopener">johnclilly.com/mind.html</a></div>
   <div class="pull-quote" style="margin:36px 0;"><p>"The brain is a biocomputer. The software is the belief system."</p><cite>— John C. Lilly</cite></div>
   <p class="section-intro">In the early 1950s, Lilly proposed something radical: the human brain operates as a programmable biological computer, and human consciousness is software running on it. He called the process of reprogramming consciousness "metaprogramming." The theory — developed through isolation tank sessions, psychedelic research, and decades of neuroscience — anticipated cognitive science by decades.</p>
@@ -88,7 +97,7 @@
 </a>
     <a href="brainsize.html" class="feature-card">
   <span class="fc-icon">📏</span>
-  <span class="fc-title">Brain Size & Intelligence</span>
+  <span class="fc-title">Brain Size &amp; Intelligence</span>
   <span class="fc-desc">Critical mass theory: why brain size matters for language, consciousness, and cognitive capability.</span>
   <span class="fc-cta">Read research</span>
 </a>
