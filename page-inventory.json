@@ -1,0 +1,5047 @@
+{
+  "stats": {
+    "total": 502,
+    "built": 142,
+    "mirrorOnly": 359,
+    "notFound": 1,
+    "tierA": 12,
+    "tierB": 105,
+    "tierC": 243,
+    "externalRefCount": 859,
+    "corruptedHrefs": 10
+  },
+  "inventory": {
+    "404.html": {
+      "fn": "404.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    },
+    "JLEsalenx.html": {
+      "fn": "JLEsalenx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "askjohn.html": {
+      "fn": "askjohn.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "babyjohnx.html": {
+      "fn": "babyjohnx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "bio.html": {
+      "fn": "bio.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    },
+    "biogx.html": {
+      "fn": "biogx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "brainx.html": {
+      "fn": "brainx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "ceo01.html": {
+      "fn": "ceo01.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "conference_record"
+    },
+    "cetacean.html": {
+      "fn": "cetacean.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 8,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "photo_gallery"
+    },
+    "cetacean01.html": {
+      "fn": "cetacean01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "cetacean05.html": {
+      "fn": "cetacean05.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "cetacean06.html": {
+      "fn": "cetacean06.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "essay"
+    },
+    "cetacean07.html": {
+      "fn": "cetacean07.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "cognitivex.html": {
+      "fn": "cognitivex.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "essay"
+    },
+    "communication01.html": {
+      "fn": "communication01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "conferencex.html": {
+      "fn": "conferencex.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "essay"
+    },
+    "current.html": {
+      "fn": "current.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    },
+    "currentx.html": {
+      "fn": "currentx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "conference_record"
+    },
+    "cyclone01.html": {
+      "fn": "cyclone01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "davidsissy01x.html": {
+      "fn": "davidsissy01x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "conference_record"
+    },
+    "davidsissy02x.html": {
+      "fn": "davidsissy02x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "conference_record"
+    },
+    "deepself01.html": {
+      "fn": "deepself01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "discoveries.html": {
+      "fn": "discoveries.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "conference_record"
+    },
+    "doljump01x.html": {
+      "fn": "doljump01x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "doljump02x.html": {
+      "fn": "doljump02x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "dolphin01.html": {
+      "fn": "dolphin01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "dolsmilex.html": {
+      "fn": "dolsmilex.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "doltankCG01x.html": {
+      "fn": "doltankCG01x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "doltankCG02x.html": {
+      "fn": "doltankCG02x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "drowningx.html": {
+      "fn": "drowningx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": true,
+      "contentType": "unknown"
+    },
+    "dyadic01.html": {
+      "fn": "dyadic01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "ecco.html": {
+      "fn": "ecco.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    },
+    "eccoCDx.html": {
+      "fn": "eccoCDx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "eccox.html": {
+      "fn": "eccox.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "conference_record"
+    },
+    "economics.html": {
+      "fn": "economics.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "conference_record"
+    },
+    "encountersx.html": {
+      "fn": "encountersx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "photo_gallery"
+    },
+    "experiment02x.html": {
+      "fn": "experiment02x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "experimentx.html": {
+      "fn": "experimentx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "gallery.html": {
+      "fn": "gallery.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "photo_gallery"
+    },
+    "history01.html": {
+      "fn": "history01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "hofmannx.html": {
+      "fn": "hofmannx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "hub.html": {
+      "fn": "hub.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 34,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "index.html": {
+      "fn": "index.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 30,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "interspecies.html": {
+      "fn": "interspecies.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "interspeciesx.html": {
+      "fn": "interspeciesx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 8,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "intro01.html": {
+      "fn": "intro01.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "inventions.html": {
+      "fn": "inventions.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    },
+    "inventionsx.html": {
+      "fn": "inventionsx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "isolation.html": {
+      "fn": "isolation.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "isolationx.html": {
+      "fn": "isolationx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 7,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "isotank02x.html": {
+      "fn": "isotank02x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "isotank03x.html": {
+      "fn": "isotank03x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "janus02x.html": {
+      "fn": "janus02x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "janus03x.html": {
+      "fn": "janus03x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "essay"
+    },
+    "janus04x.html": {
+      "fn": "janus04x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "janus05x.html": {
+      "fn": "janus05x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "janus06x.html": {
+      "fn": "janus06x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "jcl1915-2001.html": {
+      "fn": "jcl1915-2001.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "conference_record"
+    },
+    "jhome.html": {
+      "fn": "jhome.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": true,
+      "contentType": "unknown"
+    },
+    "john00.html": {
+      "fn": "john00.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "john1960x.html": {
+      "fn": "john1960x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "johnboatx.html": {
+      "fn": "johnboatx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "johnburgessx.html": {
+      "fn": "johnburgessx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "johngradx.html": {
+      "fn": "johngradx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "johnjanusx.html": {
+      "fn": "johnjanusx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "johnjapan01x.html": {
+      "fn": "johnjapan01x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "johnjapan02x.html": {
+      "fn": "johnjapan02x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "johnmarx.html": {
+      "fn": "johnmarx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "johnsissy01x.html": {
+      "fn": "johnsissy01x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": true,
+      "contentType": "unknown"
+    },
+    "johntankx.html": {
+      "fn": "johntankx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "johntimx.html": {
+      "fn": "johntimx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "johntoni01x.html": {
+      "fn": "johntoni01x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "lab00x.html": {
+      "fn": "lab00x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "labCGx.html": {
+      "fn": "labCGx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "laboratory02x.html": {
+      "fn": "laboratory02x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "laboratory04x.html": {
+      "fn": "laboratory04x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "essay"
+    },
+    "laboratoryx.html": {
+      "fn": "laboratoryx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "photo_gallery"
+    },
+    "lillywave.html": {
+      "fn": "lillywave.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "essay"
+    },
+    "linklibrary.html": {
+      "fn": "linklibrary.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "links.html": {
+      "fn": "links.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    },
+    "lsdtankx.html": {
+      "fn": "lsdtankx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "mandolph01.html": {
+      "fn": "mandolph01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "mapping.html": {
+      "fn": "mapping.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "essay"
+    },
+    "marpeter02x.html": {
+      "fn": "marpeter02x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "marpeter03x.html": {
+      "fn": "marpeter03x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "marpeterx.html": {
+      "fn": "marpeterx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "maui.html": {
+      "fn": "maui.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    },
+    "maui01.html": {
+      "fn": "maui01.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "maui02.html": {
+      "fn": "maui02.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "meltingx.html": {
+      "fn": "meltingx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "memorial.html": {
+      "fn": "memorial.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    },
+    "metaprogx.html": {
+      "fn": "metaprogx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "conference_record"
+    },
+    "mind.html": {
+      "fn": "mind.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    },
+    "mind01.html": {
+      "fn": "mind01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "mindx.html": {
+      "fn": "mindx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 8,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "moderntankx.html": {
+      "fn": "moderntankx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "music.html": {
+      "fn": "music.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    },
+    "musicvidx.html": {
+      "fn": "musicvidx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "neptune01x.html": {
+      "fn": "neptune01x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "conference_record"
+    },
+    "nmrscanx.html": {
+      "fn": "nmrscanx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "oahudolx.html": {
+      "fn": "oahudolx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "observerx.html": {
+      "fn": "observerx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "essay"
+    },
+    "outline2.html": {
+      "fn": "outline2.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 30,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "paddlex.html": {
+      "fn": "paddlex.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "conference_record"
+    },
+    "photos.html": {
+      "fn": "photos.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    },
+    "photosx.html": {
+      "fn": "photosx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 36,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "photosynthesis-profile.html": {
+      "fn": "photosynthesis-profile.html",
+      "status": "built",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": true,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    },
+    "poolCGx.html": {
+      "fn": "poolCGx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "programming01.html": {
+      "fn": "programming01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "scientificx.html": {
+      "fn": "scientificx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "scientist01.html": {
+      "fn": "scientist01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "simulations01.html": {
+      "fn": "simulations01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "sofar01.html": {
+      "fn": "sofar01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "spermwhale.html": {
+      "fn": "spermwhale.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "stagesx.html": {
+      "fn": "stagesx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "essay"
+    },
+    "tanklogsx.html": {
+      "fn": "tanklogsx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "tanks01.html": {
+      "fn": "tanks01.html",
+      "status": "built",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "tankx.html": {
+      "fn": "tankx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "teachersx.html": {
+      "fn": "teachersx.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "thestory.html": {
+      "fn": "thestory.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "touchscreen00.html": {
+      "fn": "touchscreen00.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "conference_record"
+    },
+    "touchscreen01.html": {
+      "fn": "touchscreen01.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "touchscreen03.html": {
+      "fn": "touchscreen03.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "videophone01x.html": {
+      "fn": "videophone01x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "videophone02x.html": {
+      "fn": "videophone02x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "videophone03x.html": {
+      "fn": "videophone03x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "vortex.html": {
+      "fn": "vortex.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "biographical_photo"
+    },
+    "womandolph01x.html": {
+      "fn": "womandolph01x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "womandolph03x.html": {
+      "fn": "womandolph03x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph04x.html": {
+      "fn": "womandolph04x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "womandolph05x.html": {
+      "fn": "womandolph05x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "essay"
+    },
+    "womandolph06x.html": {
+      "fn": "womandolph06x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph07x.html": {
+      "fn": "womandolph07x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph08x.html": {
+      "fn": "womandolph08x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "essay"
+    },
+    "womandolph09x.html": {
+      "fn": "womandolph09x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph10x.html": {
+      "fn": "womandolph10x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph11x.html": {
+      "fn": "womandolph11x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph12x.html": {
+      "fn": "womandolph12x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "diary_excerpt"
+    },
+    "writings.html": {
+      "fn": "writings.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "photo_gallery"
+    },
+    "yngJL01x.html": {
+      "fn": "yngJL01x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "yngJL02x.html": {
+      "fn": "yngJL02x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "yngJL03x.html": {
+      "fn": "yngJL03x.html",
+      "status": "built",
+      "tier": "TIER_A",
+      "inboundRefs": 6,
+      "isBuilt": true,
+      "inMirror": true,
+      "inApify": true,
+      "contentType": "link_index"
+    },
+    "01_99images.html": {
+      "fn": "01_99images.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "80thbdayx.html": {
+      "fn": "80thbdayx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "AHofmann_TLeary.html": {
+      "fn": "AHofmann_TLeary.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "AtoZ.html": {
+      "fn": "AtoZ.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "BT_JCL_ICERC1999.html": {
+      "fn": "BT_JCL_ICERC1999.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "InstOfEcotConf1998.html": {
+      "fn": "InstOfEcotConf1998.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JCL_AFDB_Basel.html": {
+      "fn": "JCL_AFDB_Basel.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JCL_DH_Basel.html": {
+      "fn": "JCL_DH_Basel.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JCL_JA_InstOfEcot.html": {
+      "fn": "JCL_JA_InstOfEcot.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JCL_JH_Switz.html": {
+      "fn": "JCL_JH_Switz.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JCL_K_ICERC1999.html": {
+      "fn": "JCL_K_ICERC1999.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JCL_LT_LC1998.html": {
+      "fn": "JCL_LT_LC1998.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JCL_OJaniger.html": {
+      "fn": "JCL_OJaniger.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JCLmar98_03.html": {
+      "fn": "JCLmar98_03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "JCLmar98_04.html": {
+      "fn": "JCLmar98_04.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "JCLmar98_09.html": {
+      "fn": "JCLmar98_09.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "JL&Barbara.html": {
+      "fn": "JL&Barbara.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JL&Barbarax.html": {
+      "fn": "JL&Barbarax.html",
+      "status": "mirror_only",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JL&Lou.html": {
+      "fn": "JL&Lou.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JL&Loux.html": {
+      "fn": "JL&Loux.html",
+      "status": "mirror_only",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JL&Wood.html": {
+      "fn": "JL&Wood.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JL&Woodx.html": {
+      "fn": "JL&Woodx.html",
+      "status": "mirror_only",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JL&takako.html": {
+      "fn": "JL&takako.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JL&takakox.html": {
+      "fn": "JL&takakox.html",
+      "status": "mirror_only",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "JLEsalen.html": {
+      "fn": "JLEsalen.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "K_JN_K_ICERC1999.html": {
+      "fn": "K_JN_K_ICERC1999.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "PB_OJ_KJ_JCL.html": {
+      "fn": "PB_OJ_KJ_JCL.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "PHB_JCL_PS_NYC1998.html": {
+      "fn": "PHB_JCL_PS_NYC1998.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "Qdavidsissy01.html": {
+      "fn": "Qdavidsissy01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "Qdavidsissy01x.html": {
+      "fn": "Qdavidsissy01x.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "Qdavidsissy02.html": {
+      "fn": "Qdavidsissy02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "Qdavidsissy02x.html": {
+      "fn": "Qdavidsissy02x.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "Qdavidsissy03.html": {
+      "fn": "Qdavidsissy03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "Qdavidsissy03x.html": {
+      "fn": "Qdavidsissy03x.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "Qdolphins.html": {
+      "fn": "Qdolphins.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "Qdolphinsx.html": {
+      "fn": "Qdolphinsx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "Qdrowning.html": {
+      "fn": "Qdrowning.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "Qdrowningx.html": {
+      "fn": "Qdrowningx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "Qgeorgesissy01.html": {
+      "fn": "Qgeorgesissy01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "Qgeorgesissy01x.html": {
+      "fn": "Qgeorgesissy01x.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "Qjohnsissy01.html": {
+      "fn": "Qjohnsissy01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "Qjohnsissy01x.html": {
+      "fn": "Qjohnsissy01x.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "accounts.html": {
+      "fn": "accounts.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "accountsx.html": {
+      "fn": "accountsx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "essay"
+    },
+    "agents.html": {
+      "fn": "agents.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "albertJohn01.html": {
+      "fn": "albertJohn01.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "aristotle.html": {
+      "fn": "aristotle.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "ashes00.html": {
+      "fn": "ashes00.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "australia01.html": {
+      "fn": "australia01.html",
+      "status": "mirror_only",
+      "tier": "TIER_A",
+      "inboundRefs": 4,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "australia02.html": {
+      "fn": "australia02.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "australia03.html": {
+      "fn": "australia03.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "australia04.html": {
+      "fn": "australia04.html",
+      "status": "mirror_only",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "babyjohn.html": {
+      "fn": "babyjohn.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "books01.html": {
+      "fn": "books01.html",
+      "status": "mirror_only",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "books02.html": {
+      "fn": "books02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "brain.html": {
+      "fn": "brain.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "brain02.html": {
+      "fn": "brain02.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "brainsize.html": {
+      "fn": "brainsize.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "brainsizex.html": {
+      "fn": "brainsizex.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "brainweightx.html": {
+      "fn": "brainweightx.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "bravo.html": {
+      "fn": "bravo.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "essay"
+    },
+    "bubbles.html": {
+      "fn": "bubbles.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "callingCD.html": {
+      "fn": "callingCD.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "callingCDx.html": {
+      "fn": "callingCDx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "caltechx.html": {
+      "fn": "caltechx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "cetacean03.html": {
+      "fn": "cetacean03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "cetacean04.html": {
+      "fn": "cetacean04.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "cetbibliox.html": {
+      "fn": "cetbibliox.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "chronological.html": {
+      "fn": "chronological.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cogitate.html": {
+      "fn": "cogitate.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "essay"
+    },
+    "cogitatex.html": {
+      "fn": "cogitatex.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "essay"
+    },
+    "cognitive.html": {
+      "fn": "cognitive.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "essay"
+    },
+    "communication00.html": {
+      "fn": "communication00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "communication00x.html": {
+      "fn": "communication00x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "communication01x.html": {
+      "fn": "communication01x.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "construction00.html": {
+      "fn": "construction00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "conversation.html": {
+      "fn": "conversation.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "creditsx.html": {
+      "fn": "creditsx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "cyclone00.html": {
+      "fn": "cyclone00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "cycloneCh0401.html": {
+      "fn": "cycloneCh0401.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "cycloneCh0402.html": {
+      "fn": "cycloneCh0402.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "cycloneCh0403.html": {
+      "fn": "cycloneCh0403.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0404.html": {
+      "fn": "cycloneCh0404.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0405.html": {
+      "fn": "cycloneCh0405.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "cycloneCh0406.html": {
+      "fn": "cycloneCh0406.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0407.html": {
+      "fn": "cycloneCh0407.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0408.html": {
+      "fn": "cycloneCh0408.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0409.html": {
+      "fn": "cycloneCh0409.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0410.html": {
+      "fn": "cycloneCh0410.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "cycloneCh0411.html": {
+      "fn": "cycloneCh0411.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0412.html": {
+      "fn": "cycloneCh0412.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0413.html": {
+      "fn": "cycloneCh0413.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0414.html": {
+      "fn": "cycloneCh0414.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0415.html": {
+      "fn": "cycloneCh0415.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0416.html": {
+      "fn": "cycloneCh0416.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0417.html": {
+      "fn": "cycloneCh0417.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0418.html": {
+      "fn": "cycloneCh0418.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0419.html": {
+      "fn": "cycloneCh0419.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "cycloneCh0420.html": {
+      "fn": "cycloneCh0420.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "cycloneCh0421.html": {
+      "fn": "cycloneCh0421.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0422.html": {
+      "fn": "cycloneCh0422.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0423.html": {
+      "fn": "cycloneCh0423.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0424.html": {
+      "fn": "cycloneCh0424.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0425.html": {
+      "fn": "cycloneCh0425.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0426.html": {
+      "fn": "cycloneCh0426.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "cycloneCh0427.html": {
+      "fn": "cycloneCh0427.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "cycloneCh0428.html": {
+      "fn": "cycloneCh0428.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "davidsissy.html": {
+      "fn": "davidsissy.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "davidsissy01.html": {
+      "fn": "davidsissy01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "davidsissy02.html": {
+      "fn": "davidsissy02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "deepself00.html": {
+      "fn": "deepself00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "delphis01.html": {
+      "fn": "delphis01.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "delphis03.html": {
+      "fn": "delphis03.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "delphisFrames.html": {
+      "fn": "delphisFrames.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "dolbrains.html": {
+      "fn": "dolbrains.html",
+      "status": "mirror_only",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "dolbrainso.html": {
+      "fn": "dolbrainso.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "dolcomm.html": {
+      "fn": "dolcomm.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "dolcomm02.html": {
+      "fn": "dolcomm02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "dolcomm03.html": {
+      "fn": "dolcomm03.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "dolcomm04.html": {
+      "fn": "dolcomm04.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "dolcomm06.html": {
+      "fn": "dolcomm06.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "dolcomm07.html": {
+      "fn": "dolcomm07.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "dolcomm08.html": {
+      "fn": "dolcomm08.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "dolcomm09.html": {
+      "fn": "dolcomm09.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "dolcomm10.html": {
+      "fn": "dolcomm10.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "doljump01.html": {
+      "fn": "doljump01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "doljump02.html": {
+      "fn": "doljump02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "dollife.html": {
+      "fn": "dollife.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "dolphart01.html": {
+      "fn": "dolphart01.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "dolphart02.html": {
+      "fn": "dolphart02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "dolphart03.html": {
+      "fn": "dolphart03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "dolphart04.html": {
+      "fn": "dolphart04.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "dolphart05.html": {
+      "fn": "dolphart05.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "dolphinMind03.html": {
+      "fn": "dolphinMind03.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "dolphingifs.html": {
+      "fn": "dolphingifs.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "dolphinglyph.html": {
+      "fn": "dolphinglyph.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "dolphinjump.html": {
+      "fn": "dolphinjump.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "dolphinjumpx.html": {
+      "fn": "dolphinjumpx.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "dolsex.html": {
+      "fn": "dolsex.html",
+      "status": "mirror_only",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "dolsmile.html": {
+      "fn": "dolsmile.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "doltankCG01.html": {
+      "fn": "doltankCG01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "doltankCG02.html": {
+      "fn": "doltankCG02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "drown.html": {
+      "fn": "drown.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "drownx.html": {
+      "fn": "drownx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "dyadic00.html": {
+      "fn": "dyadic00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "dyadic15.html": {
+      "fn": "dyadic15.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "dyadic16.html": {
+      "fn": "dyadic16.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "eccoCD.html": {
+      "fn": "eccoCD.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "elvar00x.html": {
+      "fn": "elvar00x.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "elvar01x.html": {
+      "fn": "elvar01x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "elvar02x.html": {
+      "fn": "elvar02x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "elvar03x.html": {
+      "fn": "elvar03x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "elvar04x.html": {
+      "fn": "elvar04x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "elvar33x.html": {
+      "fn": "elvar33x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "encounters.html": {
+      "fn": "encounters.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "experiencesx.html": {
+      "fn": "experiencesx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "fractalpixx.html": {
+      "fn": "fractalpixx.html",
+      "status": "mirror_only",
+      "tier": "TIER_A",
+      "inboundRefs": 3,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm00.html": {
+      "fn": "futureComm00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm20.html": {
+      "fn": "futureComm20.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm21.html": {
+      "fn": "futureComm21.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm22.html": {
+      "fn": "futureComm22.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm23.html": {
+      "fn": "futureComm23.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm24.html": {
+      "fn": "futureComm24.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm24A.html": {
+      "fn": "futureComm24A.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm25.html": {
+      "fn": "futureComm25.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm26.html": {
+      "fn": "futureComm26.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm27.html": {
+      "fn": "futureComm27.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm28.html": {
+      "fn": "futureComm28.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm29.html": {
+      "fn": "futureComm29.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm30.html": {
+      "fn": "futureComm30.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm31.html": {
+      "fn": "futureComm31.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm40.html": {
+      "fn": "futureComm40.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "futureComm41.html": {
+      "fn": "futureComm41.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "geosis.html": {
+      "fn": "geosis.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "geosisx.html": {
+      "fn": "geosisx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "happyx.html": {
+      "fn": "happyx.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "history00.html": {
+      "fn": "history00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "hubFrames.html": {
+      "fn": "hubFrames.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "icercJapan01.html": {
+      "fn": "icercJapan01.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "icercJapan02.html": {
+      "fn": "icercJapan02.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "innerx.html": {
+      "fn": "innerx.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "isotank03.html": {
+      "fn": "isotank03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "janus00x.html": {
+      "fn": "janus00x.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "japanTrip01.html": {
+      "fn": "japanTrip01.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "japanTrip02.html": {
+      "fn": "japanTrip02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "jlhome.html": {
+      "fn": "jlhome.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "jlhome2.html": {
+      "fn": "jlhome2.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "john01.html": {
+      "fn": "john01.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "john1960.html": {
+      "fn": "john1960.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "john_eiffel01.html": {
+      "fn": "john_eiffel01.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "johnartx.html": {
+      "fn": "johnartx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "johnboat.html": {
+      "fn": "johnboat.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "johnburgess.html": {
+      "fn": "johnburgess.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "johngrad.html": {
+      "fn": "johngrad.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "johnjanus.html": {
+      "fn": "johnjanus.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "johnjapan01.html": {
+      "fn": "johnjapan01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "johnjapan02.html": {
+      "fn": "johnjapan02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "johnmar.html": {
+      "fn": "johnmar.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "johnspiral.html": {
+      "fn": "johnspiral.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "johntank.html": {
+      "fn": "johntank.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "johntim.html": {
+      "fn": "johntim.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "johntoni01.html": {
+      "fn": "johntoni01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "johnwizard.html": {
+      "fn": "johnwizard.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "johnwizard02.html": {
+      "fn": "johnwizard02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "johnwizard03.html": {
+      "fn": "johnwizard03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "koontz01.html": {
+      "fn": "koontz01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "lab00.html": {
+      "fn": "lab00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "labCG.html": {
+      "fn": "labCG.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "laboratory.html": {
+      "fn": "laboratory.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "laboratory02.html": {
+      "fn": "laboratory02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "laboratory04.html": {
+      "fn": "laboratory04.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "essay"
+    },
+    "lillyland00.html": {
+      "fn": "lillyland00.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "lillyland10.html": {
+      "fn": "lillyland10.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "lillyland11.html": {
+      "fn": "lillyland11.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "lillyland12.html": {
+      "fn": "lillyland12.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "lillyondolphins00.html": {
+      "fn": "lillyondolphins00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "lillyondolphins01.html": {
+      "fn": "lillyondolphins01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "lillywavex.html": {
+      "fn": "lillywavex.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "essay"
+    },
+    "loehrx.html": {
+      "fn": "loehrx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "lowband.html": {
+      "fn": "lowband.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mandolph00.html": {
+      "fn": "mandolph00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "mappingx.html": {
+      "fn": "mappingx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "essay"
+    },
+    "marpeter.html": {
+      "fn": "marpeter.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "marpeter02.html": {
+      "fn": "marpeter02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "marpeter03.html": {
+      "fn": "marpeter03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "maskx.html": {
+      "fn": "maskx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "matrix01.html": {
+      "fn": "matrix01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "mauiNews.html": {
+      "fn": "mauiNews.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "melonbrains.html": {
+      "fn": "melonbrains.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "melonbrainsx.html": {
+      "fn": "melonbrainsx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "memorial00.html": {
+      "fn": "memorial00.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "memorial01.html": {
+      "fn": "memorial01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "memorial02.html": {
+      "fn": "memorial02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "memorial03.html": {
+      "fn": "memorial03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "memorial04.html": {
+      "fn": "memorial04.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "metaprog.html": {
+      "fn": "metaprog.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "metaprog00.html": {
+      "fn": "metaprog00.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "metaprog01.html": {
+      "fn": "metaprog01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "metaprog02.html": {
+      "fn": "metaprog02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "metaprog03.html": {
+      "fn": "metaprog03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "metaprog04.html": {
+      "fn": "metaprog04.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "metaprog05.html": {
+      "fn": "metaprog05.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "metaprog06.html": {
+      "fn": "metaprog06.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "metaprog07.html": {
+      "fn": "metaprog07.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "mimicx.html": {
+      "fn": "mimicx.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "mind00.html": {
+      "fn": "mind00.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "mindCh0701.html": {
+      "fn": "mindCh0701.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0702.html": {
+      "fn": "mindCh0702.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0703.html": {
+      "fn": "mindCh0703.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0704.html": {
+      "fn": "mindCh0704.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0705.html": {
+      "fn": "mindCh0705.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0706.html": {
+      "fn": "mindCh0706.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0707.html": {
+      "fn": "mindCh0707.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0708.html": {
+      "fn": "mindCh0708.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0709.html": {
+      "fn": "mindCh0709.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0710.html": {
+      "fn": "mindCh0710.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0711.html": {
+      "fn": "mindCh0711.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0712.html": {
+      "fn": "mindCh0712.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0713.html": {
+      "fn": "mindCh0713.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0714.html": {
+      "fn": "mindCh0714.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "mindCh0715.html": {
+      "fn": "mindCh0715.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mindCh0716.html": {
+      "fn": "mindCh0716.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "mmpa.html": {
+      "fn": "mmpa.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "musicvid.html": {
+      "fn": "musicvid.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "nyTimes.html": {
+      "fn": "nyTimes.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "oahudol.html": {
+      "fn": "oahudol.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "outline.html": {
+      "fn": "outline.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "paddle.html": {
+      "fn": "paddle.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "painting00.html": {
+      "fn": "painting00.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "painting01.html": {
+      "fn": "painting01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "painting02.html": {
+      "fn": "painting02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "painting03.html": {
+      "fn": "painting03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "painting04.html": {
+      "fn": "painting04.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "penn.html": {
+      "fn": "penn.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "pennx.html": {
+      "fn": "pennx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "poolCG.html": {
+      "fn": "poolCG.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "programming00.html": {
+      "fn": "programming00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sayonara.html": {
+      "fn": "sayonara.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "essay"
+    },
+    "scientist00.html": {
+      "fn": "scientist00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "scientist00x.html": {
+      "fn": "scientist00x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "scientist01x.html": {
+      "fn": "scientist01x.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "scientist02.html": {
+      "fn": "scientist02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "scientist02x.html": {
+      "fn": "scientist02x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sevenDays04.html": {
+      "fn": "sevenDays04.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "simulations00.html": {
+      "fn": "simulations00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "simulationsChap01.html": {
+      "fn": "simulationsChap01.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "simulationsIntro.html": {
+      "fn": "simulationsIntro.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "simulationsNotes.html": {
+      "fn": "simulationsNotes.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "simulationsPreface.html": {
+      "fn": "simulationsPreface.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "simulationsPrologue.html": {
+      "fn": "simulationsPrologue.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "sofar00.html": {
+      "fn": "sofar00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound01.html": {
+      "fn": "sound01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound01x.html": {
+      "fn": "sound01x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound02.html": {
+      "fn": "sound02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound02x.html": {
+      "fn": "sound02x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound03.html": {
+      "fn": "sound03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound03x.html": {
+      "fn": "sound03x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound04.html": {
+      "fn": "sound04.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound04x.html": {
+      "fn": "sound04x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound05.html": {
+      "fn": "sound05.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound05x.html": {
+      "fn": "sound05x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound06x.html": {
+      "fn": "sound06x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound07x.html": {
+      "fn": "sound07x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound08x.html": {
+      "fn": "sound08x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound09x.html": {
+      "fn": "sound09x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound10x.html": {
+      "fn": "sound10x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sound11x.html": {
+      "fn": "sound11x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "sunset.html": {
+      "fn": "sunset.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "surfacex.html": {
+      "fn": "surfacex.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "tankclose.html": {
+      "fn": "tankclose.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "tankopen.html": {
+      "fn": "tankopen.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "tanks00.html": {
+      "fn": "tanks00.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "tanksketch01.html": {
+      "fn": "tanksketch01.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "tanksketch02.html": {
+      "fn": "tanksketch02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "tanksketch03.html": {
+      "fn": "tanksketch03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "tanksketch04.html": {
+      "fn": "tanksketch04.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "tanksketch05.html": {
+      "fn": "tanksketch05.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "tanksketch06.html": {
+      "fn": "tanksketch06.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "tanksketch07.html": {
+      "fn": "tanksketch07.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "teachers.html": {
+      "fn": "teachers.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "toni&beluga.html": {
+      "fn": "toni&beluga.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "toni&belugax.html": {
+      "fn": "toni&belugax.html",
+      "status": "mirror_only",
+      "tier": "TIER_A",
+      "inboundRefs": 5,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "touchscreen02.html": {
+      "fn": "touchscreen02.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "touchscreen05.html": {
+      "fn": "touchscreen05.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "touchscreen06.html": {
+      "fn": "touchscreen06.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "touchscreen07.html": {
+      "fn": "touchscreen07.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "trispiral01.html": {
+      "fn": "trispiral01.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "ultrasoundsx.html": {
+      "fn": "ultrasoundsx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "videophone01.html": {
+      "fn": "videophone01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "videophone02.html": {
+      "fn": "videophone02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "videophone03.html": {
+      "fn": "videophone03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "washingtonPost.html": {
+      "fn": "washingtonPost.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "weirdness.html": {
+      "fn": "weirdness.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "essay"
+    },
+    "whatsnew.html": {
+      "fn": "whatsnew.html",
+      "status": "mirror_only",
+      "tier": "TIER_A",
+      "inboundRefs": 30,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "whatsnew0197.html": {
+      "fn": "whatsnew0197.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "whatsnew0199.html": {
+      "fn": "whatsnew0199.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "photo_gallery"
+    },
+    "whatsnew0201.html": {
+      "fn": "whatsnew0201.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "whatsnew0403.html": {
+      "fn": "whatsnew0403.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "whatsnew0498.html": {
+      "fn": "whatsnew0498.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "whatsnew0997.html": {
+      "fn": "whatsnew0997.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "biographical_photo"
+    },
+    "womandolph01.html": {
+      "fn": "womandolph01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "womandolph02.html": {
+      "fn": "womandolph02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "womandolph02x.html": {
+      "fn": "womandolph02x.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "womandolph03.html": {
+      "fn": "womandolph03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph04.html": {
+      "fn": "womandolph04.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "womandolph05.html": {
+      "fn": "womandolph05.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "essay"
+    },
+    "womandolph06.html": {
+      "fn": "womandolph06.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph07.html": {
+      "fn": "womandolph07.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph08.html": {
+      "fn": "womandolph08.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "essay"
+    },
+    "womandolph09.html": {
+      "fn": "womandolph09.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph10.html": {
+      "fn": "womandolph10.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph11.html": {
+      "fn": "womandolph11.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph12.html": {
+      "fn": "womandolph12.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "diary_excerpt"
+    },
+    "womandolph33x.html": {
+      "fn": "womandolph33x.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "wsjletter.html": {
+      "fn": "wsjletter.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "conference_record"
+    },
+    "ymoCDx.html": {
+      "fn": "ymoCDx.html",
+      "status": "mirror_only",
+      "tier": "TIER_B",
+      "inboundRefs": 2,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "yngJL01.html": {
+      "fn": "yngJL01.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "yngJL02.html": {
+      "fn": "yngJL02.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "yngJL03.html": {
+      "fn": "yngJL03.html",
+      "status": "mirror_only",
+      "tier": "TIER_C",
+      "inboundRefs": 0,
+      "isBuilt": false,
+      "inMirror": true,
+      "inApify": false,
+      "contentType": "link_index"
+    },
+    "triangle.html": {
+      "fn": "triangle.html",
+      "status": "not_found",
+      "tier": "TIER_B",
+      "inboundRefs": 1,
+      "isBuilt": false,
+      "inMirror": false,
+      "inApify": false,
+      "contentType": "unknown"
+    }
+  },
+  "hrefCorruptions": {
+    "http://www.johnclilly.com/PHB<em>JCL</em>PS_NYC1998.html": "http://www.johnclilly.com/PHB_JCL_PS_NYC1998.html",
+    "http://www.johnclilly.com/JCL<em>LT</em>LC1998.html": "http://www.johnclilly.com/JCL_LT_LC1998.html",
+    "http://www.johnclilly.com/JCL<em>JA</em>InstOfEcot.html": "http://www.johnclilly.com/JCL_JA_InstOfEcot.html",
+    "http://www.johnclilly.com/JCL<em>JH</em>Switz.html": "http://www.johnclilly.com/JCL_JH_Switz.html",
+    "http://www.johnclilly.com/JCL<em>AFDB</em>Basel.html": "http://www.johnclilly.com/JCL_AFDB_Basel.html",
+    "http://www.johnclilly.com/JCL<em>DH</em>Basel.html": "http://www.johnclilly.com/JCL_DH_Basel.html",
+    "http://www.johnclilly.com/BT<em>JCL</em>ICERC1999.html": "http://www.johnclilly.com/BT_JCL_ICERC1999.html",
+    "http://www.johnclilly.com/JCL<em>K</em>ICERC1999.html": "http://www.johnclilly.com/JCL_K_ICERC1999.html",
+    "http://www.johnclilly.com/K<em>JN</em>K_ICERC1999.html": "http://www.johnclilly.com/K_JN_K_ICERC1999.html",
+    "http://www.johnclilly.com/PB<em>OJ</em>KJ_JCL.html": "http://www.johnclilly.com/PB_OJ_KJ_JCL.html"
+  }
+}

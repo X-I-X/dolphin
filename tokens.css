@@ -1,0 +1,61 @@
+/* JCL Archive — Design Tokens v3
+   Sierra Web Studios palette: dark navy / white / blue gradient
+*/
+:root {
+  /* Backgrounds */
+  --bg-deep:    #0a0a0f;
+  --bg-panel:   #0f1118;
+  --bg-card:    #141823;
+  --bg-raised:  #1a2030;
+  --bg-input:   #0d1020;
+
+  /* Borders */
+  --border:       #1f2433;
+  --border-mid:   #2a3347;
+  --border-light: #3a4560;
+
+  /* Text */
+  --text:       #e8eaee;
+  --text-dim:   #9aa0aa;
+  --text-faint: #6b7180;
+  --text-inv:   #0a0a0f;
+
+  /* Blue accent gradient */
+  --accent-from:  #2563eb;
+  --accent-to:    #1d4ed8;
+  --accent-glow:  rgba(37,99,235,0.22);
+  --accent-pale:  rgba(37,99,235,0.10);
+  --grad: linear-gradient(135deg, var(--accent-from), var(--accent-to));
+
+  /* Typography */
+  --font-sans: 'Inter', 'Helvetica Neue', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+
+  /* Scale */
+  --maxw:       1180px;
+  --maxw-prose: 740px;
+  --rhythm:     clamp(1rem, 2vw, 1.5rem);
+  --radius:     6px;
+  --radius-lg:  12px;
+  --radius-xl:  20px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.4);
+  --shadow-md: 0 4px 16px rgba(0,0,0,0.5);
+  --shadow-lg: 0 12px 40px rgba(0,0,0,0.6);
+  --shadow-blue: 0 4px 24px var(--accent-glow);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body {
+  background: var(--bg-deep);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.75;
+  min-height: 100vh;
+}
+img { max-width: 100%; height: auto; display: block; }
+a { color: #60a5fa; text-decoration: none; transition: color 0.15s; }
+a:hover { color: #93c5fd; text-decoration: underline; }
