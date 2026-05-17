@@ -6,31 +6,75 @@
   <meta property="og:title" content="PAGE: The JCL Tank Experiement — John C. Lilly Archive">
   <meta property="og:description" content="Archived material from the John C. Lilly collection.">
   <meta property="og:type" content="article">
-  <link rel="stylesheet" href="style-v2.css">
+  <link rel="stylesheet" href="style-jcl.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐬</text></svg>">
-</head>
-<body>
-<nav class="topnav">
-  <a href="index.html" class="nav-logo">🐬 JCL</a>
-  <div class="nav-links">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&amp;display=swap" rel="stylesheet"></head>
+<body style=""><div class="ocean-bg" aria-hidden="true">
+<svg viewBox="0 0 1400 900" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <!-- Sonar rings emanating from centre -->
+  <circle cx="700" cy="450" r="80" fill="none" stroke="#0A4D8C" stroke-width="1.2"></circle>
+  <circle cx="700" cy="450" r="160" fill="none" stroke="#0A4D8C" stroke-width="1"></circle>
+  <circle cx="700" cy="450" r="260" fill="none" stroke="#0A4D8C" stroke-width="0.9"></circle>
+  <circle cx="700" cy="450" r="380" fill="none" stroke="#0A4D8C" stroke-width="0.8"></circle>
+  <circle cx="700" cy="450" r="520" fill="none" stroke="#0A9AA4" stroke-width="0.7"></circle>
+  <circle cx="700" cy="450" r="680" fill="none" stroke="#0A9AA4" stroke-width="0.6"></circle>
+  <!-- Ocean wave lines -->
+  <path d="M0,200 Q175,160 350,200 Q525,240 700,200 Q875,160 1050,200 Q1225,240 1400,200" fill="none" stroke="#0A9AA4" stroke-width="1"></path>
+  <path d="M0,320 Q200,280 400,320 Q600,360 800,320 Q1000,280 1200,320 Q1350,350 1400,330" fill="none" stroke="#0A4D8C" stroke-width="0.8"></path>
+  <path d="M0,700 Q200,660 400,700 Q600,740 800,700 Q1000,660 1200,700 Q1300,720 1400,700" fill="none" stroke="#0A9AA4" stroke-width="0.9"></path>
+  <!-- Dolphin outline (simple, stylised) -->
+  <path d="M600,430 Q620,410 650,415 Q680,418 700,430 Q720,442 740,438 Q760,434 770,422 Q780,410 775,425 Q768,445 750,452 Q730,458 710,450 Q690,442 670,448 Q650,454 635,445 Q618,436 600,430Z" fill="none" stroke="#0A4D8C" stroke-width="1.2"></path>
+  <!-- Tail fin -->
+  <path d="M770,422 Q790,408 800,415 Q808,422 800,432 Q792,440 780,435 Q775,428 770,422Z" fill="none" stroke="#0A4D8C" stroke-width="1"></path>
+  <!-- Cross-hatch depth lines -->
+  <line x1="0" y1="550" x2="1400" y2="550" stroke="#0A4D8C" stroke-width="0.5" stroke-dasharray="3,12"></line>
+  <line x1="0" y1="620" x2="1400" y2="620" stroke="#0A4D8C" stroke-width="0.4" stroke-dasharray="3,16"></line>
+  <!-- Frequency signal lines from sonar -->
+  <line x1="700" y1="370" x2="700" y2="100" stroke="#0A9AA4" stroke-width="0.6" stroke-dasharray="4,8"></line>
+  <line x1="700" y1="530" x2="700" y2="800" stroke="#0A9AA4" stroke-width="0.6" stroke-dasharray="4,8"></line>
+  <line x1="620" y1="450" x2="100" y2="450" stroke="#0A9AA4" stroke-width="0.5" stroke-dasharray="4,10"></line>
+  <line x1="780" y1="450" x2="1300" y2="450" stroke="#0A9AA4" stroke-width="0.5" stroke-dasharray="4,10"></line>
+</svg>
+</div>
+<header class="site-header">
+<div class="container">
+  <a href="index.html" class="logo-zone">
+    <span class="logo-icon">🐬</span>
+    <span class="logo-text">John C. Lilly Archive</span>
+  </a>
+  <nav class="site-nav">
     <a href="thestory.html">The Story</a>
     <a href="cetacean.html">Cetacean Nation</a>
     <a href="interspecies.html">Interspecies</a>
     <a href="mind.html">Brain &amp; Mind</a>
     <a href="isolation.html">Isolation Tanks</a>
     <a href="ecco.html">E.C.C.O.</a>
-    <a href="current.html">Events</a>
-    <a href="music.html">Music &amp; Video</a>
-    <a href="writings.html">Writings</a>
-    <a href="inventions.html">Inventions</a>
-    <a href="vortex.html">Vortex</a>
     <a href="bio.html">Biography</a>
-    <a href="photos.html">Photos</a>
-    <a href="links.html">Links</a>
-    <a href="gallery.html">Gallery</a>
+    <a href="writings.html">Writings</a>
     <a href="memorial.html">1915–2001</a>
-  </div>
+  </nav>
+  <button class="hamburger" id="hamburger" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
+</div>
+</header>
+<div class="nav-overlay" id="navOverlay"></div>
+<nav class="nav-drawer" id="navDrawer">
+  <button class="drawer-close" id="drawerClose">✕</button>
+  <a href="index.html">🐬 Home</a>
+  <a href="thestory.html">The Story</a>
+  <a href="cetacean.html">Cetacean Nation</a>
+  <a href="interspecies.html">Interspecies</a>
+  <a href="mind.html">Brain &amp; Mind</a>
+  <a href="isolation.html">Isolation Tanks</a>
+  <a href="ecco.html">E.C.C.O.</a>
+  <a href="bio.html">Biography</a>
+  <a href="writings.html">Writings</a>
+  <a href="memorial.html">1915–2001</a>
+  <a href="gallery.html">Gallery</a>
+  <a href="photos.html">Photos</a>
 </nav>
+
 
 <div class="page">
   <div class="archive-notice">
@@ -56,10 +100,54 @@
 
 </div>
 
-<footer>
-  <div class="footer-rule">— ✦ ✦ ✦ —</div>
-  John C. Lilly Archive · 1915–2001 · Preserved for research and education<br>
-  <a href="index.html">Home</a> · <a href="cetacean.html">Cetacean Nation</a> · <a href="memorial.html">Memorial</a>
-</footer>
 
-</body></html>
+
+<footer class="site-footer">
+<div class="container">
+  <div class="footer-grid">
+    <div>
+      <div class="footer-brand">🐬 John C. Lilly Archive</div>
+      <p>A permanent archive of Dr. John C. Lilly's life and research — dolphin communication, isolation tanks, consciousness, and E.C.C.O. Preserved for research and education.</p>
+    </div>
+    <div>
+      <h4>Research</h4>
+      <a href="cetacean.html">Cetacean Nation</a>
+      <a href="interspecies.html">Interspecies Comm.</a>
+      <a href="isolation.html">Isolation Tanks</a>
+      <a href="mind.html">Brain &amp; Mind</a>
+    </div>
+    <div>
+      <h4>Archive</h4>
+      <a href="bio.html">Biography</a>
+      <a href="writings.html">Writings</a>
+      <a href="photos.html">Photos</a>
+      <a href="gallery.html">Gallery</a>
+    </div>
+    <div>
+      <h4>Site</h4>
+      <a href="index.html">Home</a>
+      <a href="memorial.html">1915–2001</a>
+      <a href="ecco.html">E.C.C.O.</a>
+      <a href="sitemap.xml">Sitemap</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>John C. Lilly · 1915–2001 · Preserved for research and education</span>
+    <span>Original: <a href="http://www.johnclilly.com" target="_blank" rel="noopener">johnclilly.com</a></span>
+  </div>
+</div>
+</footer>
+<script>
+(function(){
+  var h=document.getElementById('hamburger'),d=document.getElementById('navDrawer'),o=document.getElementById('navOverlay'),c=document.getElementById('drawerClose');
+  function open(){d.classList.add('open');o.classList.add('active');h&&h.classList.add('open');}
+  function close(){d.classList.remove('open');o.classList.remove('active');h&&h.classList.remove('open');}
+  if(h)h.addEventListener('click',open);
+  if(c)c.addEventListener('click',close);
+  if(o)o.addEventListener('click',close);
+})();
+</script>
+<a class="view-original-btn" href="http://www.johnclilly.com/experimentx.html" target="_blank" rel="noopener" title="View original page on johnclilly.com">
+  <span class="vob-icon">🔗</span>
+  <span class="vob-label">View Original</span>
+</a></body></html>

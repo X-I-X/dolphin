@@ -1,17 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>John C. Lilly — Photosynthesis Archive</title>
   <meta name="description" content="Archived profile of John C. Lilly from photosynthesis.com — preserved for research and education.">
-  <link rel="stylesheet" href="style-v2.css">
+  <link rel="stylesheet" href="style-jcl.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐬</text></svg>">
-</head>
-<body>
-<nav class="topnav">
-  <a href="index.html" class="nav-logo">🐬 JCL</a>
-  <div class="nav-links">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&amp;display=swap" rel="stylesheet"></head>
+<body style=""><div class="ocean-bg" aria-hidden="true">
+<svg viewBox="0 0 1400 900" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <!-- Sonar rings emanating from centre -->
+  <circle cx="700" cy="450" r="80" fill="none" stroke="#0A4D8C" stroke-width="1.2"></circle>
+  <circle cx="700" cy="450" r="160" fill="none" stroke="#0A4D8C" stroke-width="1"></circle>
+  <circle cx="700" cy="450" r="260" fill="none" stroke="#0A4D8C" stroke-width="0.9"></circle>
+  <circle cx="700" cy="450" r="380" fill="none" stroke="#0A4D8C" stroke-width="0.8"></circle>
+  <circle cx="700" cy="450" r="520" fill="none" stroke="#0A9AA4" stroke-width="0.7"></circle>
+  <circle cx="700" cy="450" r="680" fill="none" stroke="#0A9AA4" stroke-width="0.6"></circle>
+  <!-- Ocean wave lines -->
+  <path d="M0,200 Q175,160 350,200 Q525,240 700,200 Q875,160 1050,200 Q1225,240 1400,200" fill="none" stroke="#0A9AA4" stroke-width="1"></path>
+  <path d="M0,320 Q200,280 400,320 Q600,360 800,320 Q1000,280 1200,320 Q1350,350 1400,330" fill="none" stroke="#0A4D8C" stroke-width="0.8"></path>
+  <path d="M0,700 Q200,660 400,700 Q600,740 800,700 Q1000,660 1200,700 Q1300,720 1400,700" fill="none" stroke="#0A9AA4" stroke-width="0.9"></path>
+  <!-- Dolphin outline (simple, stylised) -->
+  <path d="M600,430 Q620,410 650,415 Q680,418 700,430 Q720,442 740,438 Q760,434 770,422 Q780,410 775,425 Q768,445 750,452 Q730,458 710,450 Q690,442 670,448 Q650,454 635,445 Q618,436 600,430Z" fill="none" stroke="#0A4D8C" stroke-width="1.2"></path>
+  <!-- Tail fin -->
+  <path d="M770,422 Q790,408 800,415 Q808,422 800,432 Q792,440 780,435 Q775,428 770,422Z" fill="none" stroke="#0A4D8C" stroke-width="1"></path>
+  <!-- Cross-hatch depth lines -->
+  <line x1="0" y1="550" x2="1400" y2="550" stroke="#0A4D8C" stroke-width="0.5" stroke-dasharray="3,12"></line>
+  <line x1="0" y1="620" x2="1400" y2="620" stroke="#0A4D8C" stroke-width="0.4" stroke-dasharray="3,16"></line>
+  <!-- Frequency signal lines from sonar -->
+  <line x1="700" y1="370" x2="700" y2="100" stroke="#0A9AA4" stroke-width="0.6" stroke-dasharray="4,8"></line>
+  <line x1="700" y1="530" x2="700" y2="800" stroke="#0A9AA4" stroke-width="0.6" stroke-dasharray="4,8"></line>
+  <line x1="620" y1="450" x2="100" y2="450" stroke="#0A9AA4" stroke-width="0.5" stroke-dasharray="4,10"></line>
+  <line x1="780" y1="450" x2="1300" y2="450" stroke="#0A9AA4" stroke-width="0.5" stroke-dasharray="4,10"></line>
+</svg>
+</div>
+<header class="site-header">
+<div class="container">
+  <a href="index.html" class="logo-zone">
+    <span class="logo-icon">🐬</span>
+    <span class="logo-text">John C. Lilly Archive</span>
+  </a>
+  <nav class="site-nav">
     <a href="thestory.html">The Story</a>
     <a href="cetacean.html">Cetacean Nation</a>
     <a href="interspecies.html">Interspecies</a>
@@ -19,9 +47,31 @@
     <a href="isolation.html">Isolation Tanks</a>
     <a href="ecco.html">E.C.C.O.</a>
     <a href="bio.html">Biography</a>
+    <a href="writings.html">Writings</a>
     <a href="memorial.html">1915–2001</a>
-  </div>
+  </nav>
+  <button class="hamburger" id="hamburger" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
+</div>
+</header>
+<div class="nav-overlay" id="navOverlay"></div>
+<nav class="nav-drawer" id="navDrawer">
+  <button class="drawer-close" id="drawerClose">✕</button>
+  <a href="index.html">🐬 Home</a>
+  <a href="thestory.html">The Story</a>
+  <a href="cetacean.html">Cetacean Nation</a>
+  <a href="interspecies.html">Interspecies</a>
+  <a href="mind.html">Brain &amp; Mind</a>
+  <a href="isolation.html">Isolation Tanks</a>
+  <a href="ecco.html">E.C.C.O.</a>
+  <a href="bio.html">Biography</a>
+  <a href="writings.html">Writings</a>
+  <a href="memorial.html">1915–2001</a>
+  <a href="gallery.html">Gallery</a>
+  <a href="photos.html">Photos</a>
 </nav>
+
 
 <div class="page">
   <div class="archive-notice">
@@ -36,7 +86,7 @@
 
   <div class="card">
     <table border="0" cellpadding="0" cellspacing="0" width="740">
-			<tr>
+			<tbody><tr>
 				<td colspan="3" valign="top">
 				        <a name="top"></a>
 
@@ -45,9 +95,9 @@
 				
 				</td>
 			</tr>
-                </table>
+                </tbody></table>
 		<table border="0" cellpadding="8" cellspacing="2" width="740">
-			<tr>
+			<tbody><tr>
 				<td width="100" valign="top">
 				
 					<p>
@@ -90,21 +140,21 @@
 					<a href="contact.html">Contact Info</a><br>
 					</p>
 				
-					<p><span class="caption">&copy; 2016 Sound Photosynthesis<br>
+					<p><span class="caption">© 2016 Sound Photosynthesis<br>
 							All rights reserved.</span></p>
 					<p><span class="caption">Tel: (415) 409-3220<br>
 							E-mail: <a href="mailto:faustin@sound.photosynthesis.com">Faustin</a><br>
 							Web administration: <a href="mailto:webmaster@sound.photosynthesis.com">webmaster</a><br>
 						</span></p>
 
-</p>
+<p></p>
 				</td>
 				<td valign="top">
 				
-					<img src='https://res.cloudinary.com/dthdxjmgb/image/upload/v1778985188/jcl-archive/photos/john_lilly.jpg' width='125' height='125' align='right'><h2>JOHN C. LILLY</h2>
+					<img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1778985188/jcl-archive/photos/john_lilly.jpg" width="125" height="125" align="right"><h2>JOHN C. LILLY</h2>
 <p>John C. Lilly, M.D., was a consciousness pioneer, mind and brain researcher, author, trained psychoanalyst, neuroscientist, inventor, cetaceans and dolphin researcher. His interspecies communication research inspired the film Day of the Dolphin. He worked extensively in biophysics, computer theory, and electronics. He invented the isolation tank to understand how the brain works in sensory deprivation. He explores inner consciousness and psychoactive substances, and inspired the film Altered States. He considered his book, Programming and Metaprogramming the Human Biocomputer, his most original work. He was a founding Director of the Association for Cultural Evolution.</p>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY &amp; CLAUDIO NARANJO: <br>
 <i>A Day with Two Scientific Consciousness Explorers</i></span>
 <br>
@@ -114,7 +164,7 @@ LILLY and NARANJO, who may never appear together again, trace their illustrious 
 <b>2 Video Cassettes.&nbsp;&nbsp;&nbsp; #V11-87.&nbsp;&nbsp;&nbsp; $71.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY, HEINZE VON FORESTER: <br>
 <i>A Visit Between Old FriendsGilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
@@ -122,7 +172,7 @@ LILLY and NARANJO, who may never appear together again, trace their illustrious 
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.12-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Birth, Brains, and Beings</i></span>
 <br>
@@ -130,7 +180,7 @@ LILLY and NARANJO, who may never appear together again, trace their illustrious 
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A181-81.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY, ELLSWORTH, DANIELS, PERRY, WILSON ,  HALEY,  KENT: <br>
 <i>Body and Brain; Ellsworth, About Water Babies; Daniels, Samadhi Demonstration &amp; Implications: medical, philosophical, historical; PERRY, Ketamine and Metaprograming; WILSON, The K experiencing transitions; HALEY, An Interview with John Lilly; KENT &amp; WILSONGilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
@@ -138,7 +188,7 @@ Ed Ellsworth: Body and Brain; Karil Daniels: About Water Babies; Glen &amp; Lee 
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.2-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY, ELLSWORTH, BRAY, LEVIT, TAYLOR, HAWKINS, VON MEIER, LIT: <br>
 <i>Cetaceans:  Project JANUS; ELLSWORTH, phone interview with SCOT TAYLOR head of Cetacean Nation; BRAY &amp; LEVIT, Quasi-Universal, Linguistics Elements of Inter-Species Communication; HAWKINS, Mystery of the Human Dolfin; VON MEIER, LIT, BRAYGilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
@@ -146,7 +196,7 @@ Cetaceans, Project JANUS, ED ELLSWORTH.  FAUSTIN BRAY &amp; CREON LEVIT phone in
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.10-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY, JIM FUNARO, BEN FINNEY, SETH SHOSTAK &amp; KEITH FERRELL: <br>
 <i>Contact XI Conference</i></span>
 <br>
@@ -156,7 +206,7 @@ Contact XI Conference is an annual scientific conference relating to cultures of
 <b>20 Audio Cassettes.&nbsp;&nbsp;&nbsp; #A1103-94.&nbsp;&nbsp;&nbsp; $179.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">CREON LEVIT: <br>
 <i>Contact XI : Cultures of the Imagination: Raster Masters</i></span>
 <br>
@@ -164,7 +214,7 @@ Contact is an annual scientific conference, attendance by invitation only, about
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A1103A-94.&nbsp;&nbsp;&nbsp; $9.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Continuous Satori-Samadhi</i></span>
 <br>
@@ -172,16 +222,16 @@ Contact is an annual scientific conference, attendance by invitation only, about
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A67-79.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title"><a href="images-titles/D10-94.jpeg" target="_blank"><img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1778985189/jcl-archive/photos/d10-94.gif" align="right" border="0"></a>
 JOHN LILLY: <br>
 <i>E.C.C.O.</i></span>
 <br>
-EARTH : COINCIDENCE : CONTROL : OFFICE  &#147;There is an invisible force, entity, or organization of higher dimension that controls what we think are coincidental events in everyday situations.  John C. Lilly called it ECCO.  According to John, ECCO also seems to control human evolution, as well as reverberates with the synchroncity of C. G. Jung, implicate order of David Bohm, non-local communication network of Bell&#146;s Theorem, contingent system of Lyall Watson, and cybernetic network of Gregory Bateson.  This is a mix of tapes recorded by SOUND PHOTOSYNTHESIS and a number of musicians arranged to compliment John&#146;s words.  Produced in Japan.  Check for availability. <br>
+EARTH : COINCIDENCE : CONTROL : OFFICE  “There is an invisible force, entity, or organization of higher dimension that controls what we think are coincidental events in everyday situations.  John C. Lilly called it ECCO.  According to John, ECCO also seems to control human evolution, as well as reverberates with the synchroncity of C. G. Jung, implicate order of David Bohm, non-local communication network of Bell’s Theorem, contingent system of Lyall Watson, and cybernetic network of Gregory Bateson.  This is a mix of tapes recorded by SOUND PHOTOSYNTHESIS and a number of musicians arranged to compliment John’s words.  Produced in Japan.  Check for availability. <br>
 <b>1 Compact Disk.&nbsp;&nbsp;&nbsp; #D10-94.&nbsp;&nbsp;&nbsp; $15.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY, GLENN PERRY, CAPTAIN CLEAR LIGHT, PETER LIT : <br>
 <i>ECCO and LSD panel discussionGilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
@@ -189,7 +239,7 @@ ECCO and LSD panel discussion on with GLENN PERRY, CAPTAIN CLEAR LIGHT and PETER
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.7-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Emerging Love Between Man And Dolphin</i></span>
 <br>
@@ -197,7 +247,7 @@ This is a 30-minute video cassette describing the work of John Lilly with dolphi
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V413-92.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN &amp; TONI LILLY: <br>
 <i>Excerpts and Conversations, 1980's</i></span>
 <br>
@@ -205,7 +255,7 @@ The George Burns and Gracie Allen repartee that amused and delighted scientists 
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A76-86.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>From Here To Alternity</i></span>
 <br>
@@ -213,7 +263,7 @@ The George Burns and Gracie Allen repartee that amused and delighted scientists 
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V84-88.&nbsp;&nbsp;&nbsp; $49.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>From Here to Alternity Workshop: Whole Earth Expo</i></span>
 <br>
@@ -222,7 +272,7 @@ Up to date, fresh and pithy at the L.A. Whole Life Expo.  John does his cogitape
   
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY &amp; FRIENDS: <br>
 <i>Gilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
@@ -232,7 +282,7 @@ Up to date, fresh and pithy at the L.A. Whole Life Expo.  John does his cogitape
 <b>13 Video Cassettes.&nbsp;&nbsp;&nbsp; #V285-2000.&nbsp;&nbsp;&nbsp; $455.00</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY, HEINZE VON FORESTER: <br>
 <i>In Conclusion...Gilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
@@ -240,7 +290,7 @@ In Conclusion... <br>
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.13-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">R.E.S.T. Conference 1990: <br>
 <i>International R.E.S.T. Conference</i></span>
 <br>
@@ -248,7 +298,7 @@ March 22-23, 1990, Washington D.C. The entire set of 11 audio cassettes contain 
 <b>11 Audio Cassettes.&nbsp;&nbsp;&nbsp; #A384-90.&nbsp;&nbsp;&nbsp; $99.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title"><a href="images-titles/V74-94.jpeg" target="_blank"><img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1778985190/jcl-archive/photos/v74-94.gif" align="right" border="0"></a>
 JOHN LILLY, JIM FUNARO, BEN FINNEY, SETH SHOSTAK &amp; KEITH FERRELL: <br>
 <i>Intra-Terrestrial and Extra-Terrestrial Communication : CONTACT XI</i></span>
@@ -257,31 +307,31 @@ Contact XI Conference is an annual scientific conference relating to cultures of
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V74-94.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY, CREON LEVIT,  FAUSTIN BRAY, JIM KARNSTEDT, GLENN &amp; LEE PERRY: <br>
 <i>Introduction to the Symposium; Levit, Table of Contents; Bray, About Water; Karnstedt, Samadhi Tanks; PerrysGilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
-A thorough introduction to Dr. John Lilly&#146;s uniquely accomplished career by Creon Levit, Director of Science Research for the International Space Sciences Organization (ISSO).  ISSO celebrated its first Annual August Scientist Symposium by sharing sponsorship of this event with Sound Photosynthesis and Association for Cultural Evolution, Directed by FAUSTIN BRAY.  The Table of Contents was actualized by the individuals who one-by-one came before the camera to greet the internet audience in real time. Each mini presentation was scheduled according to the order of appearance and placement in the themes of the overall program.  JIM KARNSTEDT presented a talk about water.  GLENN &amp; LEE PERRY gave their introduction to Samadhi Tank Company and meeting Dr. Lilly, and their mission with the floatation business. <br>
+A thorough introduction to Dr. John Lilly’s uniquely accomplished career by Creon Levit, Director of Science Research for the International Space Sciences Organization (ISSO).  ISSO celebrated its first Annual August Scientist Symposium by sharing sponsorship of this event with Sound Photosynthesis and Association for Cultural Evolution, Directed by FAUSTIN BRAY.  The Table of Contents was actualized by the individuals who one-by-one came before the camera to greet the internet audience in real time. Each mini presentation was scheduled according to the order of appearance and placement in the themes of the overall program.  JIM KARNSTEDT presented a talk about water.  GLENN &amp; LEE PERRY gave their introduction to Samadhi Tank Company and meeting Dr. Lilly, and their mission with the floatation business. <br>
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.1-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY, SARFATTI, WHITTEN: <br>
-<i>JOHN LILLY and PHYSICS: &#147;The Scientist&#148;;  SARFATTI, Floating Yoga;  WHITTEN and LEIBNER, &#147;Laws of Form&#148;; SIRAGGilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.  </i></span>
+<i>JOHN LILLY and PHYSICS: “The Scientist”;  SARFATTI, Floating Yoga;  WHITTEN and LEIBNER, “Laws of Form”; SIRAGGilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.  </i></span>
 <br>
-Day Title:JOHN LILLY and PHYSICS;  John Lilly and New Physics- &#147;The Scientist&#148;; DR. JACK SARFATTI, Floating Yoga; DR. KEITH WHITTEN and SHOSHANA LEIBNER; &#147;Laws of Form&#148; and related material SAUL PAUL SIRAG <br>
+Day Title:JOHN LILLY and PHYSICS;  John Lilly and New Physics- “The Scientist”; DR. JACK SARFATTI, Floating Yoga; DR. KEITH WHITTEN and SHOSHANA LEIBNER; “Laws of Form” and related material SAUL PAUL SIRAG <br>
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.4-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY &amp; FRANCIS JEFFREY: <br>
 <i>John Lilly, So Far....</i></span>
 <br>
-....the panoramic story of Dr. John's life as interpreted by Francis Jeffrey.   &#147;John Lilly has been one of the most original and fascinating scientists of our time.  He is one of the pathbreaking explorers of that great terra incognita, the human brain.&#148;    The Washington Post Out of print paperback book, available  through our book search in limited number. Inquire. <br>
+....the panoramic story of Dr. John's life as interpreted by Francis Jeffrey.   “John Lilly has been one of the most original and fascinating scientists of our time.  He is one of the pathbreaking explorers of that great terra incognita, the human brain.”    The Washington Post Out of print paperback book, available  through our book search in limited number. Inquire. <br>
 <b>1 Publication.&nbsp;&nbsp;&nbsp; #P34-90.&nbsp;&nbsp;&nbsp; $20.00</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY &amp; FRANCIS JEFFREY: <br>
 <i>John Lilly So Far Workshop '90</i></span>
 <br>
@@ -289,23 +339,23 @@ This tape set displays a unique workshop with Dr. John.  Very intimate and very 
 <b>2 Video Cassettes.&nbsp;&nbsp;&nbsp; #V232-90.&nbsp;&nbsp;&nbsp; $72.00</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
-<i>John Lilly&#146;s Birthday 2000</i></span>
+<i>John Lilly’s Birthday 2000</i></span>
 <br>
-Faustin and Creon took this tape with them to John&#146;s birthday party in Maui in January, 2000 as a birthday present to John.  It contains about 90 minutes of clips of interesting moments and previous birthday parties from many years in John&#146;s life. <br>
+Faustin and Creon took this tape with them to John’s birthday party in Maui in January, 2000 as a birthday present to John.  It contains about 90 minutes of clips of interesting moments and previous birthday parties from many years in John’s life. <br>
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V498-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY, JAMES KENT,  DAVE WILSON MD , CHERYL HALEY, LIZ FREEMAN: <br>
-<i>Ketamine Discussons:  KENT, WILSON, &#147;K&#148;; discussion with DR. LILLY with audience participation from HALEY and FreemanGilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
+<i>Ketamine Discussons:  KENT, WILSON, “K”; discussion with DR. LILLY with audience participation from HALEY and FreemanGilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
-Ketamine Discussions: JAMES KENT,  DAVE WILSON MD , &#147;K&#148;; discussion with DR. LILLY with audience participation from CHERYL HALEY and LIZ Freeman <br>
+Ketamine Discussions: JAMES KENT,  DAVE WILSON MD , “K”; discussion with DR. LILLY with audience participation from CHERYL HALEY and LIZ Freeman <br>
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.3-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Learning from Dolphins</i></span>
 <br>
@@ -313,7 +363,7 @@ Ketamine Discussions: JAMES KENT,  DAVE WILSON MD , &#147;K&#148;; discussion wi
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A69-76.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY &amp; BARBARA CLARKE: <br>
 <i>Lilly in Philly / Clarke on Dolphins</i></span>
 <br>
@@ -321,7 +371,7 @@ A speaking engagement in Philadelphia during which Dr. John answered questions r
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A246-87.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Lilly On Dolphins</i></span>
 <br>
@@ -329,15 +379,15 @@ A speaking engagement in Philadelphia during which Dr. John answered questions r
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A296-83.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY : <br>
 <i>Lilly On Dolphins/Humans of the Sea</i></span>
 <br>
-Including &#147;MAN AND DOLPHIN&#148;, &#147;THE MIND OF THE DOLPHIN&#148; and other scientific works.  &#147;Dr. Lilly&#146;s affection for Tursiops shows the compassionate frame of mind that may be a key factor in moving ahead toward understanding of minds, both human and extra-human.&#148;  -- Hugh Downs  ....Out of print paperback book, available through our book search in limited numbers.  Inquire. <br>
+Including “MAN AND DOLPHIN”, “THE MIND OF THE DOLPHIN” and other scientific works.  “Dr. Lilly’s affection for Tursiops shows the compassionate frame of mind that may be a key factor in moving ahead toward understanding of minds, both human and extra-human.”  -- Hugh Downs  ....Out of print paperback book, available through our book search in limited numbers.  Inquire. <br>
 <b>1 Publication.&nbsp;&nbsp;&nbsp; #P155-75.&nbsp;&nbsp;&nbsp; $22.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title"><a href="images-titles/V518-93.jpeg" target="_blank"><img src="https://res.cloudinary.com/dthdxjmgb/image/upload/v1778985191/jcl-archive/photos/v518-93.gif" align="right" border="0"></a>
 JOHN LILLY, M.D. &amp; LISA LYON LILLY: <br>
 <i>Lisa Lyon Dialogues with John Lilly:  Mind Control/Mind Clarification</i></span>
@@ -348,15 +398,15 @@ Lisa "Lady"  Lyon--Maplethorp helped make her an international icon.  See the or
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V518-93.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY : <br>
 <i>Man and Dolphin</i></span>
 <br>
-The book that made &#147;Day of the Dolphin&#148; a best seller.  The true brilliant story of man&#146;s experiments in talking with dolphins.     &#147;John Lilly has been one of the most original and fascinating scientists of our time.  He is one of the pathbreaking explorers of that great terra incognita, the human brain.&#148; --- The Washington Post .  Out of print paperback book, available through our book search in limited number.  Hardback will be more money.  Inquire. <br>
+The book that made “Day of the Dolphin” a best seller.  The true brilliant story of man’s experiments in talking with dolphins.     “John Lilly has been one of the most original and fascinating scientists of our time.  He is one of the pathbreaking explorers of that great terra incognita, the human brain.” --- The Washington Post .  Out of print paperback book, available through our book search in limited number.  Hardback will be more money.  Inquire. <br>
 <b>1 Publication.&nbsp;&nbsp;&nbsp; #P153-61.&nbsp;&nbsp;&nbsp; $39.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Matter, Energy, and the Black Hole</i></span>
 <br>
@@ -364,7 +414,7 @@ The book that made &#147;Day of the Dolphin&#148; a best seller.  The true brill
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A72-78.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Meditative Exercises</i></span>
 <br>
@@ -372,7 +422,7 @@ The book that made &#147;Day of the Dolphin&#148; a best seller.  The true brill
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A71-83.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Models and Beliefs</i></span>
 <br>
@@ -380,23 +430,23 @@ The book that made &#147;Day of the Dolphin&#148; a best seller.  The true brill
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A70-79.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY, PETER LIT, ELISABETH FREEMAN, : <br>
-<i>Nutcraker Suite Workshop of the 70&#146;s,  LIT continued part 2,  &#147;Programing and Metaprograming&#148;; FREEMAN, Gilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
+<i>Nutcraker Suite Workshop of the 70’s,  LIT continued part 2,  “Programing and Metaprograming”; FREEMAN, Gilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
-Nutcracker Suite Workshop of the 70&#146;s, PETER LIT continued part 2 : ELISABETH FREEMAN, Brain Integration Group, &#147;Programming and Metaprogramming&#148; <br>
+Nutcracker Suite Workshop of the 70’s, PETER LIT continued part 2 : ELISABETH FREEMAN, Brain Integration Group, “Programming and Metaprogramming” <br>
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.6-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY, PETER LIT: <br>
-<i>Nutcraker Suite Workshop of the 70&#146;s; LIT part 1Gilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
+<i>Nutcraker Suite Workshop of the 70’s; LIT part 1Gilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
-Nutcracker Suite Workshop of the 70&#146;s, PETER LIT part 1 <br>
+Nutcracker Suite Workshop of the 70’s, PETER LIT part 1 <br>
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.5-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>On Isolation Tanks</i></span>
 <br>
@@ -404,7 +454,7 @@ Dr. John Cunningham Lilly's research into the nature and limits of consciousness
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A304-88.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Orthonoia Through Paranoia To Metanoia: Bridge Psychedelic Conference</i></span>
 <br>
@@ -414,7 +464,7 @@ Recorded at the Bridge Psychedelic Conference at Stanford University.  John offe
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V260.12-91.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY : <br>
 <i>Programming and Metaprogramming in the Human Biocomputer  -- Theory and Experiments</i></span>
 <br>
@@ -422,7 +472,7 @@ Recorded at the Bridge Psychedelic Conference at Stanford University.  John offe
 <b>1 Publication.&nbsp;&nbsp;&nbsp; #P161-67.&nbsp;&nbsp;&nbsp; $75.00</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Programming Awareness</i></span>
 <br>
@@ -430,15 +480,15 @@ Recorded at the Bridge Psychedelic Conference at Stanford University.  John offe
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A68-83.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY : <br>
 <i>Simulations of God</i></span>
 <br>
-&#147;What I wish to do in this book is give you enough examples to learn your own simulations of God, understand your own system of belief, and find out what is most important to you within yourself, here and now. &#147;  J.C.L. Noted physician and psychoanalyst, Dr. John Lilly, has worked extensively in various fields of science, including biophysics, neurophysiology, electronics and neuroanatomy.  He has conducted studies on solitude, isolation and confinement and spent twelve years researching dolphin-human relationships.  He was associated with the Esalen Institute in California and studied with Oscar Ichazo of the Arica Training Group in Chile.  .... Out of print paperback book, available through our book search in limited numbers.  Inquire. <br>
+“What I wish to do in this book is give you enough examples to learn your own simulations of God, understand your own system of belief, and find out what is most important to you within yourself, here and now. “  J.C.L. Noted physician and psychoanalyst, Dr. John Lilly, has worked extensively in various fields of science, including biophysics, neurophysiology, electronics and neuroanatomy.  He has conducted studies on solitude, isolation and confinement and spent twelve years researching dolphin-human relationships.  He was associated with the Esalen Institute in California and studied with Oscar Ichazo of the Arica Training Group in Chile.  .... Out of print paperback book, available through our book search in limited numbers.  Inquire. <br>
 <b>1 Publication.&nbsp;&nbsp;&nbsp; #P158-77.&nbsp;&nbsp;&nbsp; $59.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Some Ideas Relating To Flotation Tanks</i></span>
 <br>
@@ -446,7 +496,7 @@ Fascinating discussions with visiting Russian researcher sitting on a panel with
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A759-90.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">BARBARA CLARKE-LILLY and FAUSTIN BRAY: <br>
 <i>Speaking of John Lilly, Metaprogramming, Japan, and Dolphins</i></span>
 <br>
@@ -454,7 +504,7 @@ Fascinating discussions with visiting Russian researcher sitting on a panel with
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A1064-93.&nbsp;&nbsp;&nbsp; $9.00</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Superspace, Space, and States</i></span>
 <br>
@@ -464,39 +514,39 @@ Fascinating discussions with visiting Russian researcher sitting on a panel with
 <b>1 Compact Disk.&nbsp;&nbsp;&nbsp; #D29-2001.&nbsp;&nbsp;&nbsp; $16.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY &amp; E.J. GOLD: <br>
 <i>Tanks for the Memories: Floatation Tank Talks</i></span>
 <br>
-Co-Edited by  Lee Perry and Faustin Bray.John Lilly&#146;s invention, the floatation tank, is discussed by two vastly different human biocomputers.  Sufi E. J. Gold expresses his art and John Lilly expresses his science.  Edited by Samadhi Tank Company&#146;s co-founder, Lee Perry and Sound Photosynthesis&#146; own Faustin Bray.Michael Hutchison, author of MegaBrain,  states about this book &#147;The floatation tank has always been a gateway in to what is unknown and what is possible.  This book is a guide to making the unknown possible.  ...&#148; Recent release, in print and available. <br>
+Co-Edited by  Lee Perry and Faustin Bray.John Lilly’s invention, the floatation tank, is discussed by two vastly different human biocomputers.  Sufi E. J. Gold expresses his art and John Lilly expresses his science.  Edited by Samadhi Tank Company’s co-founder, Lee Perry and Sound Photosynthesis’ own Faustin Bray.Michael Hutchison, author of MegaBrain,  states about this book “The floatation tank has always been a gateway in to what is unknown and what is possible.  This book is a guide to making the unknown possible.  ...” Recent release, in print and available. <br>
 <b>1 Publication.&nbsp;&nbsp;&nbsp; #P140-95.&nbsp;&nbsp;&nbsp; $12.50</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY, G. HAWKINS KIRK : <br>
-<i>Telepathy:  Are Our; Brain&#146;s Antennas?, part 1Gilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
+<i>Telepathy:  Are Our; Brain’s Antennas?, part 1Gilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
-Telepathy:  Are Our; Brain&#146;s Antennas?, G. HAWKINS KIRK part 1 <br>
+Telepathy:  Are Our; Brain’s Antennas?, G. HAWKINS KIRK part 1 <br>
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.8-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">John C. Lilly, G. HAWKINS KIRK: <br>
-<i>Telepathy:  Are Our Brain&#146;s Antennas?,  part 2Gilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
+<i>Telepathy:  Are Our Brain’s Antennas?,  part 2Gilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
-Telepathy:  Are Our Brain&#146;s Antennas?, G. HAWKINS KIRK part 2 <br>
+Telepathy:  Are Our Brain’s Antennas?, G. HAWKINS KIRK part 2 <br>
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.9-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY : <br>
 <i>The Center of the Cyclone: An Autobiography of InnerSpace</i></span>
 <br>
-A renowned scientist&#146;s experiment inside the human mind! The astonishing personal account by Dr. John.  Beyond &#147;a separate reality lies an inner reality&#148; and it is here that John Lilly take us journeying--into a world inside our own heads more vast and varied than any of us could imagine!   &#147;The book is extremely valuable.  John Lilly is a gifted explorer and the territory he is working contains the enormous riches of greater understanding of ourselves.&#148;  ---The New York Times Book Review   ....Out of print paperback and hardback book, available through our book search in limited numbers and priced accordingly.  Inquire. <br>
+A renowned scientist’s experiment inside the human mind! The astonishing personal account by Dr. John.  Beyond “a separate reality lies an inner reality” and it is here that John Lilly take us journeying--into a world inside our own heads more vast and varied than any of us could imagine!   “The book is extremely valuable.  John Lilly is a gifted explorer and the territory he is working contains the enormous riches of greater understanding of ourselves.”  ---The New York Times Book Review   ....Out of print paperback and hardback book, available through our book search in limited numbers and priced accordingly.  Inquire. <br>
 <b>1 Publication.&nbsp;&nbsp;&nbsp; #P156-75.&nbsp;&nbsp;&nbsp; $54.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>The Cogitate Tape</i></span>
 <br>
@@ -504,15 +554,15 @@ A collaboration with E.J. Gold on this tape. <br>
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A450-89.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY : <br>
 <i>The Deep Self: Profound Relaxation and the Tank Isolation Technique</i></span>
 <br>
-A renowned scientist&#146;s experiment inside the human mind!  The astonishishing personal account by Dr. John.  Beyond &#147;a separate reality lies an inner reality&#148; and it is here that John Lilly take us journeying--into a world inside our own heads more vast and varied than any of us could imagine!   &#145;The book is extremely valuable.  John Lilly is a gifted explorer and the territory he is working contains the enormous riches of greater understanding of ourselves.&#148;  ---The New York Times Book Review   ....Out of print paperback and hardback book, available through our book search in limited numbers.  We are inviting and encouraging publishers to reprint.  Inquire. <br>
+A renowned scientist’s experiment inside the human mind!  The astonishishing personal account by Dr. John.  Beyond “a separate reality lies an inner reality” and it is here that John Lilly take us journeying--into a world inside our own heads more vast and varied than any of us could imagine!   ‘The book is extremely valuable.  John Lilly is a gifted explorer and the territory he is working contains the enormous riches of greater understanding of ourselves.”  ---The New York Times Book Review   ....Out of print paperback and hardback book, available through our book search in limited numbers.  We are inviting and encouraging publishers to reprint.  Inquire. <br>
 <b>1 Publication.&nbsp;&nbsp;&nbsp; #P157-77.&nbsp;&nbsp;&nbsp; $75.00</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">John Lilly &amp; Antonietta Lilly: <br>
 <i>The Dyadic Cyclone</i></span>
 <br>
@@ -520,7 +570,7 @@ Out of print. Inquire by phone as we search for copies and may have one availabl
 <b>1 Publication.&nbsp;&nbsp;&nbsp; #P479-77.&nbsp;&nbsp;&nbsp; $65.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN &amp; TONI LILLY: <br>
 <i>The Famous "K" Talk </i></span>
 <br>
@@ -530,7 +580,7 @@ Out of print. Inquire by phone as we search for copies and may have one availabl
 <b>1 Compact Disk.&nbsp;&nbsp;&nbsp; #D311-74.&nbsp;&nbsp;&nbsp; $15.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>The Frontrunner</i></span>
 <br>
@@ -538,7 +588,7 @@ Dr. John spoke to the Institute for the Study of Consciousness founded by Arthur
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A66-83.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY : <br>
 <i>The Mind of the Dolphin: A Nonhuman Intelligence</i></span>
 <br>
@@ -546,7 +596,7 @@ With his view of the lovable and mysterious dolphin, Dr. Lilly imbues his contro
 <b>1 Publication.&nbsp;&nbsp;&nbsp; #P154-71.&nbsp;&nbsp;&nbsp; $39.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>The Origins  of Consciousness</i></span>
 <br>
@@ -554,7 +604,7 @@ Here is a historical and amusing exhibition of the origin of consciousness.  Gos
 <b>2 Audio Cassettes.&nbsp;&nbsp;&nbsp; #A433-2000.&nbsp;&nbsp;&nbsp; $20.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>The Scientist: A Metaphysical Autobiography</i></span>
 <br>
@@ -562,7 +612,7 @@ Who is on John's committee? What new assignment does ECCO have for John this tim
 <b>1 Publication.&nbsp;&nbsp;&nbsp; #P100-97.&nbsp;&nbsp;&nbsp; $14.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>The Use of Indeterminancy</i></span>
 <br>
@@ -570,7 +620,7 @@ Who is on John's committee? What new assignment does ECCO have for John this tim
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A74-78.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN C. LILLY, G. HAWKINS KIRK: <br>
 <i>Universal Ethics Perspectives as Relating to Cetaceans and any and all Nations; HAWKINSGilding the Lilly: A Symposium Honoring The 85th Birthday of John C. Lilly, M.D.</i></span>
 <br>
@@ -578,7 +628,7 @@ Who is on John's committee? What new assignment does ECCO have for John this tim
 <b>1 Video Cassette.&nbsp;&nbsp;&nbsp; #V285.11-2000.&nbsp;&nbsp;&nbsp; $35.95</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Visiting The Timothy Leary Workshop</i></span>
 <br>
@@ -586,7 +636,7 @@ At Esalen Institue when it was the most forward thinking environment to be found
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A75-83.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY: <br>
 <i>Voices of the Dolphin</i></span>
 <br>
@@ -594,7 +644,7 @@ At Esalen Institue when it was the most forward thinking environment to be found
 <b>1 Audio Cassette.&nbsp;&nbsp;&nbsp; #A303-78.&nbsp;&nbsp;&nbsp; $10.99</b>
   <br>
 <p><br clear="all">
-<table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tr><td align="right"><a href="#top">back to top</a></td></tr></table>
+</p><table width="100%" background="images/line-blue-lines500px.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><a href="#top">back to top</a></td></tr></tbody></table>
 <span class="title">JOHN LILLY, M.D. &amp; LISA LYON LILLY: <br>
 <i>With the Muse</i></span>
 <br>
@@ -610,17 +660,61 @@ Lisa asks John about political awareness and the directions Washington is taking
 				</td>
 				<td valign="top"></td>
 			</tr>
-		</table>
+		</tbody></table>
 		<p></p>
   </div>
 
   <div class="divider">· · · ✦ · · ·</div>
 </div>
 
-<footer>
-  <div class="footer-rule">— ✦ ✦ ✦ —</div>
-  John C. Lilly Archive · 1915–2001 · Preserved for research and education<br>
-  <a href="index.html">Home</a> · <a href="bio.html">Biography</a> · <a href="memorial.html">Memorial</a>
+
+
+<footer class="site-footer">
+<div class="container">
+  <div class="footer-grid">
+    <div>
+      <div class="footer-brand">🐬 John C. Lilly Archive</div>
+      <p>A permanent archive of Dr. John C. Lilly's life and research — dolphin communication, isolation tanks, consciousness, and E.C.C.O. Preserved for research and education.</p>
+    </div>
+    <div>
+      <h4>Research</h4>
+      <a href="cetacean.html">Cetacean Nation</a>
+      <a href="interspecies.html">Interspecies Comm.</a>
+      <a href="isolation.html">Isolation Tanks</a>
+      <a href="mind.html">Brain &amp; Mind</a>
+    </div>
+    <div>
+      <h4>Archive</h4>
+      <a href="bio.html">Biography</a>
+      <a href="writings.html">Writings</a>
+      <a href="photos.html">Photos</a>
+      <a href="gallery.html">Gallery</a>
+    </div>
+    <div>
+      <h4>Site</h4>
+      <a href="index.html">Home</a>
+      <a href="memorial.html">1915–2001</a>
+      <a href="ecco.html">E.C.C.O.</a>
+      <a href="sitemap.xml">Sitemap</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>John C. Lilly · 1915–2001 · Preserved for research and education</span>
+    <span>Original: <a href="http://www.johnclilly.com" target="_blank" rel="noopener">johnclilly.com</a></span>
+  </div>
+</div>
 </footer>
-</body>
-</html>
+<script>
+(function(){
+  var h=document.getElementById('hamburger'),d=document.getElementById('navDrawer'),o=document.getElementById('navOverlay'),c=document.getElementById('drawerClose');
+  function open(){d.classList.add('open');o.classList.add('active');h&&h.classList.add('open');}
+  function close(){d.classList.remove('open');o.classList.remove('active');h&&h.classList.remove('open');}
+  if(h)h.addEventListener('click',open);
+  if(c)c.addEventListener('click',close);
+  if(o)o.addEventListener('click',close);
+})();
+</script>
+<a class="view-original-btn" href="http://www.johnclilly.com/photosynthesis-profile.html" target="_blank" rel="noopener" title="View original page on johnclilly.com">
+  <span class="vob-icon">🔗</span>
+  <span class="vob-label">View Original</span>
+</a></body></html>
