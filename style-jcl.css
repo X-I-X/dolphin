@@ -891,3 +891,32 @@ h3 { font-size: 1.05rem; }
 }
 @media(max-width:600px){ .smap-grid{ grid-template-columns: 1fr 1fr; } }
 @media(max-width:380px){ .smap-grid{ grid-template-columns: 1fr; } }
+
+/* Batch 0 cleanup: modern text replacements for old image navigation buttons */
+.old-site-nav-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 8px 12px;
+  margin: 4px;
+  border: 1px solid rgba(10, 77, 140, 0.25);
+  border-radius: 999px;
+  color: #0A4D8C;
+  background: rgba(255, 255, 255, 0.82);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.old-site-nav-link:hover {
+  background: rgba(10, 77, 140, 0.1);
+}
+@media (max-width: 768px) {
+  .old-site-nav-link {
+    width: auto;
+    max-width: 100%;
+    white-space: normal;
+  }
+}
