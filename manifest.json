@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "J",
+  "current_batch": "K",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -13,7 +13,7 @@
     "G": "complete",
     "H": "complete",
     "I": "complete",
-    "J": "pending",
+    "J": "complete",
     "K": "pending",
     "L": "pending",
     "M": "pending",
@@ -79,7 +79,7 @@
     "babyjohn.html": "partial",
     "babyjohnx.html": "partial",
     "bio.html": "partial",
-    "biogx.html": "partial",
+    "biogx.html": "verified",
     "books01.html": "partial",
     "books02.html": "partial",
     "brain.html": "partial",
@@ -249,7 +249,7 @@
     "interspeciesx.html": "verified",
     "intro01.html": "verified",
     "inventions.html": "partial",
-    "inventionsx.html": "partial",
+    "inventionsx.html": "verified",
     "isolation.html": "partial",
     "isolationx.html": "verified",
     "isotank02x.html": "partial",
@@ -340,7 +340,7 @@
     "mauiNews.html": "partial",
     "melonbrains.html": "partial",
     "melonbrainsx.html": "partial",
-    "meltingx.html": "partial",
+    "meltingx.html": "verified",
     "memorial.html": "partial",
     "memorial00.html": "partial",
     "memorial01.html": "partial",
@@ -523,7 +523,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "partial"
   },
-  "last_batch_run": "2026-05-29",
-  "last_batch_completed": "I",
-  "last_updated": "2026-05-29"
+  "last_batch_run": "2026-05-30",
+  "last_batch_completed": "J",
+  "last_updated": "2026-05-30"
 }
