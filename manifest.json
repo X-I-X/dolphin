@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "N",
+  "current_batch": "O",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -17,7 +17,7 @@
     "K": "complete",
     "L": "complete",
     "M": "complete",
-    "N": "pending",
+    "N": "complete",
     "O": "pending"
   },
   "pages": {
@@ -263,7 +263,7 @@
     "janus06x.html": "verified",
     "japanTrip01.html": "partial",
     "japanTrip02.html": "partial",
-    "jcl1915-2001.html": "partial",
+    "jcl1915-2001.html": "verified",
     "jhome.html": "partial",
     "jlhome.html": "verified",
     "jlhome2.html": "partial",
@@ -317,7 +317,7 @@
     "lillyondolphins01.html": "partial",
     "lillywave.html": "partial",
     "lillywavex.html": "verified",
-    "linklibrary.html": "partial",
+    "linklibrary.html": "verified",
     "links.html": "partial",
     "loehrx.html": "partial",
     "lowband.html": "verified",
@@ -523,7 +523,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-02",
-  "last_batch_completed": "M",
-  "last_updated": "2026-06-02"
+  "last_batch_run": "2026-06-03",
+  "last_batch_completed": "N",
+  "last_updated": "2026-06-03"
 }
