@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "O",
+  "current_batch": "complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -18,7 +18,7 @@
     "L": "complete",
     "M": "complete",
     "N": "complete",
-    "O": "pending"
+    "O": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -523,7 +523,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-03",
-  "last_batch_completed": "N",
-  "last_updated": "2026-06-03"
+  "last_batch_run": "2026-06-04",
+  "last_batch_completed": "O",
+  "last_updated": "2026-06-04"
 }

@@ -1,0 +1,448 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search — John C. Lilly Archive</title>
+  <meta name="description" content="Search the John C. Lilly Archive — dolphin research, isolation tanks, consciousness, E.C.C.O., and more.">
+  <meta property="og:title" content="Search — John C. Lilly Archive">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="style-jcl.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐬</text></svg>">
+  <style>
+    .search-page-box {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 48px 24px 80px;
+    }
+    .search-page-input-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: var(--bg-soft);
+      border: 2px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 14px 20px;
+      margin-bottom: 8px;
+      transition: border-color 0.2s;
+    }
+    .search-page-input-row:focus-within {
+      border-color: var(--teal);
+    }
+    .search-page-icon { font-size: 22px; }
+    .search-page-input {
+      flex: 1;
+      border: none;
+      outline: none;
+      font-size: 20px;
+      font-family: var(--font);
+      color: var(--text);
+      background: transparent;
+    }
+    .search-page-input::placeholder { color: var(--text-soft); }
+    .search-page-clear {
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-size: 18px;
+      color: var(--text-soft);
+      padding: 4px 8px;
+      border-radius: 99px;
+      display: none;
+    }
+    .search-page-clear.visible { display: block; }
+    .search-hint {
+      font-size: 12px;
+      color: var(--text-soft);
+      margin-bottom: 32px;
+    }
+    .search-hint kbd {
+      display: inline-block;
+      padding: 1px 6px;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      font-size: 11px;
+      font-family: monospace;
+    }
+    .search-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 24px;
+    }
+    .filter-btn {
+      padding: 5px 14px;
+      border-radius: 99px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+      color: var(--text-soft);
+      font-family: var(--font);
+      transition: background 0.18s, color 0.18s, border-color 0.18s;
+    }
+    .filter-btn.active, .filter-btn:hover {
+      background: var(--teal);
+      color: #fff;
+      border-color: var(--teal);
+    }
+    .result-count {
+      font-size: 12px;
+      color: var(--text-soft);
+      margin-bottom: 16px;
+      font-weight: 500;
+    }
+    .sp-result {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      padding: 16px 0;
+      border-bottom: 1px solid var(--border);
+      text-decoration: none;
+      transition: background 0.15s;
+    }
+    .sp-result:last-child { border-bottom: none; }
+    .sp-result:hover { background: var(--bg-soft); border-radius: var(--radius); padding-left: 8px; padding-right: 8px; margin: 0 -8px; }
+    .sp-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+      background: var(--bg-soft);
+      border: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+    .sp-content { flex: 1; min-width: 0; }
+    .sp-cat {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--teal);
+      margin-bottom: 2px;
+    }
+    .sp-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 3px;
+      line-height: 1.3;
+    }
+    .sp-desc {
+      font-size: 13px;
+      color: var(--text-soft);
+      line-height: 1.5;
+    }
+    mark {
+      background: rgba(10,154,164,0.18);
+      color: var(--teal);
+      border-radius: 2px;
+      padding: 0 1px;
+    }
+    .search-empty-state {
+      text-align: center;
+      padding: 64px 0;
+      color: var(--text-soft);
+    }
+    .search-empty-state .empty-icon { font-size: 48px; margin-bottom: 16px; }
+    .search-empty-state h3 { font-size: 18px; color: var(--text); margin-bottom: 8px; }
+    .initial-state {
+      text-align: center;
+      padding: 48px 0;
+    }
+    .initial-state .big-icon { font-size: 64px; margin-bottom: 20px; opacity: 0.7; }
+    .initial-state h2 {
+      font-family: var(--font-serif);
+      font-size: clamp(1.4rem, 3vw, 2rem);
+      font-weight: 400;
+      margin-bottom: 10px;
+    }
+    .initial-state p { color: var(--text-soft); font-size: 15px; max-width: 480px; margin: 0 auto 24px; }
+    .topic-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+    }
+    .topic-chip {
+      padding: 7px 16px;
+      border-radius: 99px;
+      border: 1px solid var(--border);
+      background: var(--bg-soft);
+      font-size: 13px;
+      cursor: pointer;
+      color: var(--text-soft);
+      font-family: var(--font);
+      transition: all 0.15s;
+      text-decoration: none;
+    }
+    .topic-chip:hover {
+      border-color: var(--teal);
+      color: var(--teal);
+      background: rgba(10,154,164,0.07);
+    }
+  </style>
+</head>
+<body>
+<div class="ocean-bg" aria-hidden="true">
+<svg viewBox="0 0 1400 900" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <circle cx="700" cy="450" r="160" fill="none" stroke="#0A4D8C" stroke-width="1"></circle>
+  <circle cx="700" cy="450" r="380" fill="none" stroke="#0A4D8C" stroke-width="0.8"></circle>
+  <circle cx="700" cy="450" r="680" fill="none" stroke="#0A9AA4" stroke-width="0.6"></circle>
+  <path d="M0,200 Q175,160 350,200 Q525,240 700,200 Q875,160 1050,200 Q1225,240 1400,200" fill="none" stroke="#0A9AA4" stroke-width="1"></path>
+  <path d="M0,700 Q200,660 400,700 Q600,740 800,700 Q1000,660 1200,700 Q1300,720 1400,700" fill="none" stroke="#0A9AA4" stroke-width="0.9"></path>
+</svg>
+</div>
+
+<header class="site-header">
+<div class="container">
+  <a href="index.html" class="logo-zone">
+    <span class="logo-icon">🐬</span>
+    <span class="logo-text">John C. Lilly Archive</span>
+  </a>
+  <nav class="site-nav">
+    <a href="thestory.html">The Story</a>
+    <a href="cetacean.html">Cetacean Nation</a>
+    <a href="interspecies.html">Interspecies</a>
+    <a href="mind.html">Brain &amp; Mind</a>
+    <a href="isolation.html">Isolation Tanks</a>
+    <a href="ecco.html">E.C.C.O.</a>
+    <a href="bio.html">Biography</a>
+    <a href="writings.html">Writings</a>
+    <a href="memorial.html">1915–2001</a>
+  </nav>
+  <button class="hamburger" id="hamburger" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
+</div>
+</header>
+<div class="nav-overlay" id="navOverlay"></div>
+<nav class="nav-drawer" id="navDrawer">
+  <button class="drawer-close" id="drawerClose">✕</button>
+  <a href="index.html">🐬 Home</a>
+  <a href="thestory.html">The Story</a>
+  <a href="cetacean.html">Cetacean Nation</a>
+  <a href="interspecies.html">Interspecies</a>
+  <a href="mind.html">Brain &amp; Mind</a>
+  <a href="isolation.html">Isolation Tanks</a>
+  <a href="ecco.html">E.C.C.O.</a>
+  <a href="bio.html">Biography</a>
+  <a href="writings.html">Writings</a>
+  <a href="memorial.html">1915–2001</a>
+  <a href="gallery.html">Gallery</a>
+  <a href="photos.html">Photos</a>
+</nav>
+
+<main>
+<div class="search-page-box">
+  <div class="search-page-input-row">
+    <span class="search-page-icon">🔍</span>
+    <input type="text" class="search-page-input" id="searchInput" 
+      placeholder="Search the archive…" autocomplete="off" spellcheck="false" autofocus>
+    <button class="search-page-clear" id="clearBtn" aria-label="Clear search">✕</button>
+  </div>
+  <div class="search-hint">
+    Type to search across 150+ archive pages.
+    Press <kbd>Enter</kbd> to go to first result.
+  </div>
+
+  <div class="search-filters" id="filterBar">
+    <button class="filter-btn active" data-cat="all">All</button>
+    <button class="filter-btn" data-cat="Biography">Biography</button>
+    <button class="filter-btn" data-cat="Cetacean Research">Cetacean</button>
+    <button class="filter-btn" data-cat="Interspecies Lab">Interspecies</button>
+    <button class="filter-btn" data-cat="Brain &amp; Mind">Brain &amp; Mind</button>
+    <button class="filter-btn" data-cat="Isolation Tanks">Tanks</button>
+    <button class="filter-btn" data-cat="E.C.C.O.">E.C.C.O.</button>
+    <button class="filter-btn" data-cat="Writings">Writings</button>
+    <button class="filter-btn" data-cat="Woman &amp; Dolphin Diary">Diary</button>
+    <button class="filter-btn" data-cat="Photo Album">Photos</button>
+    <button class="filter-btn" data-cat="Memorial">Memorial</button>
+  </div>
+
+  <div id="resultCount" class="result-count" style="display:none;"></div>
+  <div id="resultsContainer">
+    <!-- Initial state -->
+    <div class="initial-state" id="initialState">
+      <div class="big-icon">🐬</div>
+      <h2>Search the Archive</h2>
+      <p>Dolphin communication, isolation tanks, E.C.C.O., consciousness research, and the life of John C. Lilly.</p>
+      <div class="topic-grid">
+        <span class="topic-chip" data-query="dolphin">🐬 Dolphins</span>
+        <span class="topic-chip" data-query="isolation tank">🛁 Isolation Tank</span>
+        <span class="topic-chip" data-query="ecco">🌊 E.C.C.O.</span>
+        <span class="topic-chip" data-query="consciousness">🧠 Consciousness</span>
+        <span class="topic-chip" data-query="lsd">💊 LSD Research</span>
+        <span class="topic-chip" data-query="communication">📡 Communication</span>
+        <span class="topic-chip" data-query="margaret howe">👤 Margaret Howe</span>
+        <span class="topic-chip" data-query="janus">🔬 JANUS Project</span>
+        <span class="topic-chip" data-query="biography">📖 Biography</span>
+        <span class="topic-chip" data-query="maui">🏝️ Maui</span>
+      </div>
+    </div>
+  </div>
+</div>
+</main>
+
+<script>
+(function() {
+  var input = document.getElementById('searchInput');
+  var clearBtn = document.getElementById('clearBtn');
+  var resultsContainer = document.getElementById('resultsContainer');
+  var initialState = document.getElementById('initialState');
+  var resultCount = document.getElementById('resultCount');
+  var filterBar = document.getElementById('filterBar');
+  
+  var searchIndex = null;
+  var activeCategory = 'all';
+  var currentQuery = '';
+
+  var ICONS = {
+    'Biography': '👤', 'Memorial': '🕊️', 'Cetacean Research': '🐬',
+    'Interspecies Lab': '🔬', 'Woman & Dolphin Diary': '📔',
+    'JANUS Project': '📡', 'Brain & Mind': '🧠',
+    'Isolation Tanks': '🛁', 'E.C.C.O.': '🌊',
+    'Writings': '📚', 'Inventions': '⚙️', 'Maui Residence': '🏝️',
+    'Current Events': '📰', 'Music & Video': '🎬',
+    'Photo Album': '📷', 'Links': '🔗',
+    'Archive Home': '🏠', 'Navigation': '🗺️', 'Archive': '📂',
+    'Index': '📑', 'Credits': '✨'
+  };
+
+  // Load search index
+  fetch('search-index.json')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      searchIndex = data;
+      // Auto-search if URL has ?q=
+      var params = new URLSearchParams(window.location.search);
+      if (params.get('q')) {
+        input.value = params.get('q');
+        doSearch();
+      }
+    });
+
+  function highlight(text, terms) {
+    if (!text) return '';
+    var escaped = text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    terms.forEach(function(t) {
+      var re = new RegExp('(' + t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+      escaped = escaped.replace(re, '<mark>$1</mark>');
+    });
+    return escaped;
+  }
+
+  function doSearch() {
+    var q = currentQuery.trim();
+    if (!searchIndex) return;
+    
+    clearBtn.classList.toggle('visible', q.length > 0);
+    
+    if (q.length < 2) {
+      initialState.style.display = '';
+      resultsContainer.innerHTML = '';
+      resultsContainer.appendChild(initialState);
+      resultCount.style.display = 'none';
+      return;
+    }
+
+    initialState.style.display = 'none';
+    var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+
+    var results = searchIndex.filter(function(item) {
+      var text = ((item.title || '') + ' ' + (item.description || '') + ' ' + (item.category || '')).toLowerCase();
+      var matchesQuery = terms.every(function(t) { return text.includes(t); });
+      var matchesCat = activeCategory === 'all' || item.category === activeCategory;
+      return matchesQuery && matchesCat;
+    });
+
+    resultCount.style.display = 'block';
+    resultCount.textContent = results.length + ' result' + (results.length !== 1 ? 's' : '') +
+      (activeCategory !== 'all' ? ' in ' + activeCategory : '') +
+      ' for "' + q + '"';
+
+    if (!results.length) {
+      resultsContainer.innerHTML =
+        '<div class="search-empty-state">' +
+        '<div class="empty-icon">🌊</div>' +
+        '<h3>No results found</h3>' +
+        '<p>Try different keywords or browse by category above.</p>' +
+        '</div>';
+      return;
+    }
+
+    resultsContainer.innerHTML = results.map(function(item) {
+      var icon = ICONS[item.category] || '📄';
+      var titleHl = highlight(item.title || '', terms);
+      var descHl = highlight((item.description || '').slice(0, 150), terms);
+      return '<a class="sp-result" href="' + item.url + '">' +
+        '<div class="sp-icon">' + icon + '</div>' +
+        '<div class="sp-content">' +
+          '<div class="sp-cat">' + (item.category || 'Archive') + '</div>' +
+          '<div class="sp-title">' + titleHl + '</div>' +
+          (descHl ? '<div class="sp-desc">' + descHl + (item.description && item.description.length > 150 ? '…' : '') + '</div>' : '') +
+        '</div></a>';
+    }).join('');
+  }
+
+  input.addEventListener('input', function() {
+    currentQuery = input.value;
+    doSearch();
+    // Update URL without reload
+    var params = new URLSearchParams(window.location.search);
+    if (input.value.trim()) params.set('q', input.value.trim());
+    else params.delete('q');
+    var newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
+    window.history.replaceState(null, '', newUrl);
+  });
+
+  clearBtn.addEventListener('click', function() {
+    input.value = '';
+    currentQuery = '';
+    doSearch();
+    input.focus();
+    window.history.replaceState(null, '', window.location.pathname);
+  });
+
+  // Enter → navigate to first result
+  input.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+      var first = resultsContainer.querySelector('.sp-result');
+      if (first) window.location.href = first.href;
+    }
+    if (e.key === 'Escape') {
+      input.blur();
+    }
+  });
+
+  // Filter buttons
+  filterBar.addEventListener('click', function(e) {
+    var btn = e.target.closest('.filter-btn');
+    if (!btn) return;
+    document.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+    btn.classList.add('active');
+    activeCategory = btn.dataset.cat === 'all' ? 'all' : btn.getAttribute('data-cat');
+    doSearch();
+  });
+
+  // Topic chips
+  document.querySelectorAll('.topic-chip[data-query]').forEach(function(chip) {
+    chip.addEventListener('click', function() {
+      input.value = chip.dataset.query;
+      currentQuery = chip.dataset.query;
+      doSearch();
+      input.focus();
+    });
+  });
+})();
+</script>
+<script src="slider.js"></script>
+<script src="jcl-enhance.js"></script>
+</body>
+</html>
