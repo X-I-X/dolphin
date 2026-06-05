@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "complete",
+  "current_batch": "P1-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -18,7 +18,8 @@
     "L": "complete",
     "M": "complete",
     "N": "complete",
-    "O": "complete"
+    "O": "complete",
+    "P1": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -160,15 +161,15 @@
     "discoveries.html": "verified",
     "dolbrains.html": "verified",
     "dolbrainso.html": "partial",
-    "dolcomm.html": "partial",
-    "dolcomm02.html": "partial",
-    "dolcomm03.html": "partial",
-    "dolcomm04.html": "partial",
-    "dolcomm06.html": "partial",
-    "dolcomm07.html": "partial",
-    "dolcomm08.html": "partial",
-    "dolcomm09.html": "partial",
-    "dolcomm10.html": "partial",
+    "dolcomm.html": "complete",
+    "dolcomm02.html": "complete",
+    "dolcomm03.html": "complete",
+    "dolcomm04.html": "complete",
+    "dolcomm06.html": "complete",
+    "dolcomm07.html": "complete",
+    "dolcomm08.html": "complete",
+    "dolcomm09.html": "complete",
+    "dolcomm10.html": "complete",
     "doljump01.html": "partial",
     "doljump01x.html": "verified",
     "doljump02.html": "partial",
@@ -523,7 +524,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-04",
-  "last_batch_completed": "O",
-  "last_updated": "2026-06-04"
+  "last_batch_run": "2026-06-05",
+  "last_batch_completed": "P1",
+  "last_updated": "2026-06-05"
 }
