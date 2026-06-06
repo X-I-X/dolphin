@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P1-complete",
+  "current_batch": "P2-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -19,7 +19,8 @@
     "M": "complete",
     "N": "complete",
     "O": "complete",
-    "P1": "complete"
+    "P1": "complete",
+    "P2": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -217,22 +218,22 @@
     "experiment02x.html": "verified",
     "experimentx.html": "verified",
     "fractalpixx.html": "partial",
-    "futureComm00.html": "partial",
-    "futureComm20.html": "partial",
-    "futureComm21.html": "partial",
-    "futureComm22.html": "partial",
-    "futureComm23.html": "partial",
-    "futureComm24.html": "partial",
-    "futureComm24A.html": "partial",
-    "futureComm25.html": "partial",
-    "futureComm26.html": "partial",
-    "futureComm27.html": "partial",
-    "futureComm28.html": "partial",
-    "futureComm29.html": "partial",
-    "futureComm30.html": "partial",
-    "futureComm31.html": "partial",
-    "futureComm40.html": "partial",
-    "futureComm41.html": "partial",
+    "futureComm00.html": "complete",
+    "futureComm20.html": "complete",
+    "futureComm21.html": "complete",
+    "futureComm22.html": "complete",
+    "futureComm23.html": "complete",
+    "futureComm24.html": "complete",
+    "futureComm24A.html": "complete",
+    "futureComm25.html": "complete",
+    "futureComm26.html": "complete",
+    "futureComm27.html": "complete",
+    "futureComm28.html": "complete",
+    "futureComm29.html": "complete",
+    "futureComm30.html": "complete",
+    "futureComm31.html": "complete",
+    "futureComm40.html": "complete",
+    "futureComm41.html": "complete",
     "gallery.html": "verified",
     "geosis.html": "partial",
     "geosisx.html": "partial",
@@ -524,7 +525,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-05",
-  "last_batch_completed": "P1",
-  "last_updated": "2026-06-05"
+  "last_batch_run": "2026-06-06",
+  "last_batch_completed": "P2",
+  "last_updated": "2026-06-06"
 }
