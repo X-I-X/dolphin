@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P2-complete",
+  "current_batch": "P3-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -20,7 +20,8 @@
     "N": "complete",
     "O": "complete",
     "P1": "complete",
-    "P2": "complete"
+    "P2": "complete",
+    "P3": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -427,22 +428,22 @@
     "simulationsPrologue.html": "partial",
     "sofar00.html": "partial",
     "sofar01.html": "verified",
-    "sound01.html": "partial",
-    "sound01x.html": "partial",
-    "sound02.html": "partial",
-    "sound02x.html": "partial",
-    "sound03.html": "partial",
-    "sound03x.html": "partial",
-    "sound04.html": "partial",
-    "sound04x.html": "partial",
-    "sound05.html": "partial",
-    "sound05x.html": "partial",
-    "sound06x.html": "partial",
-    "sound07x.html": "partial",
-    "sound08x.html": "partial",
-    "sound09x.html": "partial",
-    "sound10x.html": "partial",
-    "sound11x.html": "partial",
+    "sound01.html": "complete",
+    "sound01x.html": "complete",
+    "sound02.html": "complete",
+    "sound02x.html": "complete",
+    "sound03.html": "complete",
+    "sound03x.html": "complete",
+    "sound04.html": "complete",
+    "sound04x.html": "complete",
+    "sound05.html": "complete",
+    "sound05x.html": "complete",
+    "sound06x.html": "complete",
+    "sound07x.html": "complete",
+    "sound08x.html": "complete",
+    "sound09x.html": "complete",
+    "sound10x.html": "complete",
+    "sound11x.html": "complete",
     "spermwhale.html": "verified",
     "stagesx.html": "verified",
     "sunset.html": "partial",
@@ -525,7 +526,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-06",
-  "last_batch_completed": "P2",
-  "last_updated": "2026-06-06"
+  "last_batch_run": "2026-06-07",
+  "last_batch_completed": "P3",
+  "last_updated": "2026-06-07"
 }
