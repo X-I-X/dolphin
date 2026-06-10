@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P3-complete",
+  "current_batch": "P4-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -21,7 +21,8 @@
     "O": "complete",
     "P1": "complete",
     "P2": "complete",
-    "P3": "complete"
+    "P3": "complete",
+    "P4": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -208,11 +209,11 @@
     "eccox.html": "verified",
     "economics.html": "verified",
     "elvar00x.html": "verified",
-    "elvar01x.html": "partial",
-    "elvar02x.html": "partial",
-    "elvar03x.html": "partial",
-    "elvar04x.html": "partial",
-    "elvar33x.html": "partial",
+    "elvar01x.html": "complete",
+    "elvar02x.html": "complete",
+    "elvar03x.html": "complete",
+    "elvar04x.html": "complete",
+    "elvar33x.html": "complete",
     "encounters.html": "partial",
     "encountersx.html": "verified",
     "experiencesx.html": "verified",
@@ -526,7 +527,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-07",
-  "last_batch_completed": "P3",
-  "last_updated": "2026-06-07"
+  "last_batch_run": "2026-06-10",
+  "last_batch_completed": "P4",
+  "last_updated": "2026-06-10"
 }
