@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P4-complete",
+  "current_batch": "P5-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -22,7 +22,8 @@
     "P1": "complete",
     "P2": "complete",
     "P3": "complete",
-    "P4": "complete"
+    "P4": "complete",
+    "P5": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -345,12 +346,12 @@
     "melonbrains.html": "partial",
     "melonbrainsx.html": "partial",
     "meltingx.html": "verified",
-    "memorial.html": "partial",
-    "memorial00.html": "partial",
-    "memorial01.html": "partial",
-    "memorial02.html": "partial",
-    "memorial03.html": "partial",
-    "memorial04.html": "partial",
+    "memorial.html": "complete",
+    "memorial00.html": "complete",
+    "memorial01.html": "complete",
+    "memorial02.html": "complete",
+    "memorial03.html": "complete",
+    "memorial04.html": "complete",
     "metaprog.html": "partial",
     "metaprog00.html": "partial",
     "metaprog01.html": "partial",
@@ -527,7 +528,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-10",
-  "last_batch_completed": "P4",
-  "last_updated": "2026-06-10"
+  "last_batch_run": "2026-06-11",
+  "last_batch_completed": "P5",
+  "last_updated": "2026-06-11"
 }
