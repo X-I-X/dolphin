@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P6-complete",
+  "current_batch": "P7-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -24,7 +24,8 @@
     "P3": "complete",
     "P4": "complete",
     "P5": "complete",
-    "P6": "complete"
+    "P6": "complete",
+    "P7": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -76,7 +77,7 @@
     "agents.html": "verified",
     "albertJohn01.html": "partial",
     "aristotle.html": "verified",
-    "ashes00.html": "partial",
+    "ashes00.html": "complete",
     "askjohn.html": "verified",
     "australia01.html": "partial",
     "australia02.html": "partial",
@@ -304,7 +305,7 @@
     "johnwizard.html": "partial",
     "johnwizard02.html": "partial",
     "johnwizard03.html": "partial",
-    "koontz01.html": "partial",
+    "koontz01.html": "complete",
     "lab00.html": "partial",
     "lab00x.html": "verified",
     "labCG.html": "partial",
@@ -325,7 +326,7 @@
     "lillywavex.html": "verified",
     "linklibrary.html": "verified",
     "links.html": "partial",
-    "loehrx.html": "partial",
+    "loehrx.html": "complete",
     "lowband.html": "verified",
     "lsdtankx.html": "verified",
     "mandolph00.html": "partial",
@@ -391,7 +392,7 @@
     "musicvidx.html": "verified",
     "neptune01x.html": "verified",
     "nmrscanx.html": "verified",
-    "nyTimes.html": "partial",
+    "nyTimes.html": "complete",
     "oahudol.html": "partial",
     "oahudolx.html": "verified",
     "observerx.html": "verified",
@@ -413,7 +414,7 @@
     "poolCGx.html": "verified",
     "programming00.html": "partial",
     "programming01.html": "verified",
-    "sayonara.html": "partial",
+    "sayonara.html": "complete",
     "scientificx.html": "verified",
     "scientist00.html": "partial",
     "scientist00x.html": "partial",
@@ -485,7 +486,7 @@
     "videophone03.html": "partial",
     "videophone03x.html": "verified",
     "vortex.html": "verified",
-    "washingtonPost.html": "partial",
+    "washingtonPost.html": "complete",
     "weirdness.html": "partial",
     "whatsnew.html": "verified",
     "whatsnew0197.html": "partial",
@@ -520,7 +521,7 @@
     "womandolph12x.html": "verified",
     "womandolph33x.html": "partial",
     "writings.html": "verified",
-    "wsjletter.html": "partial",
+    "wsjletter.html": "complete",
     "ymoCDx.html": "partial",
     "yngJL01.html": "partial",
     "yngJL01x.html": "verified",
@@ -529,7 +530,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-12",
-  "last_batch_completed": "P6",
-  "last_updated": "2026-06-12"
+  "last_batch_run": "2026-06-13",
+  "last_batch_completed": "P7",
+  "last_updated": "2026-06-13"
 }
