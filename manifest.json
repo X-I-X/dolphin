@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P7-complete",
+  "current_batch": "P8-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -25,7 +25,8 @@
     "P4": "complete",
     "P5": "complete",
     "P6": "complete",
-    "P7": "complete"
+    "P7": "complete",
+    "P8": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -368,22 +369,22 @@
     "mind.html": "partial",
     "mind00.html": "partial",
     "mind01.html": "verified",
-    "mindCh0701.html": "partial",
-    "mindCh0702.html": "partial",
-    "mindCh0703.html": "partial",
-    "mindCh0704.html": "partial",
-    "mindCh0705.html": "partial",
-    "mindCh0706.html": "partial",
-    "mindCh0707.html": "partial",
-    "mindCh0708.html": "partial",
-    "mindCh0709.html": "partial",
-    "mindCh0710.html": "partial",
-    "mindCh0711.html": "partial",
-    "mindCh0712.html": "partial",
-    "mindCh0713.html": "partial",
-    "mindCh0714.html": "partial",
-    "mindCh0715.html": "partial",
-    "mindCh0716.html": "partial",
+    "mindCh0701.html": "complete",
+    "mindCh0702.html": "complete",
+    "mindCh0703.html": "complete",
+    "mindCh0704.html": "complete",
+    "mindCh0705.html": "complete",
+    "mindCh0706.html": "complete",
+    "mindCh0707.html": "complete",
+    "mindCh0708.html": "complete",
+    "mindCh0709.html": "complete",
+    "mindCh0710.html": "complete",
+    "mindCh0711.html": "complete",
+    "mindCh0712.html": "complete",
+    "mindCh0713.html": "complete",
+    "mindCh0714.html": "complete",
+    "mindCh0715.html": "complete",
+    "mindCh0716.html": "complete",
     "mindx.html": "verified",
     "mmpa.html": "verified",
     "moderntankx.html": "verified",
@@ -530,7 +531,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-13",
-  "last_batch_completed": "P7",
-  "last_updated": "2026-06-13"
+  "last_batch_run": "2026-06-14",
+  "last_batch_completed": "P8",
+  "last_updated": "2026-06-14"
 }
