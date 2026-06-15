@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P8-complete",
+  "current_batch": "P9-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -26,7 +26,8 @@
     "P5": "complete",
     "P6": "complete",
     "P7": "complete",
-    "P8": "complete"
+    "P8": "complete",
+    "P9": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -127,20 +128,20 @@
     "currentx.html": "verified",
     "cyclone00.html": "partial",
     "cyclone01.html": "verified",
-    "cycloneCh0401.html": "partial",
-    "cycloneCh0402.html": "partial",
-    "cycloneCh0403.html": "partial",
-    "cycloneCh0404.html": "partial",
-    "cycloneCh0405.html": "partial",
-    "cycloneCh0406.html": "partial",
-    "cycloneCh0407.html": "partial",
-    "cycloneCh0408.html": "partial",
-    "cycloneCh0409.html": "partial",
-    "cycloneCh0410.html": "partial",
-    "cycloneCh0411.html": "partial",
-    "cycloneCh0412.html": "partial",
-    "cycloneCh0413.html": "partial",
-    "cycloneCh0414.html": "partial",
+    "cycloneCh0401.html": "complete",
+    "cycloneCh0402.html": "complete",
+    "cycloneCh0403.html": "complete",
+    "cycloneCh0404.html": "complete",
+    "cycloneCh0405.html": "complete",
+    "cycloneCh0406.html": "complete",
+    "cycloneCh0407.html": "complete",
+    "cycloneCh0408.html": "complete",
+    "cycloneCh0409.html": "complete",
+    "cycloneCh0410.html": "complete",
+    "cycloneCh0411.html": "complete",
+    "cycloneCh0412.html": "complete",
+    "cycloneCh0413.html": "complete",
+    "cycloneCh0414.html": "complete",
     "cycloneCh0415.html": "partial",
     "cycloneCh0416.html": "partial",
     "cycloneCh0417.html": "partial",
@@ -531,7 +532,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-14",
-  "last_batch_completed": "P8",
-  "last_updated": "2026-06-14"
+  "last_batch_run": "2026-06-15",
+  "last_batch_completed": "P9",
+  "last_updated": "2026-06-15"
 }
