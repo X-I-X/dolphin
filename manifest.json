@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P9-complete",
+  "current_batch": "P10-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -27,7 +27,8 @@
     "P6": "complete",
     "P7": "complete",
     "P8": "complete",
-    "P9": "complete"
+    "P9": "complete",
+    "P10": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -142,20 +143,20 @@
     "cycloneCh0412.html": "complete",
     "cycloneCh0413.html": "complete",
     "cycloneCh0414.html": "complete",
-    "cycloneCh0415.html": "partial",
-    "cycloneCh0416.html": "partial",
-    "cycloneCh0417.html": "partial",
-    "cycloneCh0418.html": "partial",
-    "cycloneCh0419.html": "partial",
-    "cycloneCh0420.html": "partial",
-    "cycloneCh0421.html": "partial",
-    "cycloneCh0422.html": "partial",
-    "cycloneCh0423.html": "partial",
-    "cycloneCh0424.html": "partial",
-    "cycloneCh0425.html": "partial",
-    "cycloneCh0426.html": "partial",
-    "cycloneCh0427.html": "partial",
-    "cycloneCh0428.html": "partial",
+    "cycloneCh0415.html": "complete",
+    "cycloneCh0416.html": "complete",
+    "cycloneCh0417.html": "complete",
+    "cycloneCh0418.html": "complete",
+    "cycloneCh0419.html": "complete",
+    "cycloneCh0420.html": "complete",
+    "cycloneCh0421.html": "complete",
+    "cycloneCh0422.html": "complete",
+    "cycloneCh0423.html": "complete",
+    "cycloneCh0424.html": "complete",
+    "cycloneCh0425.html": "complete",
+    "cycloneCh0426.html": "complete",
+    "cycloneCh0427.html": "complete",
+    "cycloneCh0428.html": "complete",
     "davidsissy.html": "partial",
     "davidsissy01.html": "partial",
     "davidsissy01x.html": "verified",
@@ -532,7 +533,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-15",
-  "last_batch_completed": "P9",
-  "last_updated": "2026-06-15"
+  "last_batch_run": "2026-06-17",
+  "last_batch_completed": "P10",
+  "last_updated": "2026-06-17"
 }
