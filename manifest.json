@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P10-complete",
+  "current_batch": "P11-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -28,7 +28,8 @@
     "P7": "complete",
     "P8": "complete",
     "P9": "complete",
-    "P10": "complete"
+    "P10": "complete",
+    "P11": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -184,11 +185,11 @@
     "doljump02.html": "partial",
     "doljump02x.html": "verified",
     "dollife.html": "verified",
-    "dolphart01.html": "partial",
-    "dolphart02.html": "partial",
-    "dolphart03.html": "partial",
-    "dolphart04.html": "partial",
-    "dolphart05.html": "partial",
+    "dolphart01.html": "complete",
+    "dolphart02.html": "complete",
+    "dolphart03.html": "complete",
+    "dolphart04.html": "complete",
+    "dolphart05.html": "complete",
     "dolphin01.html": "verified",
     "dolphinMind03.html": "partial",
     "dolphingifs.html": "verified",
@@ -461,12 +462,12 @@
     "tanks00.html": "partial",
     "tanks01.html": "verified",
     "tanksketch01.html": "verified",
-    "tanksketch02.html": "partial",
-    "tanksketch03.html": "partial",
-    "tanksketch04.html": "partial",
-    "tanksketch05.html": "partial",
-    "tanksketch06.html": "partial",
-    "tanksketch07.html": "partial",
+    "tanksketch02.html": "complete",
+    "tanksketch03.html": "complete",
+    "tanksketch04.html": "complete",
+    "tanksketch05.html": "complete",
+    "tanksketch06.html": "complete",
+    "tanksketch07.html": "complete",
     "tankx.html": "verified",
     "teachers.html": "partial",
     "teachersx.html": "verified",
@@ -533,7 +534,7 @@
     "yngJL03.html": "partial",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-17",
-  "last_batch_completed": "P10",
-  "last_updated": "2026-06-17"
+  "last_batch_run": "2026-06-20",
+  "last_batch_completed": "P11",
+  "last_updated": "2026-06-20"
 }
