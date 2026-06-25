@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P15-complete",
+  "current_batch": "P16-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -33,7 +33,8 @@
     "P12": "complete",
     "P13": "complete",
     "P14": "complete",
-    "P15": "complete"
+    "P15": "complete",
+    "P16": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -87,18 +88,18 @@
     "aristotle.html": "verified",
     "ashes00.html": "complete",
     "askjohn.html": "verified",
-    "australia01.html": "partial",
-    "australia02.html": "partial",
-    "australia03.html": "partial",
-    "australia04.html": "partial",
+    "australia01.html": "complete",
+    "australia02.html": "complete",
+    "australia03.html": "complete",
+    "australia04.html": "complete",
     "babyjohn.html": "complete",
     "babyjohnx.html": "verified",
     "bio.html": "complete",
     "biogx.html": "verified",
     "books01.html": "partial",
     "books02.html": "partial",
-    "brain.html": "partial",
-    "brain02.html": "partial",
+    "brain.html": "complete",
+    "brain02.html": "complete",
     "brainsize.html": "partial",
     "brainsizex.html": "partial",
     "brainweightx.html": "partial",
@@ -279,7 +280,7 @@
     "japanTrip01.html": "partial",
     "japanTrip02.html": "partial",
     "jcl1915-2001.html": "verified",
-    "jhome.html": "partial",
+    "jhome.html": "complete",
     "jlhome.html": "verified",
     "jlhome2.html": "partial",
     "john00.html": "verified",
@@ -538,7 +539,7 @@
     "yngJL03.html": "complete",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-24",
-  "last_batch_completed": "P15",
-  "last_updated": "2026-06-24"
+  "last_batch_run": "2026-06-25",
+  "last_batch_completed": "P16",
+  "last_updated": "2026-06-25"
 }
