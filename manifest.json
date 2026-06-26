@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P16-complete",
+  "current_batch": "P17-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -34,7 +34,8 @@
     "P13": "complete",
     "P14": "complete",
     "P15": "complete",
-    "P16": "complete"
+    "P16": "complete",
+    "P17": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -100,9 +101,9 @@
     "books02.html": "partial",
     "brain.html": "complete",
     "brain02.html": "complete",
-    "brainsize.html": "partial",
-    "brainsizex.html": "partial",
-    "brainweightx.html": "partial",
+    "brainsize.html": "complete",
+    "brainsizex.html": "complete",
+    "brainweightx.html": "complete",
     "brainx.html": "verified",
     "bravo.html": "partial",
     "bubbles.html": "partial",
@@ -118,7 +119,7 @@
     "cetacean06.html": "verified",
     "cetacean07.html": "verified",
     "cetbibliox.html": "verified",
-    "chronological.html": "partial",
+    "chronological.html": "complete",
     "cogitate.html": "verified",
     "cogitatex.html": "partial",
     "cognitive.html": "partial",
@@ -409,11 +410,11 @@
     "outline2.html": "verified",
     "paddle.html": "partial",
     "paddlex.html": "verified",
-    "painting00.html": "partial",
-    "painting01.html": "partial",
-    "painting02.html": "partial",
-    "painting03.html": "partial",
-    "painting04.html": "partial",
+    "painting00.html": "complete",
+    "painting01.html": "complete",
+    "painting02.html": "complete",
+    "painting03.html": "complete",
+    "painting04.html": "complete",
     "penn.html": "partial",
     "pennx.html": "partial",
     "photos.html": "partial",
@@ -539,7 +540,7 @@
     "yngJL03.html": "complete",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-25",
-  "last_batch_completed": "P16",
-  "last_updated": "2026-06-25"
+  "last_batch_run": "2026-06-26",
+  "last_batch_completed": "P17",
+  "last_updated": "2026-06-26"
 }
