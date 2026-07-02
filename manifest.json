@@ -1,7 +1,7 @@
 {
-  "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
+  "project": "JCL Archive — dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P18-complete",
+  "current_batch": "P19-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -36,7 +36,8 @@
     "P15": "complete",
     "P16": "complete",
     "P17": "complete",
-    "P18": "complete"
+    "P18": "complete",
+    "P19": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -198,11 +199,11 @@
     "dolphart04.html": "complete",
     "dolphart05.html": "complete",
     "dolphin01.html": "verified",
-    "dolphinMind03.html": "partial",
+    "dolphinMind03.html": "complete",
     "dolphingifs.html": "verified",
-    "dolphinglyph.html": "partial",
-    "dolphinjump.html": "partial",
-    "dolphinjumpx.html": "partial",
+    "dolphinglyph.html": "complete",
+    "dolphinjump.html": "complete",
+    "dolphinjumpx.html": "complete",
     "dolsex.html": "verified",
     "dolsmile.html": "partial",
     "dolsmilex.html": "verified",
@@ -259,8 +260,8 @@
     "hofmannx.html": "verified",
     "hub.html": "verified",
     "hubFrames.html": "partial",
-    "icercJapan01.html": "partial",
-    "icercJapan02.html": "partial",
+    "icercJapan01.html": "complete",
+    "icercJapan02.html": "complete",
     "index.html": "complete",
     "innerx.html": "partial",
     "interspecies.html": "complete",
@@ -279,8 +280,8 @@
     "janus04x.html": "verified",
     "janus05x.html": "verified",
     "janus06x.html": "verified",
-    "japanTrip01.html": "partial",
-    "japanTrip02.html": "partial",
+    "japanTrip01.html": "complete",
+    "japanTrip02.html": "complete",
     "jcl1915-2001.html": "verified",
     "jhome.html": "complete",
     "jlhome.html": "verified",
@@ -541,7 +542,7 @@
     "yngJL03.html": "complete",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-06-30",
-  "last_batch_completed": "P18",
-  "last_updated": "2026-06-30"
+  "last_batch_run": "2026-07-02",
+  "last_batch_completed": "P19",
+  "last_updated": "2026-07-02"
 }
