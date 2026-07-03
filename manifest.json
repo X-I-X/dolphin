@@ -1,7 +1,7 @@
 {
-  "project": "JCL Archive — dolphins-jcl.netlify.app",
+  "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P19-complete",
+  "current_batch": "P20-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -37,12 +37,13 @@
     "P16": "complete",
     "P17": "complete",
     "P18": "complete",
-    "P19": "complete"
+    "P19": "complete",
+    "P20": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
     "404.html": "partial",
-    "80thbdayx.html": "partial",
+    "80thbdayx.html": "complete",
     "AHofmann_TLeary.html": "complete",
     "AtoZ.html": "verified",
     "BT_JCL_ICERC1999.html": "complete",
@@ -54,9 +55,9 @@
     "JCL_K_ICERC1999.html": "complete",
     "JCL_LT_LC1998.html": "complete",
     "JCL_OJaniger.html": "complete",
-    "JCLmar98_03.html": "partial",
-    "JCLmar98_04.html": "partial",
-    "JCLmar98_09.html": "partial",
+    "JCLmar98_03.html": "complete",
+    "JCLmar98_04.html": "complete",
+    "JCLmar98_09.html": "complete",
     "JL&Barbara.html": "complete",
     "JL&Barbarax.html": "verified",
     "JL&Lou.html": "complete",
@@ -107,11 +108,11 @@
     "brainsizex.html": "complete",
     "brainweightx.html": "complete",
     "brainx.html": "verified",
-    "bravo.html": "partial",
-    "bubbles.html": "partial",
-    "callingCD.html": "partial",
-    "callingCDx.html": "partial",
-    "caltechx.html": "partial",
+    "bravo.html": "complete",
+    "bubbles.html": "complete",
+    "callingCD.html": "complete",
+    "callingCDx.html": "complete",
+    "caltechx.html": "complete",
     "ceo01.html": "verified",
     "cetacean.html": "verified",
     "cetacean01.html": "verified",
@@ -542,7 +543,7 @@
     "yngJL03.html": "complete",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-07-02",
-  "last_batch_completed": "P19",
-  "last_updated": "2026-07-02"
+  "last_batch_run": "2026-07-03",
+  "last_batch_completed": "P20",
+  "last_updated": "2026-07-03"
 }
