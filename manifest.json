@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P20-complete",
+  "current_batch": "P21-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -38,7 +38,8 @@
     "P17": "complete",
     "P18": "complete",
     "P19": "complete",
-    "P20": "complete"
+    "P20": "complete",
+    "P21": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -172,7 +173,7 @@
     "davidsissy01x.html": "verified",
     "davidsissy02.html": "complete",
     "davidsissy02x.html": "verified",
-    "deepself00.html": "partial",
+    "deepself00.html": "complete",
     "deepself01.html": "verified",
     "delphis01.html": "partial",
     "delphis03.html": "partial",
@@ -425,7 +426,7 @@
     "photosynthesis-profile.html": "partial",
     "poolCG.html": "partial",
     "poolCGx.html": "verified",
-    "programming00.html": "partial",
+    "programming00.html": "complete",
     "programming01.html": "verified",
     "sayonara.html": "complete",
     "scientificx.html": "verified",
@@ -436,14 +437,14 @@
     "scientist02.html": "complete",
     "scientist02x.html": "complete",
     "sevenDays04.html": "partial",
-    "simulations00.html": "partial",
+    "simulations00.html": "complete",
     "simulations01.html": "verified",
-    "simulationsChap01.html": "partial",
-    "simulationsIntro.html": "partial",
-    "simulationsNotes.html": "partial",
-    "simulationsPreface.html": "partial",
-    "simulationsPrologue.html": "partial",
-    "sofar00.html": "partial",
+    "simulationsChap01.html": "complete",
+    "simulationsIntro.html": "complete",
+    "simulationsNotes.html": "complete",
+    "simulationsPreface.html": "complete",
+    "simulationsPrologue.html": "complete",
+    "sofar00.html": "complete",
     "sofar01.html": "verified",
     "sound01.html": "complete",
     "sound01x.html": "complete",
@@ -543,7 +544,7 @@
     "yngJL03.html": "complete",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-07-03",
-  "last_batch_completed": "P20",
-  "last_updated": "2026-07-03"
+  "last_batch_run": "2026-07-07",
+  "last_batch_completed": "P21",
+  "last_updated": "2026-07-07"
 }
