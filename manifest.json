@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P21-complete",
+  "current_batch": "P22-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -39,7 +39,8 @@
     "P18": "complete",
     "P19": "complete",
     "P20": "complete",
-    "P21": "complete"
+    "P21": "complete",
+    "P22": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -133,12 +134,12 @@
     "communication01.html": "verified",
     "communication01x.html": "complete",
     "conferencex.html": "verified",
-    "construction00.html": "partial",
-    "conversation.html": "partial",
+    "construction00.html": "complete",
+    "conversation.html": "complete",
     "creditsx.html": "verified",
     "current.html": "complete",
     "currentx.html": "verified",
-    "cyclone00.html": "partial",
+    "cyclone00.html": "complete",
     "cyclone01.html": "verified",
     "cycloneCh0401.html": "complete",
     "cycloneCh0402.html": "complete",
@@ -216,10 +217,10 @@
     "drown.html": "partial",
     "drowningx.html": "partial",
     "drownx.html": "partial",
-    "dyadic00.html": "partial",
+    "dyadic00.html": "complete",
     "dyadic01.html": "verified",
-    "dyadic15.html": "partial",
-    "dyadic16.html": "partial",
+    "dyadic15.html": "complete",
+    "dyadic16.html": "complete",
     "ecco.html": "complete",
     "eccoCD.html": "complete",
     "eccoCDx.html": "verified",
@@ -257,7 +258,7 @@
     "geosis.html": "partial",
     "geosisx.html": "partial",
     "happyx.html": "partial",
-    "history00.html": "partial",
+    "history00.html": "complete",
     "history01.html": "verified",
     "hofmannx.html": "verified",
     "hub.html": "verified",
@@ -343,7 +344,7 @@
     "loehrx.html": "complete",
     "lowband.html": "verified",
     "lsdtankx.html": "verified",
-    "mandolph00.html": "partial",
+    "mandolph00.html": "complete",
     "mandolph01.html": "verified",
     "mapping.html": "complete",
     "mappingx.html": "verified",
@@ -379,8 +380,8 @@
     "metaprog07.html": "complete",
     "metaprogx.html": "verified",
     "mimicx.html": "partial",
-    "mind.html": "partial",
-    "mind00.html": "partial",
+    "mind.html": "complete",
+    "mind00.html": "complete",
     "mind01.html": "verified",
     "mindCh0701.html": "complete",
     "mindCh0702.html": "complete",
@@ -544,7 +545,7 @@
     "yngJL03.html": "complete",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-07-07",
-  "last_batch_completed": "P21",
-  "last_updated": "2026-07-07"
+  "last_batch_run": "2026-07-08",
+  "last_batch_completed": "P22",
+  "last_updated": "2026-07-08"
 }
