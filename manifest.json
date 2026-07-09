@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P22-complete",
+  "current_batch": "P23-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -40,7 +40,8 @@
     "P19": "complete",
     "P20": "complete",
     "P21": "complete",
-    "P22": "complete"
+    "P22": "complete",
+    "P23": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -232,7 +233,7 @@
     "elvar03x.html": "complete",
     "elvar04x.html": "complete",
     "elvar33x.html": "complete",
-    "encounters.html": "partial",
+    "encounters.html": "complete",
     "encountersx.html": "verified",
     "experiencesx.html": "verified",
     "experiment02x.html": "verified",
@@ -255,9 +256,9 @@
     "futureComm40.html": "complete",
     "futureComm41.html": "complete",
     "gallery.html": "verified",
-    "geosis.html": "partial",
-    "geosisx.html": "partial",
-    "happyx.html": "partial",
+    "geosis.html": "complete",
+    "geosisx.html": "complete",
+    "happyx.html": "complete",
     "history00.html": "complete",
     "history01.html": "verified",
     "hofmannx.html": "verified",
@@ -266,7 +267,7 @@
     "icercJapan01.html": "complete",
     "icercJapan02.html": "complete",
     "index.html": "complete",
-    "innerx.html": "partial",
+    "innerx.html": "complete",
     "interspecies.html": "complete",
     "interspeciesx.html": "verified",
     "intro01.html": "verified",
@@ -354,7 +355,7 @@
     "marpeter03.html": "partial",
     "marpeter03x.html": "verified",
     "marpeterx.html": "verified",
-    "maskx.html": "partial",
+    "maskx.html": "complete",
     "matrix01.html": "partial",
     "maui.html": "partial",
     "maui01.html": "verified",
@@ -379,7 +380,7 @@
     "metaprog06.html": "complete",
     "metaprog07.html": "complete",
     "metaprogx.html": "verified",
-    "mimicx.html": "partial",
+    "mimicx.html": "complete",
     "mind.html": "complete",
     "mind00.html": "complete",
     "mind01.html": "verified",
@@ -413,7 +414,7 @@
     "observerx.html": "verified",
     "outline.html": "verified",
     "outline2.html": "verified",
-    "paddle.html": "partial",
+    "paddle.html": "complete",
     "paddlex.html": "verified",
     "painting00.html": "complete",
     "painting01.html": "complete",
@@ -545,7 +546,7 @@
     "yngJL03.html": "complete",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-07-08",
-  "last_batch_completed": "P22",
-  "last_updated": "2026-07-08"
+  "last_batch_run": "2026-07-09",
+  "last_batch_completed": "P23",
+  "last_updated": "2026-07-09"
 }
