@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P23-complete",
+  "current_batch": "P24-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -41,7 +41,8 @@
     "P20": "complete",
     "P21": "complete",
     "P22": "complete",
-    "P23": "complete"
+    "P23": "complete",
+    "P24": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -119,7 +120,7 @@
     "ceo01.html": "verified",
     "cetacean.html": "verified",
     "cetacean01.html": "verified",
-    "cetacean03.html": "partial",
+    "cetacean03.html": "complete",
     "cetacean04.html": "verified",
     "cetacean05.html": "verified",
     "cetacean06.html": "verified",
@@ -215,9 +216,9 @@
     "doltankCG01x.html": "verified",
     "doltankCG02.html": "partial",
     "doltankCG02x.html": "verified",
-    "drown.html": "partial",
-    "drowningx.html": "partial",
-    "drownx.html": "partial",
+    "drown.html": "complete",
+    "drowningx.html": "complete",
+    "drownx.html": "complete",
     "dyadic00.html": "complete",
     "dyadic01.html": "verified",
     "dyadic15.html": "complete",
@@ -311,7 +312,7 @@
     "johnmar.html": "complete",
     "johnmarx.html": "verified",
     "johnsissy01x.html": "complete",
-    "johnspiral.html": "partial",
+    "johnspiral.html": "complete",
     "johntank.html": "complete",
     "johntankx.html": "verified",
     "johntim.html": "complete",
@@ -493,7 +494,7 @@
     "touchscreen05.html": "partial",
     "touchscreen06.html": "partial",
     "touchscreen07.html": "partial",
-    "trispiral01.html": "partial",
+    "trispiral01.html": "complete",
     "ultrasoundsx.html": "partial",
     "videophone01.html": "partial",
     "videophone01x.html": "verified",
@@ -546,7 +547,7 @@
     "yngJL03.html": "complete",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-07-09",
-  "last_batch_completed": "P23",
-  "last_updated": "2026-07-09"
+  "last_batch_run": "2026-07-10",
+  "last_batch_completed": "P24",
+  "last_updated": "2026-07-10"
 }
