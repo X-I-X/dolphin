@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P24-complete",
+  "current_batch": "P25-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -42,7 +42,8 @@
     "P21": "complete",
     "P22": "complete",
     "P23": "complete",
-    "P24": "complete"
+    "P24": "complete",
+    "P25": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -333,12 +334,12 @@
     "laboratory04.html": "partial",
     "laboratory04x.html": "verified",
     "laboratoryx.html": "verified",
-    "lillyland00.html": "partial",
-    "lillyland10.html": "partial",
-    "lillyland11.html": "partial",
-    "lillyland12.html": "partial",
-    "lillyondolphins00.html": "partial",
-    "lillyondolphins01.html": "partial",
+    "lillyland00.html": "complete",
+    "lillyland10.html": "complete",
+    "lillyland11.html": "complete",
+    "lillyland12.html": "complete",
+    "lillyondolphins00.html": "complete",
+    "lillyondolphins01.html": "complete",
     "lillywave.html": "complete",
     "lillywavex.html": "verified",
     "linklibrary.html": "verified",
@@ -547,7 +548,7 @@
     "yngJL03.html": "complete",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-07-10",
-  "last_batch_completed": "P24",
-  "last_updated": "2026-07-10"
+  "last_batch_run": "2026-07-11",
+  "last_batch_completed": "P25",
+  "last_updated": "2026-07-11"
 }
