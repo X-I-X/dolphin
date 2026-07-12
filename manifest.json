@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P25-complete",
+  "current_batch": "P26-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -43,7 +43,8 @@
     "P22": "complete",
     "P23": "complete",
     "P24": "complete",
-    "P25": "complete"
+    "P25": "complete",
+    "P26": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -179,9 +180,9 @@
     "davidsissy02x.html": "verified",
     "deepself00.html": "complete",
     "deepself01.html": "verified",
-    "delphis01.html": "partial",
-    "delphis03.html": "partial",
-    "delphisFrames.html": "partial",
+    "delphis01.html": "complete",
+    "delphis03.html": "complete",
+    "delphisFrames.html": "complete",
     "discoveries.html": "verified",
     "dolbrains.html": "verified",
     "dolbrainso.html": "partial",
@@ -320,9 +321,9 @@
     "johntimx.html": "verified",
     "johntoni01.html": "complete",
     "johntoni01x.html": "verified",
-    "johnwizard.html": "partial",
-    "johnwizard02.html": "partial",
-    "johnwizard03.html": "partial",
+    "johnwizard.html": "complete",
+    "johnwizard02.html": "complete",
+    "johnwizard03.html": "complete",
     "koontz01.html": "complete",
     "lab00.html": "partial",
     "lab00x.html": "verified",
@@ -548,7 +549,7 @@
     "yngJL03.html": "complete",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-07-11",
-  "last_batch_completed": "P25",
-  "last_updated": "2026-07-11"
+  "last_batch_run": "2026-07-12",
+  "last_batch_completed": "P26",
+  "last_updated": "2026-07-12"
 }
