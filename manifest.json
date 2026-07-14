@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P26-complete",
+  "current_batch": "P27-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -44,7 +44,8 @@
     "P23": "complete",
     "P24": "complete",
     "P25": "complete",
-    "P26": "complete"
+    "P26": "complete",
+    "P27": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -214,9 +215,9 @@
     "dolsex.html": "verified",
     "dolsmile.html": "partial",
     "dolsmilex.html": "verified",
-    "doltankCG01.html": "partial",
+    "doltankCG01.html": "complete",
     "doltankCG01x.html": "verified",
-    "doltankCG02.html": "partial",
+    "doltankCG02.html": "complete",
     "doltankCG02x.html": "verified",
     "drown.html": "complete",
     "drowningx.html": "complete",
@@ -352,10 +353,10 @@
     "mandolph01.html": "verified",
     "mapping.html": "complete",
     "mappingx.html": "verified",
-    "marpeter.html": "partial",
-    "marpeter02.html": "partial",
+    "marpeter.html": "complete",
+    "marpeter02.html": "complete",
     "marpeter02x.html": "verified",
-    "marpeter03.html": "partial",
+    "marpeter03.html": "complete",
     "marpeter03x.html": "verified",
     "marpeterx.html": "verified",
     "maskx.html": "complete",
@@ -429,7 +430,7 @@
     "photos.html": "partial",
     "photosx.html": "verified",
     "photosynthesis-profile.html": "partial",
-    "poolCG.html": "partial",
+    "poolCG.html": "complete",
     "poolCGx.html": "verified",
     "programming00.html": "complete",
     "programming01.html": "verified",
@@ -549,7 +550,7 @@
     "yngJL03.html": "complete",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-07-12",
-  "last_batch_completed": "P26",
-  "last_updated": "2026-07-12"
+  "last_batch_run": "2026-07-14",
+  "last_batch_completed": "P27",
+  "last_updated": "2026-07-14"
 }
