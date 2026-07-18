@@ -1,7 +1,7 @@
 {
   "project": "JCL Archive \u2014 dolphins-jcl.netlify.app",
   "source_of_truth": "http://www.johnclilly.com",
-  "current_batch": "P27-complete",
+  "current_batch": "P28-complete",
   "batches": {
     "0": "complete",
     "A": "complete",
@@ -45,7 +45,8 @@
     "P24": "complete",
     "P25": "complete",
     "P26": "complete",
-    "P27": "complete"
+    "P27": "complete",
+    "P28": "complete"
   },
   "pages": {
     "01_99images.html": "partial",
@@ -280,7 +281,7 @@
     "isolation.html": "complete",
     "isolationx.html": "verified",
     "isotank02x.html": "verified",
-    "isotank03.html": "partial",
+    "isotank03.html": "complete",
     "isotank03x.html": "verified",
     "janus00x.html": "complete",
     "janus02x.html": "verified",
@@ -471,11 +472,11 @@
     "spermwhale.html": "verified",
     "stagesx.html": "verified",
     "sunset.html": "partial",
-    "surfacex.html": "partial",
-    "tankclose.html": "partial",
+    "surfacex.html": "complete",
+    "tankclose.html": "complete",
     "tanklogsx.html": "verified",
-    "tankopen.html": "partial",
-    "tanks00.html": "partial",
+    "tankopen.html": "complete",
+    "tanks00.html": "complete",
     "tanks01.html": "verified",
     "tanksketch01.html": "verified",
     "tanksketch02.html": "complete",
@@ -550,7 +551,7 @@
     "yngJL03.html": "complete",
     "yngJL03x.html": "verified"
   },
-  "last_batch_run": "2026-07-14",
-  "last_batch_completed": "P27",
-  "last_updated": "2026-07-14"
+  "last_batch_run": "2026-07-18",
+  "last_batch_completed": "P28",
+  "last_updated": "2026-07-18"
 }
